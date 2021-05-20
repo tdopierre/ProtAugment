@@ -1,0 +1,240 @@
+{"sentence": "fresh list", "label": "lists/createoradd"}
+{"sentence": "tell me the names on the list", "label": "lists/query"}
+{"sentence": "please confirm last thing said.", "label": "general/confirm"}
+{"sentence": "show me today all train times of next two hours at jodhpur to jaisalmer", "label": "transport/query"}
+{"sentence": "check the traffic to our home", "label": "transport/traffic"}
+{"sentence": "inform me of my new emails", "label": "email/query"}
+{"sentence": "compose a new email but i got a new address this time brandon at example dot com", "label": "email/sendemail"}
+{"sentence": "could you check what just said.", "label": "general/confirm"}
+{"sentence": "how long will it take me to get to the west side", "label": "transport/traffic"}
+{"sentence": "remove the list of person starting from letter m in my contact list", "label": "lists/remove"}
+{"sentence": "do i have the contact of tara john", "label": "email/querycontact"}
+{"sentence": "buy a train ticket for one week from now from new york to las vegas nevada", "label": "transport/ticket"}
+{"sentence": "what times do the trains run between here and the met", "label": "transport/query"}
+{"sentence": "places to order takeaway food", "label": "takeaway/order"}
+{"sentence": "what is the traffic today", "label": "transport/traffic"}
+{"sentence": "book a train ticket from canada to las vegas", "label": "transport/ticket"}
+{"sentence": "it's perfect job, musch appreciated, olly.", "label": "general/praise"}
+{"sentence": "that is enough, just cancel it.", "label": "general/commandstop"}
+{"sentence": "can you read me my lists", "label": "lists/query"}
+{"sentence": "it's good one, appreciated.", "label": "general/praise"}
+{"sentence": "thank you very much for reminding me of that.", "label": "general/praise"}
+{"sentence": "i would like to hear the last one you said again.", "label": "general/repeat"}
+{"sentence": "s1, rephrase me further on it please.", "label": "general/explain"}
+{"sentence": "i want you cancel.", "label": "general/commandstop"}
+{"sentence": "again clarify me on your answers please.", "label": "general/explain"}
+{"sentence": "what are the train times from san francisco to new york", "label": "transport/query"}
+{"sentence": "delete the dog list for me", "label": "lists/remove"}
+{"sentence": "save new email addresses to my contacts", "label": "email/addcontact"}
+{"sentence": "train ticket please", "label": "transport/ticket"}
+{"sentence": "do i have any emails from robert", "label": "email/query"}
+{"sentence": "no, this is not what i am looking for.", "label": "general/negate"}
+{"sentence": "please clarify once again.", "label": "general/explain"}
+{"sentence": "how do you make cookies", "label": "cooking/recipe"}
+{"sentence": "order two hamburgers for me", "label": "takeaway/order"}
+{"sentence": "did you get the last thing said correctly?", "label": "general/confirm"}
+{"sentence": "when is the next train leaving for austin", "label": "transport/query"}
+{"sentence": "i would like the recipe for baked chicken", "label": "cooking/recipe"}
+{"sentence": "a priest walks into a bar", "label": "general/joke"}
+{"sentence": "olly can you shut up.", "label": "general/commandstop"}
+{"sentence": "will you stop please.", "label": "general/commandstop"}
+{"sentence": "whats the schedule for today", "label": "lists/query"}
+{"sentence": "tell me mary's cell number", "label": "email/querycontact"}
+{"sentence": "are you aware this joke", "label": "general/joke"}
+{"sentence": "yeap correct response.", "label": "general/affirm"}
+{"sentence": "request an uber now", "label": "transport/taxi"}
+{"sentence": "olly please can you shut off.", "label": "general/commandstop"}
+{"sentence": "can you tell me what the items on my grocery list are", "label": "lists/query"}
+{"sentence": "add email address iamironman@gmail dot com", "label": "email/addcontact"}
+{"sentence": "sorry but that's not the correct response.", "label": "general/negate"}
+{"sentence": "awesome work, you've done well.", "label": "general/praise"}
+{"sentence": "yeap you've understood my instructions perfectly.", "label": "general/affirm"}
+{"sentence": "yeah excellent.", "label": "general/affirm"}
+{"sentence": "send an email to mom subject weather body what is the weather like there this week", "label": "email/sendemail"}
+{"sentence": "how many cups of sugar in texas sheet cake frosting", "label": "cooking/recipe"}
+{"sentence": "i want to know more about this person", "label": "general/quirky"}
+{"sentence": "give me some recipes for sheperds pie", "label": "cooking/recipe"}
+{"sentence": "from wangs kitchen restaurant home delivery for a chicken manchow soup", "label": "takeaway/order"}
+{"sentence": "show me tutorials on cooking food", "label": "cooking/recipe"}
+{"sentence": "that is enough, stop it.", "label": "general/commandstop"}
+{"sentence": "please confirm my last instruction.", "label": "general/confirm"}
+{"sentence": "it's helpful, thank you very much.", "label": "general/praise"}
+{"sentence": "what is the estimated travel time for the train ride to orlando", "label": "transport/query"}
+{"sentence": "what does the traffic look like on my usual route to work", "label": "transport/traffic"}
+{"sentence": "tell funny things", "label": "general/joke"}
+{"sentence": "shit, that isn't what i wanted.", "label": "general/negate"}
+{"sentence": "how was the traffic now", "label": "transport/traffic"}
+{"sentence": "could you confirm what i just said please.", "label": "general/confirm"}
+{"sentence": "i want to make next week's to do list", "label": "lists/createoradd"}
+{"sentence": "that's wrong.", "label": "general/negate"}
+{"sentence": "you've done the command right.", "label": "general/affirm"}
+{"sentence": "whats the traffic density in", "label": "transport/traffic"}
+{"sentence": "let's try what you said one more time again please.", "label": "general/repeat"}
+{"sentence": "do i have any emails from katherine", "label": "email/query"}
+{"sentence": "further explain.", "label": "general/explain"}
+{"sentence": "find a joke in your vault and tell me", "label": "general/joke"}
+{"sentence": "open contacts and call john smith", "label": "email/querycontact"}
+{"sentence": "please call china wok and order number seven", "label": "takeaway/order"}
+{"sentence": "could you elaborate me more on your response please.", "label": "general/explain"}
+{"sentence": "that does not matter for me, olly.", "label": "general/dontcare"}
+{"sentence": "trash the open list google", "label": "lists/remove"}
+{"sentence": "book me a cab going to location", "label": "transport/taxi"}
+{"sentence": "olly would you shut up.", "label": "general/commandstop"}
+{"sentence": "find out if the restaurant does takeaway orders", "label": "takeaway/query"}
+{"sentence": "delete sherlock holmes from library", "label": "lists/remove"}
+{"sentence": "i appreciate it, it is great one, olly.", "label": "general/praise"}
+{"sentence": "make a things to do list", "label": "lists/createoradd"}
+{"sentence": "Is country better today or ten years ago", "label": "general/quirky"}
+{"sentence": "tell me when i get new emails from principal lowry", "label": "email/query"}
+{"sentence": "would you try that instruction said again please.", "label": "general/repeat"}
+{"sentence": "any one would be fine for me.", "label": "general/dontcare"}
+{"sentence": "i think you didn't understand me.", "label": "general/negate"}
+{"sentence": "you can send the email to abc@gmail dot com this is my new email address", "label": "email/sendemail"}
+{"sentence": "tell me the street address of my facebook friend george", "label": "email/querycontact"}
+{"sentence": "what is my daughter's phone number", "label": "email/querycontact"}
+{"sentence": "sorry but it's not the right answer.", "label": "general/negate"}
+{"sentence": "schedule pizza takeout for seven pm", "label": "takeaway/order"}
+{"sentence": "have no idea regarding to what to select, olly.", "label": "general/dontcare"}
+{"sentence": "go to email and send message to", "label": "email/sendemail"}
+{"sentence": "provide what is there on the list", "label": "lists/query"}
+{"sentence": "i do not know.", "label": "general/dontcare"}
+{"sentence": "whats with my dinner order", "label": "takeaway/query"}
+{"sentence": "yes wonderful response to command.", "label": "general/affirm"}
+{"sentence": "checkout top restaurant near me and order shahi panner", "label": "takeaway/order"}
+{"sentence": "add these documents to the things i need to travel with", "label": "lists/createoradd"}
+{"sentence": "i need to set up a new list", "label": "lists/createoradd"}
+{"sentence": "book my chair class ac train ticket from manhattan to new york", "label": "transport/ticket"}
+{"sentence": "does peking garden take orders over the phone", "label": "takeaway/query"}
+{"sentence": "will you replay please.", "label": "general/repeat"}
+{"sentence": "are you happy today", "label": "general/quirky"}
+{"sentence": "olly please stop.", "label": "general/commandstop"}
+{"sentence": "is the road in some particular area wide or narrow", "label": "transport/traffic"}
+{"sentence": "remove the list", "label": "lists/remove"}
+{"sentence": "when does the next train to work leave", "label": "transport/query"}
+{"sentence": "what happened to charlie chaplin", "label": "general/quirky"}
+{"sentence": "anything would be ok with me.", "label": "general/dontcare"}
+{"sentence": "i wanna laugh can you make it happen", "label": "general/joke"}
+{"sentence": "what can i cook with broccoli and chicken", "label": "cooking/recipe"}
+{"sentence": "delete the famous actors list", "label": "lists/remove"}
+{"sentence": "yes strongly agree.", "label": "general/affirm"}
+{"sentence": "add this email to my address book", "label": "email/addcontact"}
+{"sentence": "i want a train ticket to edinburgh", "label": "transport/ticket"}
+{"sentence": "open some cools jokes", "label": "general/joke"}
+{"sentence": "add item", "label": "lists/createoradd"}
+{"sentence": "send an email to my friend say birthday wishes", "label": "email/sendemail"}
+{"sentence": "your answer is not clear.", "label": "general/explain"}
+{"sentence": "you did command perfectly.", "label": "general/affirm"}
+{"sentence": "send an email and save the contact information for samuelwaters@hotmail dot com", "label": "email/addcontact"}
+{"sentence": "do you have a funny joke for me", "label": "general/joke"}
+{"sentence": "can you book a train ticket to berkeley for me", "label": "transport/ticket"}
+{"sentence": "could you make a train ticket for me", "label": "transport/ticket"}
+{"sentence": "today some things happened", "label": "general/quirky"}
+{"sentence": "create a list for the following", "label": "lists/createoradd"}
+{"sentence": "get city cab here to airport", "label": "transport/taxi"}
+{"sentence": "i am sorry but it's not the right answer.", "label": "general/negate"}
+{"sentence": "find me a cheap train ticket for miamy", "label": "transport/ticket"}
+{"sentence": "i need to add a new email to my contacts", "label": "email/sendemail"}
+{"sentence": "order me a cheese burger from tommy's burgers", "label": "takeaway/order"}
+{"sentence": "crockpot recipe for chicken alfredo", "label": "cooking/recipe"}
+{"sentence": "tell me which catering packages are available", "label": "takeaway/query"}
+{"sentence": "search the contact", "label": "email/querycontact"}
+{"sentence": "tell me if the olive garden allows takeaway", "label": "takeaway/query"}
+{"sentence": "i want to hear your last instruction you said again.", "label": "general/repeat"}
+{"sentence": "check email for otp sent by my bank", "label": "email/query"}
+{"sentence": "recipe for meal", "label": "cooking/recipe"}
+{"sentence": "hey please reply to last pawel's email", "label": "email/sendemail"}
+{"sentence": "please will you check my last instruction.", "label": "general/confirm"}
+{"sentence": "i would like it if my robot could engage in deep conversation with me", "label": "general/quirky"}
+{"sentence": "how do i reach sarah", "label": "email/querycontact"}
+{"sentence": "humor me", "label": "general/joke"}
+{"sentence": "have i gotten any new emails from mary", "label": "email/query"}
+{"sentence": "is this my sisters cellphone number", "label": "email/querycontact"}
+{"sentence": "can i get delivery from dominos", "label": "takeaway/query"}
+{"sentence": "please find all name start with alphabetic of g and create a list", "label": "lists/createoradd"}
+{"sentence": "call me a taxi to the airport at five am", "label": "transport/taxi"}
+{"sentence": "does restaurant has home delivery", "label": "takeaway/query"}
+{"sentence": "what is the time train coming from sacramento", "label": "transport/query"}
+{"sentence": "how to make fried rice", "label": "cooking/recipe"}
+{"sentence": "book ola for airport today evening", "label": "transport/taxi"}
+{"sentence": "add new email to my contacts macs@gmail dot com", "label": "email/addcontact"}
+{"sentence": "let us try your last things once more please.", "label": "general/repeat"}
+{"sentence": "search earliest trains to brooklyn ny weekends and holidays", "label": "transport/query"}
+{"sentence": "what is my wife's email", "label": "email/querycontact"}
+{"sentence": "find me a good wine shop that stock old wines like older than ten years navigate me to that shop", "label": "general/quirky"}
+{"sentence": "how do i make meatloaf", "label": "cooking/recipe"}
+{"sentence": "i don't really mind to select any one.", "label": "general/dontcare"}
+{"sentence": "tell me that words spoke again please.", "label": "general/repeat"}
+{"sentence": "s2, i don't get your words.", "label": "general/explain"}
+{"sentence": "Check outlook", "label": "email/query"}
+{"sentence": "what was that one more time.", "label": "general/repeat"}
+{"sentence": "would you speak it one more again please.", "label": "general/repeat"}
+{"sentence": "i need to edit marie jones email address to read", "label": "email/sendemail"}
+{"sentence": "take item off list", "label": "lists/remove"}
+{"sentence": "bingo", "label": "general/quirky"}
+{"sentence": "who is the most frequently called person in my phone book", "label": "email/querycontact"}
+{"sentence": "that doesn't matter for me, olly.", "label": "general/dontcare"}
+{"sentence": "incorrect command.", "label": "general/negate"}
+{"sentence": "id like to get on the next train that will be departing indianapolis headed to chicago", "label": "transport/ticket"}
+{"sentence": "that is unimportant, olly.", "label": "general/dontcare"}
+{"sentence": "did you get it correctly?", "label": "general/confirm"}
+{"sentence": "add new email to anna", "label": "email/addcontact"}
+{"sentence": "delete last item listed", "label": "lists/remove"}
+{"sentence": "call a taxi", "label": "transport/taxi"}
+{"sentence": "i would like to hear what said again.", "label": "general/repeat"}
+{"sentence": "can you just cancel please.", "label": "general/commandstop"}
+{"sentence": "you are helpful, thanks.", "label": "general/praise"}
+{"sentence": "would you check and confirm the details please.", "label": "general/confirm"}
+{"sentence": "give me a traffic update", "label": "transport/traffic"}
+{"sentence": "from where can i get a train ticket for athens", "label": "transport/query"}
+{"sentence": "what you have said was not so clear.", "label": "general/explain"}
+{"sentence": "did i add milk to the shopping list", "label": "lists/query"}
+{"sentence": "open grubhub", "label": "takeaway/order"}
+{"sentence": "you rock, thank you very much, olly.", "label": "general/praise"}
+{"sentence": "tell me what lists i have", "label": "lists/query"}
+{"sentence": "what lists do i have queried", "label": "lists/query"}
+{"sentence": "start a grocery list", "label": "lists/createoradd"}
+{"sentence": "just add a new email in my contacts from michael", "label": "email/addcontact"}
+{"sentence": "whats a good joke", "label": "general/joke"}
+{"sentence": "can you add gloria to my list of clients", "label": "lists/createoradd"}
+{"sentence": "that's good one, olly.", "label": "general/praise"}
+{"sentence": "add a new email address which is", "label": "email/addcontact"}
+{"sentence": "you've got the answer perfectly.", "label": "general/affirm"}
+{"sentence": "find out if the olive garden will let me do takeaway", "label": "takeaway/query"}
+{"sentence": "yeap good.", "label": "general/affirm"}
+{"sentence": "oops, you did not get me.", "label": "general/negate"}
+{"sentence": "send a reply to mike with the answer four hundred and thirty from his email he sent this morning", "label": "email/sendemail"}
+{"sentence": "when i get home can you please order a pizza", "label": "takeaway/order"}
+{"sentence": "what on my play list", "label": "lists/query"}
+{"sentence": "what would be the a perfectly nutritionally balanced meal for dinner", "label": "general/quirky"}
+{"sentence": "would you check the details please.", "label": "general/confirm"}
+{"sentence": "whats the traffic like near ypsilanti", "label": "transport/traffic"}
+{"sentence": "check the status of my order", "label": "takeaway/query"}
+{"sentence": "find an uber driver available for tonight after ten pm", "label": "transport/taxi"}
+{"sentence": "i need a taxi to pick me up at the house and take me downtown", "label": "transport/taxi"}
+{"sentence": "i need a cab in thirty minutes", "label": "transport/taxi"}
+{"sentence": "find hotel order food name", "label": "takeaway/order"}
+{"sentence": "please tell me how can I remove the item", "label": "lists/remove"}
+{"sentence": "bring me ticket of train to city leeds", "label": "transport/ticket"}
+{"sentence": "do not really care.", "label": "general/dontcare"}
+{"sentence": "you are chatbot", "label": "general/quirky"}
+{"sentence": "get me to my friends list", "label": "lists/query"}
+{"sentence": "wait, you've understood me not right.", "label": "general/negate"}
+{"sentence": "crack a joke", "label": "general/joke"}
+{"sentence": "what is happening to my order", "label": "takeaway/query"}
+{"sentence": "please place my new email address to the contact", "label": "email/addcontact"}
+{"sentence": "are there any accidents on my way to work", "label": "transport/traffic"}
+{"sentence": "hey check emails", "label": "email/query"}
+{"sentence": "send email to daddy i'll be going to the birthday party", "label": "email/sendemail"}
+{"sentence": "olly that is all, cancel.", "label": "general/commandstop"}
+{"sentence": "read email", "label": "email/query"}
+{"sentence": "open lyft", "label": "transport/taxi"}
+{"sentence": "can you give me train times for ann arbor", "label": "transport/query"}
+{"sentence": "i don't mind for whatever.", "label": "general/dontcare"}
+{"sentence": "please add a new email in my contacts from sara", "label": "email/addcontact"}
+{"sentence": "yes wonderful response.", "label": "general/affirm"}
+{"sentence": "i like you to check and confirm what i said please.", "label": "general/confirm"}
+{"sentence": "remove grocery list", "label": "lists/remove"}
+{"sentence": "s1, can you please again rephrase to me.", "label": "general/explain"}
+{"sentence": "new messages", "label": "email/query"}
+{"sentence": "that was cool,, olly.", "label": "general/praise"}
+{"sentence": "will you further elaborate me on it please.", "label": "general/explain"}

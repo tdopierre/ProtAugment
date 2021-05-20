@@ -1,0 +1,1928 @@
+{"sentence": "clear everything from the calendar", "label": "calendar/remove"}
+{"sentence": "put my brother's birthday in my calendar for july fourth", "label": "calendar/set"}
+{"sentence": "read me the most updated news on bbc", "label": "news/query"}
+{"sentence": "i wish this event to be removed from my calendar", "label": "calendar/remove"}
+{"sentence": "turn the volume off", "label": "audio/volume_mute"}
+{"sentence": "can you tell me what's on the schedule for tomorrow", "label": "calendar/query"}
+{"sentence": "i would like to order takeaway", "label": "takeaway/order"}
+{"sentence": "what are the pending reminder for today evening", "label": "calendar/query"}
+{"sentence": "how much longer until my pizza will be here", "label": "takeaway/query"}
+{"sentence": "order the usual from turiellos pizza", "label": "takeaway/order"}
+{"sentence": "can you search trump", "label": "news/query"}
+{"sentence": "please adjust the speakers to a lower more comfortable level", "label": "audio/volume_down"}
+{"sentence": "i have a meeting at noon today", "label": "calendar/set"}
+{"sentence": "order from dominos", "label": "takeaway/order"}
+{"sentence": "is fongs dine in only", "label": "takeaway/query"}
+{"sentence": "what is the temperature i am supposed to cook this lasagna at", "label": "cooking/recipe"}
+{"sentence": "what are the news notification", "label": "news/query"}
+{"sentence": "should i take my raincoat with me now", "label": "weather/query"}
+{"sentence": "tell me what's happening this week", "label": "calendar/query"}
+{"sentence": "what do i need to make lamb pathia", "label": "cooking/recipe"}
+{"sentence": "do i have a dentist appointment on monday morning", "label": "calendar/query"}
+{"sentence": "can they do delivery", "label": "takeaway/query"}
+{"sentence": "erase my whole calendar", "label": "calendar/remove"}
+{"sentence": "get recipe for making a hotdog", "label": "cooking/recipe"}
+{"sentence": "what time do i work tomorrow", "label": "calendar/query"}
+{"sentence": "turn up the sound", "label": "audio/volume_up"}
+{"sentence": "tell me the weather for this week", "label": "weather/query"}
+{"sentence": "order spaghetti from spaghetti warehouse to bring home", "label": "takeaway/order"}
+{"sentence": "what will the weather be like in austin on march sixteenth", "label": "weather/query"}
+{"sentence": "i need to order some food from papa john's", "label": "takeaway/order"}
+{"sentence": "set mute for twenty minutes", "label": "audio/volume_mute"}
+{"sentence": "please increase the volume to maximum", "label": "audio/volume_up"}
+{"sentence": "repeat reminder for my schedule for christmas", "label": "calendar/set"}
+{"sentence": "decrease twenty percent", "label": "audio/volume_down"}
+{"sentence": "let's go through all pending reminders", "label": "calendar/query"}
+{"sentence": "how is the news in ireland", "label": "news/query"}
+{"sentence": "add valia's wedding the next saturday at eight o clock", "label": "calendar/set"}
+{"sentence": "please tell me the latest news about the election scenario in our state", "label": "news/query"}
+{"sentence": "please clear my calendar", "label": "calendar/remove"}
+{"sentence": "mute yourself until five pm", "label": "audio/volume_mute"}
+{"sentence": "go silent until three pm", "label": "audio/volume_mute"}
+{"sentence": "remind me to eat when i get home", "label": "calendar/set"}
+{"sentence": "today's schedule", "label": "calendar/query"}
+{"sentence": "please stop talking", "label": "audio/volume_mute"}
+{"sentence": "does that restaurant deliver", "label": "takeaway/query"}
+{"sentence": "The latest climate and weather news", "label": "news/query"}
+{"sentence": "what is the plan for tonight", "label": "calendar/query"}
+{"sentence": "do i need to wear sunscreen today", "label": "weather/query"}
+{"sentence": "where can i get a shot of tequila and some to go mexican food", "label": "takeaway/query"}
+{"sentence": "does this place do takeaway", "label": "takeaway/query"}
+{"sentence": "get louder", "label": "audio/volume_up"}
+{"sentence": "order a ham and cheese sandwich from subway", "label": "takeaway/order"}
+{"sentence": "erase my appointment on the twelfth from my calendar", "label": "calendar/remove"}
+{"sentence": "look for different recipes", "label": "cooking/recipe"}
+{"sentence": "tell the golden fork that i want their fish risotto delivered", "label": "takeaway/order"}
+{"sentence": "call the nearest pizza place that offers buffalo pizza", "label": "takeaway/order"}
+{"sentence": "silence please", "label": "audio/volume_mute"}
+{"sentence": "take lunch meeting off my calendar", "label": "calendar/remove"}
+{"sentence": "how do i prepare all my food for cooking", "label": "cooking/recipe"}
+{"sentence": "please do not speak", "label": "audio/volume_mute"}
+{"sentence": "is there any event today in my calendar", "label": "calendar/query"}
+{"sentence": "how long until my order arrives", "label": "takeaway/query"}
+{"sentence": "do not make any noise until morning alarm", "label": "audio/volume_mute"}
+{"sentence": "give me options for indian carryout under dollars", "label": "takeaway/order"}
+{"sentence": "confirm that my notification is set to remind me when i leave", "label": "calendar/query"}
+{"sentence": "how do i deglaze a pan", "label": "cooking/recipe"}
+{"sentence": "what is the temperature", "label": "weather/query"}
+{"sentence": "how do i cook a meatloaf", "label": "cooking/recipe"}
+{"sentence": "i want to order some chinese food tonight what's delivering to me", "label": "takeaway/order"}
+{"sentence": "what do i have next to do", "label": "calendar/query"}
+{"sentence": "tell me the top stories in the news", "label": "news/query"}
+{"sentence": "could you please lower your volume", "label": "audio/volume_down"}
+{"sentence": "what day of the week is my birthday this year", "label": "calendar/query"}
+{"sentence": "please set reminder", "label": "calendar/set"}
+{"sentence": "when is the next office meeting", "label": "calendar/query"}
+{"sentence": "add running to my calendar for thursday", "label": "calendar/set"}
+{"sentence": "the volume of the music playing now should be raised", "label": "audio/volume_up"}
+{"sentence": "cancel all meetings for today", "label": "calendar/remove"}
+{"sentence": "schedule a reminder on fifteenth march and input name as meeting", "label": "calendar/set"}
+{"sentence": "do you serve for home delivery", "label": "takeaway/query"}
+{"sentence": "add event book club debbie's house wednesday night", "label": "calendar/set"}
+{"sentence": "cook me some oats", "label": "cooking/recipe"}
+{"sentence": "let me know of the meeting on tuesday", "label": "calendar/set"}
+{"sentence": "meeting update my calendar to reflect meeting", "label": "calendar/set"}
+{"sentence": "how will be the weather at night", "label": "weather/query"}
+{"sentence": "what is new", "label": "news/query"}
+{"sentence": "free home delivery", "label": "takeaway/order"}
+{"sentence": "i want to order some food", "label": "takeaway/order"}
+{"sentence": "are there any events schedule for this week", "label": "calendar/query"}
+{"sentence": "is summer going on", "label": "weather/query"}
+{"sentence": "make the volume lower", "label": "audio/volume_down"}
+{"sentence": "what is the current temperature outside", "label": "weather/query"}
+{"sentence": "are there any takeaways around here", "label": "takeaway/query"}
+{"sentence": "how do i make mashed potatoes", "label": "cooking/recipe"}
+{"sentence": "turn the volume down", "label": "audio/volume_down"}
+{"sentence": "does panda garden deliver", "label": "takeaway/query"}
+{"sentence": "current status of take out order", "label": "takeaway/query"}
+{"sentence": "is it going to rain in seattle today", "label": "weather/query"}
+{"sentence": "mute the settings", "label": "audio/volume_mute"}
+{"sentence": "how about some pizza tonight can you please order a pepperoni large", "label": "takeaway/order"}
+{"sentence": "mute the speakers", "label": "audio/volume_mute"}
+{"sentence": "is it snowing in california", "label": "weather/query"}
+{"sentence": "need information about events before shift ends", "label": "calendar/query"}
+{"sentence": "what is the cooking time for mashed potatoes", "label": "cooking/recipe"}
+{"sentence": "do the restaurant deliver", "label": "takeaway/query"}
+{"sentence": "how to make sausage", "label": "cooking/recipe"}
+{"sentence": "find a recipe that uses ground beef and zucchini", "label": "cooking/recipe"}
+{"sentence": "schedule meeting with laura", "label": "calendar/set"}
+{"sentence": "when did i place my order and what was the projected time it would take", "label": "takeaway/query"}
+{"sentence": "is there a chili cookoff this weekend", "label": "calendar/query"}
+{"sentence": "up", "label": "audio/volume_up"}
+{"sentence": "is the birthday event on fifteenth of this month true", "label": "calendar/query"}
+{"sentence": "what's happening with the hurricane in the gulf", "label": "news/query"}
+{"sentence": "how warm is it in columbus ohio", "label": "weather/query"}
+{"sentence": "can you mute when i am not home", "label": "audio/volume_mute"}
+{"sentence": "please order me lo mein and egg rolls from panda express now", "label": "takeaway/order"}
+{"sentence": "newest world news", "label": "news/query"}
+{"sentence": "find the nearest olive garden that has take out service", "label": "takeaway/order"}
+{"sentence": "are there any meetings set for next wednesday", "label": "calendar/query"}
+{"sentence": "what is the temperature today", "label": "weather/query"}
+{"sentence": "mute for twenty minutes", "label": "audio/volume_mute"}
+{"sentence": "lower your volume please", "label": "audio/volume_down"}
+{"sentence": "recipe for crabmeat", "label": "cooking/recipe"}
+{"sentence": "add newscast time to daily schedule", "label": "news/query"}
+{"sentence": "how is it outside today", "label": "weather/query"}
+{"sentence": "i want the speakers turned up high", "label": "audio/volume_up"}
+{"sentence": "lower volume by fifty percent", "label": "audio/volume_down"}
+{"sentence": "search for gluten free menus", "label": "cooking/recipe"}
+{"sentence": "fast me the news of academy awards", "label": "news/query"}
+{"sentence": "remember i've ordered a cake for tonight's birthday party let me know the status please", "label": "takeaway/query"}
+{"sentence": "on Tuesday what is the weather supposed to be", "label": "weather/query"}
+{"sentence": "will you please mute my speakers", "label": "audio/volume_mute"}
+{"sentence": "made media volume louder", "label": "audio/volume_up"}
+{"sentence": "tell me if there are any events from three to five", "label": "calendar/query"}
+{"sentence": "check for recent news stories on msnbc", "label": "news/query"}
+{"sentence": "erase events", "label": "calendar/remove"}
+{"sentence": "mute please", "label": "audio/volume_mute"}
+{"sentence": "it looks sunny and clear today is that true", "label": "weather/query"}
+{"sentence": "give me the headlines from sky news", "label": "news/query"}
+{"sentence": "am i available at five pm on sunday", "label": "calendar/query"}
+{"sentence": "remove upcoming task", "label": "calendar/remove"}
+{"sentence": "order two medium cheese and one medium pepperoni pizza from dominoes", "label": "takeaway/order"}
+{"sentence": "will arby's offer takeaway", "label": "takeaway/query"}
+{"sentence": "please mute for five minutes", "label": "audio/volume_mute"}
+{"sentence": "how many millilitres is two table spoons", "label": "cooking/recipe"}
+{"sentence": "how can we prepare biriyani", "label": "cooking/recipe"}
+{"sentence": "is there any new environmental news", "label": "news/query"}
+{"sentence": "i need everything deleted from calendar please", "label": "calendar/remove"}
+{"sentence": "is there a takeaway in chipotle restaurant", "label": "takeaway/query"}
+{"sentence": "schedule pizza takeout for seven pm", "label": "takeaway/order"}
+{"sentence": "remove birthday party", "label": "calendar/remove"}
+{"sentence": "grubhub order", "label": "takeaway/order"}
+{"sentence": "can you order me takeout", "label": "takeaway/order"}
+{"sentence": "recipe please", "label": "cooking/recipe"}
+{"sentence": "what is the latest news about obamacare", "label": "news/query"}
+{"sentence": "set notification from world news", "label": "news/query"}
+{"sentence": "on third april we will go to watch j llb movie set it", "label": "calendar/set"}
+{"sentence": "what's happening in news express", "label": "news/query"}
+{"sentence": "check on the delivery of my current order", "label": "takeaway/query"}
+{"sentence": "what do i have scheduled on july seventh", "label": "calendar/query"}
+{"sentence": "silent mode on for the next three hours", "label": "audio/volume_mute"}
+{"sentence": "what will be the highest temperature in coming week", "label": "weather/query"}
+{"sentence": "i don't want to attend the dinner on march first any more so could you remove it from my agenda", "label": "calendar/remove"}
+{"sentence": "remind me later", "label": "calendar/set"}
+{"sentence": "remove all the events in my calendar", "label": "calendar/remove"}
+{"sentence": "add meet with dave at subway on weber on four april at five pm", "label": "calendar/set"}
+{"sentence": "it's really loud can you please turn the music down", "label": "audio/volume_down"}
+{"sentence": "order a pizza with sausage from domino's", "label": "takeaway/order"}
+{"sentence": "will I need a raincoat when I go to glasgow on sunday", "label": "weather/query"}
+{"sentence": "what is the current weather conditions in chicago illinois", "label": "weather/query"}
+{"sentence": "place an order for a combo platter from china buffet", "label": "takeaway/order"}
+{"sentence": "show todays reminders", "label": "calendar/query"}
+{"sentence": "does john's pizza have takeaway", "label": "takeaway/query"}
+{"sentence": "keep quiet", "label": "audio/volume_mute"}
+{"sentence": "when i will get the delivery", "label": "takeaway/query"}
+{"sentence": "read me the front page of the new york times", "label": "news/query"}
+{"sentence": "raise the volume of the current music", "label": "audio/volume_up"}
+{"sentence": "how can i cook pasta", "label": "cooking/recipe"}
+{"sentence": "when is my takeaway arriving", "label": "takeaway/query"}
+{"sentence": "i need to hear sound on my speakers", "label": "audio/volume_up"}
+{"sentence": "delete the monthly recurring team meeting till june", "label": "calendar/remove"}
+{"sentence": "let me know about upcoming events", "label": "calendar/query"}
+{"sentence": "please delete next meeting with rajesh", "label": "calendar/remove"}
+{"sentence": "mute", "label": "audio/volume_mute"}
+{"sentence": "search schedules for this week", "label": "calendar/query"}
+{"sentence": "how is president's trump office proceeding", "label": "news/query"}
+{"sentence": "delete event for tuesday", "label": "calendar/remove"}
+{"sentence": "does the restaurant have carryout", "label": "takeaway/query"}
+{"sentence": "change my music player volume to eighty percent", "label": "audio/volume_up"}
+{"sentence": "is it going to snow", "label": "weather/query"}
+{"sentence": "i am busy tomorrow so delete all calendar events", "label": "calendar/remove"}
+{"sentence": "what's the news from source", "label": "news/query"}
+{"sentence": "mute enabled until i say so", "label": "audio/volume_mute"}
+{"sentence": "please change the volume low of the speakers", "label": "audio/volume_down"}
+{"sentence": "delete all of my appointments with dr smith this week", "label": "calendar/remove"}
+{"sentence": "can you tell me a latest news", "label": "news/query"}
+{"sentence": "what are today's headlines", "label": "news/query"}
+{"sentence": "olly schedule a news update for tomorrow morning at seven am", "label": "news/query"}
+{"sentence": "are there any events on my calendar for this week", "label": "calendar/query"}
+{"sentence": "louder", "label": "audio/volume_up"}
+{"sentence": "i would like it to be able to find recipes i have", "label": "cooking/recipe"}
+{"sentence": "can i order take out from licari's", "label": "takeaway/order"}
+{"sentence": "does pings have takeaway", "label": "takeaway/query"}
+{"sentence": "what the sexiest food to cook on a date", "label": "cooking/recipe"}
+{"sentence": "i have a meeting with al on march twenty first at ten", "label": "calendar/set"}
+{"sentence": "please remove the appointment which i have made with mrjim", "label": "calendar/remove"}
+{"sentence": "does charley's steakhouse deliver", "label": "takeaway/query"}
+{"sentence": "is anything different today about blank", "label": "news/query"}
+{"sentence": "can you tell me on tuesday to give jane a call", "label": "calendar/set"}
+{"sentence": "clear my schedule for today", "label": "calendar/remove"}
+{"sentence": "does brick grill deliver", "label": "takeaway/query"}
+{"sentence": "find out if the olive garden will let me do takeaway", "label": "takeaway/query"}
+{"sentence": "does pf changs do takeout", "label": "takeaway/query"}
+{"sentence": "please delete my lunch date from the march twenty third schedule", "label": "calendar/remove"}
+{"sentence": "get me a turkey jimmy johns sub and set it to be delivered at five pm tonight", "label": "takeaway/order"}
+{"sentence": "turn up media volume", "label": "audio/volume_up"}
+{"sentence": "find a pizza restaurant open until noon", "label": "takeaway/query"}
+{"sentence": "unmute my sound", "label": "audio/volume_up"}
+{"sentence": "show me rediff masala", "label": "news/query"}
+{"sentence": "what's the best way to cook pasta", "label": "cooking/recipe"}
+{"sentence": "when is my food going to be here", "label": "takeaway/query"}
+{"sentence": "set a calendar event to repeat yearly on this date", "label": "calendar/set"}
+{"sentence": "add jim and jerry to event", "label": "calendar/set"}
+{"sentence": "do i have a date for tonight", "label": "calendar/query"}
+{"sentence": "did you add tomorrow's meeting to my calendar", "label": "calendar/query"}
+{"sentence": "order a pizza from pizza express", "label": "takeaway/order"}
+{"sentence": "learn to cut potatoes correctly", "label": "cooking/recipe"}
+{"sentence": "mute the audio", "label": "audio/volume_mute"}
+{"sentence": "softer", "label": "audio/volume_down"}
+{"sentence": "please be silent until i tell you not to be", "label": "audio/volume_mute"}
+{"sentence": "what's my next events", "label": "calendar/query"}
+{"sentence": "what is the weather this friday", "label": "weather/query"}
+{"sentence": "i needed to prepare for a meeting", "label": "calendar/query"}
+{"sentence": "hey order a pizza pie with extra cheese", "label": "takeaway/order"}
+{"sentence": "adjust media volume up", "label": "audio/volume_up"}
+{"sentence": "how is the weather down in orange tx", "label": "weather/query"}
+{"sentence": "can you turn up the volume", "label": "audio/volume_up"}
+{"sentence": "what day is this event scheduled for", "label": "calendar/query"}
+{"sentence": "does vocelli's do takeaway", "label": "takeaway/query"}
+{"sentence": "was my meeting today rescheduled", "label": "calendar/query"}
+{"sentence": "please delete all meetings of today after seven pm", "label": "calendar/remove"}
+{"sentence": "status of take away", "label": "takeaway/query"}
+{"sentence": "does olive garden have take out", "label": "takeaway/query"}
+{"sentence": "most rated delivery options for chinese food", "label": "takeaway/query"}
+{"sentence": "can you turn up your volume", "label": "audio/volume_up"}
+{"sentence": "what will the weather be like this week", "label": "weather/query"}
+{"sentence": "quiet", "label": "audio/volume_mute"}
+{"sentence": "schedule my meeting with my girlfriend lisa in the night today at nine pm", "label": "calendar/set"}
+{"sentence": "give me the best pizza deals offered today", "label": "takeaway/order"}
+{"sentence": "is the last order is ready", "label": "takeaway/query"}
+{"sentence": "take note of today as my first date with bob", "label": "calendar/set"}
+{"sentence": "is is taco o'clock yet", "label": "takeaway/order"}
+{"sentence": "set to mute", "label": "audio/volume_mute"}
+{"sentence": "i would like to mute the speakers please", "label": "audio/volume_mute"}
+{"sentence": "delete appointment at time", "label": "calendar/remove"}
+{"sentence": "increase the volume to fifty", "label": "audio/volume_up"}
+{"sentence": "what is happening in the world right now", "label": "news/query"}
+{"sentence": "i've cancelled the order placed at mcd did it go through", "label": "takeaway/query"}
+{"sentence": "set generic calendar event for next saturday at ten am", "label": "calendar/set"}
+{"sentence": "headlines from dhaka tribune", "label": "news/query"}
+{"sentence": "i need sport's news", "label": "news/query"}
+{"sentence": "what does rice wine go with", "label": "cooking/recipe"}
+{"sentence": "how do i cook rice", "label": "cooking/recipe"}
+{"sentence": "can you set a reminder for wednesday at one pm for my meeting", "label": "calendar/set"}
+{"sentence": "please turn up the volume", "label": "audio/volume_up"}
+{"sentence": "what do i have to do today", "label": "calendar/remove"}
+{"sentence": "please increase the volume of the current song", "label": "audio/volume_up"}
+{"sentence": "place order for usual burritto at chipolte", "label": "takeaway/order"}
+{"sentence": "what ingredient can be used instead of saffron", "label": "cooking/recipe"}
+{"sentence": "get recipe for apple pie", "label": "cooking/recipe"}
+{"sentence": "please delete all meeting after seven am", "label": "calendar/remove"}
+{"sentence": "takeaway status", "label": "takeaway/query"}
+{"sentence": "how do i make tuna casserole from scratch", "label": "cooking/recipe"}
+{"sentence": "open calendar schedule event meeting", "label": "calendar/set"}
+{"sentence": "do i have any calendar events this month", "label": "calendar/query"}
+{"sentence": "can you place the sound on mute", "label": "audio/volume_mute"}
+{"sentence": "set rotating event", "label": "calendar/set"}
+{"sentence": "raise your volume", "label": "audio/volume_up"}
+{"sentence": "raise volume", "label": "audio/volume_up"}
+{"sentence": "i need to set up a meeting with the ceo tomorrow", "label": "calendar/set"}
+{"sentence": "will it snow next week", "label": "weather/query"}
+{"sentence": "what is the difference between bake and broil", "label": "cooking/recipe"}
+{"sentence": "please delete this event", "label": "calendar/remove"}
+{"sentence": "hey turn on your reminders for tomorrow's meeting at ten am", "label": "calendar/set"}
+{"sentence": "turn down the volume", "label": "audio/volume_down"}
+{"sentence": "delete all scheduled events", "label": "calendar/remove"}
+{"sentence": "stay quiet", "label": "audio/volume_mute"}
+{"sentence": "please turn the volume to the loudest setting", "label": "audio/volume_up"}
+{"sentence": "please increase the volume", "label": "audio/volume_up"}
+{"sentence": "do i have any meetings on friday's afternoon", "label": "calendar/query"}
+{"sentence": "erase calendar events", "label": "calendar/remove"}
+{"sentence": "weather like", "label": "weather/query"}
+{"sentence": "please do not answer", "label": "audio/volume_mute"}
+{"sentence": "remind me about my anniversary in one day advance", "label": "calendar/set"}
+{"sentence": "call me for this meeting", "label": "calendar/set"}
+{"sentence": "how to cook that meal", "label": "cooking/recipe"}
+{"sentence": "raise the volume of the speakers", "label": "audio/volume_up"}
+{"sentence": "is it a soft evening tonight", "label": "weather/query"}
+{"sentence": "best energy food for gym", "label": "cooking/recipe"}
+{"sentence": "tell me how to make tacos", "label": "cooking/recipe"}
+{"sentence": "order two hamburgers for me", "label": "takeaway/order"}
+{"sentence": "what is the best way to cook pasta al dente", "label": "cooking/recipe"}
+{"sentence": "tell me about this week's weather", "label": "weather/query"}
+{"sentence": "order a large pan pizza with ham and mushrooms from pizza hut", "label": "takeaway/order"}
+{"sentence": "mute speakers please", "label": "audio/volume_mute"}
+{"sentence": "dea guam prescription drug abuse on the rise", "label": "news/query"}
+{"sentence": "crockpot recipe for chicken alfredo", "label": "cooking/recipe"}
+{"sentence": "what is the weather going to be like on march twentieth two thousand and seventeen", "label": "weather/query"}
+{"sentence": "mute volume now", "label": "audio/volume_mute"}
+{"sentence": "do i have a doctors appointment today", "label": "calendar/query"}
+{"sentence": "do i need to take an umbrella today", "label": "weather/query"}
+{"sentence": "what is weather today", "label": "weather/query"}
+{"sentence": "how long do i roast chicken breasts", "label": "cooking/recipe"}
+{"sentence": "is there any program for tomorrow evening", "label": "calendar/query"}
+{"sentence": "what is my next reminder", "label": "calendar/query"}
+{"sentence": "latest news", "label": "news/query"}
+{"sentence": "raise volume to level seven on music player", "label": "audio/volume_up"}
+{"sentence": "i want to order some pizza", "label": "takeaway/order"}
+{"sentence": "please delete all calendar events", "label": "calendar/remove"}
+{"sentence": "don't talk", "label": "audio/volume_mute"}
+{"sentence": "is there a way to clear my calendar", "label": "calendar/remove"}
+{"sentence": "i want volume on my speakers", "label": "audio/volume_up"}
+{"sentence": "can you give me the latest sports news", "label": "news/query"}
+{"sentence": "whether it would be sunny in califonia", "label": "weather/query"}
+{"sentence": "what do i need to make pot roast", "label": "cooking/recipe"}
+{"sentence": "turn up volume", "label": "audio/volume_up"}
+{"sentence": "does dominos deliver", "label": "takeaway/query"}
+{"sentence": "what meetings do i have between eight ten today", "label": "calendar/query"}
+{"sentence": "do i have to bring umbrella for tonight party", "label": "weather/query"}
+{"sentence": "remove sample meeting from calendar app", "label": "calendar/remove"}
+{"sentence": "find a recipe for chicken alfredo", "label": "cooking/recipe"}
+{"sentence": "please reduce the speaker volume", "label": "audio/volume_down"}
+{"sentence": "what's happening in the news", "label": "news/query"}
+{"sentence": "please remind me that i have a meeting tomorrow ten in the morning", "label": "calendar/set"}
+{"sentence": "how much time it will take to prepare the order", "label": "takeaway/query"}
+{"sentence": "erase next calendar event", "label": "calendar/remove"}
+{"sentence": "call the nearest thai restaurant with delivery", "label": "takeaway/order"}
+{"sentence": "set a reminder alert for saturday nine am towards payment of electricity bill", "label": "calendar/set"}
+{"sentence": "please clear jeff's birthday from the calendar", "label": "calendar/remove"}
+{"sentence": "erase that from my calendar", "label": "calendar/remove"}
+{"sentence": "can i get takeaway from arby's", "label": "takeaway/query"}
+{"sentence": "place order of one pizza", "label": "takeaway/order"}
+{"sentence": "give me the winning numbers to the powerball lottery", "label": "news/query"}
+{"sentence": "cancel the event valentine's day from the calendar", "label": "calendar/remove"}
+{"sentence": "how is weather on such and such day", "label": "weather/query"}
+{"sentence": "format the calendar", "label": "calendar/remove"}
+{"sentence": "where is my food", "label": "takeaway/query"}
+{"sentence": "please advise what the current news is on fox news", "label": "news/query"}
+{"sentence": "make the volume to zero", "label": "audio/volume_mute"}
+{"sentence": "cancel business meeting on wednesday", "label": "calendar/remove"}
+{"sentence": "find food and order", "label": "takeaway/order"}
+{"sentence": "order a medium pizza with pepperoni and bacon on its", "label": "takeaway/order"}
+{"sentence": "how's the weather like in beijing", "label": "weather/query"}
+{"sentence": "can you pull up a recipe for spaghetti", "label": "cooking/recipe"}
+{"sentence": "does pings do takeaway", "label": "takeaway/query"}
+{"sentence": "current news cnn", "label": "news/query"}
+{"sentence": "what do you use to make cookies", "label": "cooking/recipe"}
+{"sentence": "set meeting with the ceo tomorrow", "label": "calendar/set"}
+{"sentence": "hi i want to order fried chick with white sauce", "label": "takeaway/order"}
+{"sentence": "give me the morning news", "label": "news/query"}
+{"sentence": "cut off noise", "label": "audio/volume_mute"}
+{"sentence": "mute for fifteen minutes", "label": "audio/volume_mute"}
+{"sentence": "delete all appointments for tomorrow", "label": "calendar/remove"}
+{"sentence": "is there any chances of rain this week", "label": "weather/query"}
+{"sentence": "get latest news report on kidnapping in ny", "label": "news/query"}
+{"sentence": "get me the latest on current events going on in the world", "label": "news/query"}
+{"sentence": "show me future events", "label": "calendar/query"}
+{"sentence": "what ingredient can be used to replace white wine", "label": "cooking/recipe"}
+{"sentence": "i can't hear you speak up", "label": "audio/volume_up"}
+{"sentence": "dismiss my next event", "label": "calendar/remove"}
+{"sentence": "can you turn the volume up", "label": "audio/volume_up"}
+{"sentence": "what are the results of the election", "label": "news/query"}
+{"sentence": "make a calendar entry for next saturday at ten am please", "label": "calendar/set"}
+{"sentence": "erase all content in my calendar", "label": "calendar/remove"}
+{"sentence": "what's the exact time we get food delivered once we place an order for food", "label": "takeaway/query"}
+{"sentence": "i want to order food", "label": "takeaway/order"}
+{"sentence": "sound off please", "label": "audio/volume_mute"}
+{"sentence": "does this restaurant only do carryout", "label": "takeaway/query"}
+{"sentence": "does pf changs accept takeout orders", "label": "takeaway/query"}
+{"sentence": "i need you to mark next monday", "label": "calendar/set"}
+{"sentence": "please pause yourself", "label": "audio/volume_mute"}
+{"sentence": "economic affairs", "label": "news/query"}
+{"sentence": "event remove", "label": "calendar/remove"}
+{"sentence": "have pho send three egg rolls", "label": "takeaway/order"}
+{"sentence": "when the birthday will be", "label": "calendar/query"}
+{"sentence": "what is the latest news on sprint", "label": "news/query"}
+{"sentence": "domino's has takeaway right", "label": "takeaway/query"}
+{"sentence": "turn down media volume", "label": "audio/volume_down"}
+{"sentence": "lower volume", "label": "audio/volume_down"}
+{"sentence": "do i have a meeting today", "label": "calendar/query"}
+{"sentence": "what happened yesterday on samurai jack", "label": "news/query"}
+{"sentence": "does mcdonalds do takeaway", "label": "takeaway/query"}
+{"sentence": "what is the best tasting cut of beef", "label": "cooking/recipe"}
+{"sentence": "access latest news", "label": "news/query"}
+{"sentence": "please mute the sound", "label": "audio/volume_mute"}
+{"sentence": "lower the volume", "label": "audio/volume_down"}
+{"sentence": "can you look up chinese takeout near here", "label": "takeaway/order"}
+{"sentence": "list all events and delete", "label": "calendar/remove"}
+{"sentence": "get rid of everything on my calendar", "label": "calendar/remove"}
+{"sentence": "should i wear gloves tonight", "label": "weather/query"}
+{"sentence": "i'm hungry show me some takeaway food", "label": "takeaway/order"}
+{"sentence": "what is in a curry", "label": "cooking/recipe"}
+{"sentence": "it's quiet time", "label": "audio/volume_mute"}
+{"sentence": "please tell me the main points of my two hundred meeting from this afternoon", "label": "calendar/query"}
+{"sentence": "please mute the volume control", "label": "audio/volume_mute"}
+{"sentence": "please clean my calendar", "label": "calendar/remove"}
+{"sentence": "set a thanks giving event for friday", "label": "calendar/set"}
+{"sentence": "when is my order arriving", "label": "takeaway/query"}
+{"sentence": "tell me when i need to leave the airport", "label": "calendar/set"}
+{"sentence": "order a smoked meat platter from beanos", "label": "takeaway/order"}
+{"sentence": "make a meeting with friend", "label": "calendar/set"}
+{"sentence": "show me cooking websites", "label": "cooking/recipe"}
+{"sentence": "show me a video on cooking fried chicken", "label": "cooking/recipe"}
+{"sentence": "how to make fried rice", "label": "cooking/recipe"}
+{"sentence": "when can i pick up my chinese food", "label": "takeaway/query"}
+{"sentence": "when will my chinese food be delivered", "label": "takeaway/query"}
+{"sentence": "turn up the volume", "label": "audio/volume_up"}
+{"sentence": "healthy foods", "label": "cooking/recipe"}
+{"sentence": "remind me about my biology test at fsu on friday", "label": "calendar/set"}
+{"sentence": "does peking garden take orders over the phone", "label": "takeaway/query"}
+{"sentence": "order a double bacon cheeseburger with bacon an white american cheese", "label": "takeaway/order"}
+{"sentence": "places to order takeaway food", "label": "takeaway/order"}
+{"sentence": "remove the doctor's appointment i added to my calendar for february twelfth at nine am", "label": "calendar/remove"}
+{"sentence": "schedule a meeting with reeta today evening at five pm", "label": "calendar/set"}
+{"sentence": "order me a bowl from chipotle takeout", "label": "takeaway/order"}
+{"sentence": "it is very hot today is not it", "label": "weather/query"}
+{"sentence": "is jimmie's party on friday cancelled", "label": "calendar/query"}
+{"sentence": "lessen the speaker volume", "label": "audio/volume_down"}
+{"sentence": "good food", "label": "cooking/recipe"}
+{"sentence": "does my favourite pizza place available for takeaway", "label": "takeaway/query"}
+{"sentence": "when is my takeaway going to get here", "label": "takeaway/query"}
+{"sentence": "march fifth is john's birthday please place this on the calendar", "label": "calendar/set"}
+{"sentence": "what degree is it outside", "label": "weather/query"}
+{"sentence": "open my calendar", "label": "calendar/query"}
+{"sentence": "how much does general tsos chicken cost at peking garden", "label": "takeaway/order"}
+{"sentence": "add lunch appointment with lisa to january second at twelve thirty pm", "label": "calendar/set"}
+{"sentence": "stop making sounds for forty minutes", "label": "audio/volume_mute"}
+{"sentence": "show me my reminders", "label": "calendar/query"}
+{"sentence": "what are the news stories on the cnn website", "label": "news/query"}
+{"sentence": "put an order in for two pizzas from dominoes", "label": "takeaway/order"}
+{"sentence": "can the latest news be pulled up on the latest weather forecast for the week", "label": "news/query"}
+{"sentence": "when do i need to leave to pick up my order", "label": "takeaway/query"}
+{"sentence": "is it sunny in gonbad now", "label": "weather/query"}
+{"sentence": "please mute the television for one hour", "label": "audio/volume_mute"}
+{"sentence": "schedule dinner with sara and jamie", "label": "calendar/set"}
+{"sentence": "can you speak louder", "label": "audio/volume_up"}
+{"sentence": "order pizza from domino's", "label": "takeaway/order"}
+{"sentence": "what is my schedule for june fourteenth two thousand and seventeen", "label": "calendar/query"}
+{"sentence": "delete an first event of twenty third of march twenty seventeen", "label": "calendar/remove"}
+{"sentence": "give me some recipes for sheperds pie", "label": "cooking/recipe"}
+{"sentence": "cancels lunch at the restaurant booked for march twenty five", "label": "calendar/remove"}
+{"sentence": "turn off sound", "label": "audio/volume_mute"}
+{"sentence": "show latest news about migration", "label": "news/query"}
+{"sentence": "please add shopping at mall on twenty six march at twelve pm", "label": "calendar/set"}
+{"sentence": "closest chipotle", "label": "takeaway/order"}
+{"sentence": "please takeaway of giving required of the restaurant", "label": "takeaway/query"}
+{"sentence": "silence for two hours", "label": "audio/volume_mute"}
+{"sentence": "off the speakers", "label": "audio/volume_mute"}
+{"sentence": "can you turn it up a little", "label": "audio/volume_up"}
+{"sentence": "can you remind me about the gym class in two hours", "label": "calendar/set"}
+{"sentence": "unmute the speaker now", "label": "audio/volume_up"}
+{"sentence": "what is the weather update for tuesday", "label": "weather/query"}
+{"sentence": "what are my reminders for this week", "label": "calendar/query"}
+{"sentence": "hey olly make sure my calendar is completely clear tomorrow", "label": "calendar/remove"}
+{"sentence": "find recipe chicken casserole", "label": "cooking/recipe"}
+{"sentence": "pull up the headlines please", "label": "news/query"}
+{"sentence": "i need you to be quiet until tomorrow", "label": "audio/volume_mute"}
+{"sentence": "remove all the events of last month from the calendar", "label": "calendar/remove"}
+{"sentence": "delete all events and content from my calendar", "label": "calendar/remove"}
+{"sentence": "add jane's birthday party at one hundred and twenty three main for two pm tomorrow on my calendar", "label": "calendar/set"}
+{"sentence": "does ming ten do take out", "label": "takeaway/query"}
+{"sentence": "i have a meeting with sean at four pm on wednesday can you remind me", "label": "calendar/set"}
+{"sentence": "the location is my office", "label": "calendar/set"}
+{"sentence": "add my car payment on the twelfth in my calendar", "label": "calendar/set"}
+{"sentence": "remind me to meet joe for lunch tomorrow", "label": "calendar/set"}
+{"sentence": "mute yourself when i am in a meeting", "label": "audio/volume_mute"}
+{"sentence": "order the best priced general tofu in nyack", "label": "takeaway/order"}
+{"sentence": "political news of importance for the day", "label": "news/query"}
+{"sentence": "do i need to pick up the kids from anything today", "label": "calendar/query"}
+{"sentence": "could you please confirm if paradise does takeaway", "label": "takeaway/query"}
+{"sentence": "on the music player set the volume level at sixty", "label": "audio/volume_up"}
+{"sentence": "what is the news today in polk county florida", "label": "news/query"}
+{"sentence": "find me a recipe of spaghetti", "label": "cooking/recipe"}
+{"sentence": "set music system to mute", "label": "audio/volume_mute"}
+{"sentence": "show me this week's forecast", "label": "weather/query"}
+{"sentence": "give me the latest on paul ryan", "label": "news/query"}
+{"sentence": "cooking recipe", "label": "cooking/recipe"}
+{"sentence": "get today's weather report", "label": "weather/query"}
+{"sentence": "how the list of upcoming events", "label": "calendar/query"}
+{"sentence": "what's the recipe for fish soup", "label": "cooking/recipe"}
+{"sentence": "cancel my meeting tomorrow", "label": "calendar/remove"}
+{"sentence": "what is the weather today", "label": "weather/query"}
+{"sentence": "find me the nearest chinese for delivery", "label": "takeaway/order"}
+{"sentence": "what are they saying about donald trump on this topic", "label": "news/query"}
+{"sentence": "are there any tornado warnings today", "label": "weather/query"}
+{"sentence": "i want you to remove this event", "label": "calendar/remove"}
+{"sentence": "what's happened in the news recently", "label": "news/query"}
+{"sentence": "i would like instructions on how to cook baked chicken", "label": "cooking/recipe"}
+{"sentence": "when is my doctor's appointment", "label": "calendar/query"}
+{"sentence": "what should i wear is it cold outside", "label": "weather/query"}
+{"sentence": "turn up volume of music", "label": "audio/volume_up"}
+{"sentence": "remind me to meet with steve at one pm tomorrow", "label": "calendar/set"}
+{"sentence": "can you make it a little quieter", "label": "audio/volume_down"}
+{"sentence": "let me know the recipe for preparing pasta", "label": "cooking/recipe"}
+{"sentence": "speak loudly", "label": "audio/volume_up"}
+{"sentence": "get rid of the first three events in my calendar", "label": "calendar/remove"}
+{"sentence": "set a reminder for twelve thirty meeting with the boss", "label": "calendar/set"}
+{"sentence": "please turn the volume down", "label": "audio/volume_down"}
+{"sentence": "order two cheeseburgers from wings n. ale on university drive", "label": "takeaway/order"}
+{"sentence": "is it going to rain in the next few days in tucson", "label": "weather/query"}
+{"sentence": "its cold outside", "label": "weather/query"}
+{"sentence": "give me the list of all events coming up in the next month and set notifications for all of them", "label": "calendar/set"}
+{"sentence": "flag two day after this day as my holiday", "label": "calendar/set"}
+{"sentence": "activate a one week notification before my anniversary please", "label": "calendar/set"}
+{"sentence": "Please lower the volume", "label": "audio/volume_down"}
+{"sentence": "move the volume up a little", "label": "audio/volume_up"}
+{"sentence": "turn up the volume on my speakers", "label": "audio/volume_up"}
+{"sentence": "please order take from jason's deli", "label": "takeaway/order"}
+{"sentence": "how much snow has fallen in maine since yesterday", "label": "weather/query"}
+{"sentence": "blot me all the phone calls planned for the morning of twenty three march", "label": "calendar/set"}
+{"sentence": "remove events from calendar", "label": "calendar/remove"}
+{"sentence": "what important dates are there in my calendar this month", "label": "calendar/query"}
+{"sentence": "what is my next event", "label": "calendar/query"}
+{"sentence": "what is happening in the world news", "label": "news/query"}
+{"sentence": "please speak quieter to me", "label": "audio/volume_down"}
+{"sentence": "turn off the speakers", "label": "audio/volume_mute"}
+{"sentence": "how do you pan sear a porterhouse steak", "label": "cooking/recipe"}
+{"sentence": "what is the cooking time for boiled eggs", "label": "cooking/recipe"}
+{"sentence": "i'm not doing thing this week", "label": "calendar/remove"}
+{"sentence": "usa today headlines", "label": "news/query"}
+{"sentence": "remind me to pay the electricity bill on this weekend at nine am", "label": "calendar/set"}
+{"sentence": "do i have a party tomorrow save on my calendar", "label": "calendar/query"}
+{"sentence": "what will be the temperature today for miami florida", "label": "weather/query"}
+{"sentence": "send me notice of meeting wednesday nine am", "label": "calendar/set"}
+{"sentence": "new reminder at three pm", "label": "calendar/set"}
+{"sentence": "i can't hear you can you say it again louder", "label": "audio/volume_up"}
+{"sentence": "open the grubhub app so i can order take out", "label": "takeaway/order"}
+{"sentence": "weather report of the week", "label": "weather/query"}
+{"sentence": "when the meeting start", "label": "calendar/query"}
+{"sentence": "tell me if an earthquake happens in the world", "label": "news/query"}
+{"sentence": "silence volume on speakers", "label": "audio/volume_mute"}
+{"sentence": "within the past three months how many meetings did i have with mr richards", "label": "calendar/query"}
+{"sentence": "please keep tabs on how the presidential debates are going", "label": "news/query"}
+{"sentence": "what is latest news about this world", "label": "news/query"}
+{"sentence": "has anything happened to mass effect", "label": "news/query"}
+{"sentence": "open the local news app", "label": "news/query"}
+{"sentence": "remind me of meeting five minutes before time", "label": "calendar/set"}
+{"sentence": "check the events on calendar and delete the next event", "label": "calendar/remove"}
+{"sentence": "can to please clear my calendar of all events", "label": "calendar/remove"}
+{"sentence": "make appointment for next friday", "label": "calendar/set"}
+{"sentence": "change the plan of meeting", "label": "calendar/remove"}
+{"sentence": "open calendar and erase all events for all months", "label": "calendar/remove"}
+{"sentence": "please remind me about the event later five pm", "label": "calendar/set"}
+{"sentence": "how was the weather this week", "label": "weather/query"}
+{"sentence": "what is the weather in utah", "label": "weather/query"}
+{"sentence": "show me what the ingredients are", "label": "cooking/recipe"}
+{"sentence": "what is on the agenda for today", "label": "calendar/query"}
+{"sentence": "please set a reminder for church services on sundays for eleven am", "label": "calendar/set"}
+{"sentence": "can you order me a pizza today from dominos", "label": "takeaway/order"}
+{"sentence": "please turn my speakers on google", "label": "audio/volume_up"}
+{"sentence": "weather this week", "label": "weather/query"}
+{"sentence": "call sarah", "label": "calendar/set"}
+{"sentence": "what is happening to my order", "label": "takeaway/query"}
+{"sentence": "please put me your input to know my schedule", "label": "calendar/set"}
+{"sentence": "find restaurant order food name", "label": "takeaway/order"}
+{"sentence": "cnn world news", "label": "news/query"}
+{"sentence": "hi please remind the next meeting with my boss it will be at eleven am next monday", "label": "calendar/set"}
+{"sentence": "what happened last week", "label": "news/query"}
+{"sentence": "is there any events planned for the next three months", "label": "calendar/query"}
+{"sentence": "please do not talk for thirty minutes", "label": "audio/volume_mute"}
+{"sentence": "alter lunch event to repeat every friday", "label": "calendar/set"}
+{"sentence": "tell me updates", "label": "news/query"}
+{"sentence": "delete from the calendar the next event", "label": "calendar/remove"}
+{"sentence": "tell me about the presidential race", "label": "news/query"}
+{"sentence": "mute speakers", "label": "audio/volume_mute"}
+{"sentence": "i have a meeting tomorrow morning at ten please remind me", "label": "calendar/set"}
+{"sentence": "i want to order a takeaway from papa john's", "label": "takeaway/order"}
+{"sentence": "increase volume to fifty percent", "label": "audio/volume_up"}
+{"sentence": "do you know how to cook risotto", "label": "cooking/recipe"}
+{"sentence": "cancel sam's party", "label": "calendar/remove"}
+{"sentence": "don't respond for fifty seconds", "label": "audio/volume_mute"}
+{"sentence": "rahul marriage reminder", "label": "calendar/query"}
+{"sentence": "i want to know the latest local news of the city", "label": "news/query"}
+{"sentence": "head lines today from news", "label": "news/query"}
+{"sentence": "give me best cooking ideas", "label": "cooking/recipe"}
+{"sentence": "hey i'd like you to order burger", "label": "takeaway/order"}
+{"sentence": "erase my appointment for march seven", "label": "calendar/remove"}
+{"sentence": "turn the vibrate off from speaker", "label": "audio/volume_mute"}
+{"sentence": "open takeout menus", "label": "takeaway/order"}
+{"sentence": "mute all responses now", "label": "audio/volume_mute"}
+{"sentence": "turn off speaker", "label": "audio/volume_mute"}
+{"sentence": "mute the music", "label": "audio/volume_mute"}
+{"sentence": "place an order for two pizzas from dominoes", "label": "takeaway/order"}
+{"sentence": "what's the latest news on donald trump", "label": "news/query"}
+{"sentence": "Show me articles about the new iphone eight", "label": "news/query"}
+{"sentence": "turn down the speakers", "label": "audio/volume_down"}
+{"sentence": "hello i would like to know whether you provide home delivery services", "label": "takeaway/query"}
+{"sentence": "could you speak a little more softly", "label": "audio/volume_up"}
+{"sentence": "from now on mute", "label": "audio/volume_mute"}
+{"sentence": "can you speak quieter please", "label": "audio/volume_down"}
+{"sentence": "do i need to carry umbrella for evening", "label": "weather/query"}
+{"sentence": "make an order for noodles one pack make it as takeaway order", "label": "takeaway/order"}
+{"sentence": "silent", "label": "audio/volume_mute"}
+{"sentence": "i would like the recipe for baked chicken", "label": "cooking/recipe"}
+{"sentence": "is snap doing good after the ipo", "label": "news/query"}
+{"sentence": "it seems cold", "label": "weather/query"}
+{"sentence": "go silent for a day", "label": "audio/volume_mute"}
+{"sentence": "schedule a meeting with al on tuesday", "label": "calendar/set"}
+{"sentence": "what is the current state of brexit negotiations", "label": "news/query"}
+{"sentence": "lower the volume please", "label": "audio/volume_down"}
+{"sentence": "turn off audio", "label": "audio/volume_mute"}
+{"sentence": "what can i substitute butter with", "label": "cooking/recipe"}
+{"sentence": "am i free between six to seven pm", "label": "calendar/query"}
+{"sentence": "food order from grubhub", "label": "takeaway/order"}
+{"sentence": "no speaking please", "label": "audio/volume_mute"}
+{"sentence": "is my order ready", "label": "takeaway/query"}
+{"sentence": "give me the weekly weather near me", "label": "weather/query"}
+{"sentence": "show current news from bbc", "label": "news/query"}
+{"sentence": "please remove dinner date scheduled for this friday at nine pm", "label": "calendar/remove"}
+{"sentence": "remind me after a month", "label": "calendar/set"}
+{"sentence": "get me the latest news in new york", "label": "news/query"}
+{"sentence": "what will the weather be like on saturday", "label": "weather/query"}
+{"sentence": "set a reminder for john's birthday next week", "label": "calendar/set"}
+{"sentence": "can you prepare a cheese sandwich", "label": "cooking/recipe"}
+{"sentence": "meetings from twenty to twenty five june", "label": "calendar/query"}
+{"sentence": "don't talk until i ask you to", "label": "audio/volume_mute"}
+{"sentence": "do i have any pending reminder", "label": "calendar/query"}
+{"sentence": "show me my calendar event this Friday afternoon", "label": "calendar/query"}
+{"sentence": "when and where is june's birthday party", "label": "calendar/query"}
+{"sentence": "remind me to water my plants every tuesday thursday and saturday", "label": "calendar/set"}
+{"sentence": "what type of cheese do i need for my enchiladas", "label": "cooking/recipe"}
+{"sentence": "i am need my hat today", "label": "weather/query"}
+{"sentence": "reset all events in calendar", "label": "calendar/remove"}
+{"sentence": "add event baseball practice five pm tonight", "label": "calendar/set"}
+{"sentence": "show me my meetings this Friday", "label": "calendar/query"}
+{"sentence": "i need to know how to make stuffed peppers", "label": "cooking/recipe"}
+{"sentence": "any recent news about north korea", "label": "news/query"}
+{"sentence": "i need a recipe for spaghetti", "label": "cooking/recipe"}
+{"sentence": "from wangs kitchen restaurant home delivery for a chicken manchow soup", "label": "takeaway/order"}
+{"sentence": "i would like to know the latest from nbc news", "label": "news/query"}
+{"sentence": "latest updates", "label": "news/query"}
+{"sentence": "whats the latest", "label": "news/query"}
+{"sentence": "change the speaker volume to sixty five percent", "label": "audio/volume_up"}
+{"sentence": "do i have enough ingredients in my refrigerator", "label": "cooking/recipe"}
+{"sentence": "please be silent", "label": "audio/volume_mute"}
+{"sentence": "remind me about the meeting", "label": "calendar/set"}
+{"sentence": "please be quiet for another hour", "label": "audio/volume_mute"}
+{"sentence": "can i get takeaway from pings", "label": "takeaway/query"}
+{"sentence": "what meetings are available in march", "label": "calendar/query"}
+{"sentence": "remove all upcoming events please", "label": "calendar/remove"}
+{"sentence": "what is the weather for this week", "label": "weather/query"}
+{"sentence": "can i order take out food at this time", "label": "takeaway/order"}
+{"sentence": "touch the mute button", "label": "audio/volume_mute"}
+{"sentence": "what are the top stories on cnn", "label": "news/query"}
+{"sentence": "what is the forecast for the week", "label": "weather/query"}
+{"sentence": "what are the ingredients in macaroni and cheese", "label": "cooking/recipe"}
+{"sentence": "decrease volume", "label": "audio/volume_down"}
+{"sentence": "set to silent for five minutes", "label": "audio/volume_mute"}
+{"sentence": "i'm in a meeting please do not speak", "label": "audio/volume_mute"}
+{"sentence": "please delete the meeting i have with john tonight", "label": "calendar/remove"}
+{"sentence": "how hot is it in miami", "label": "weather/query"}
+{"sentence": "mute for the next hour please", "label": "audio/volume_mute"}
+{"sentence": "order one burger", "label": "takeaway/order"}
+{"sentence": "what is happening in the world today", "label": "news/query"}
+{"sentence": "what is left for today", "label": "calendar/query"}
+{"sentence": "remind me everyday at two pm for lunch", "label": "calendar/set"}
+{"sentence": "tell the latest news about the trump", "label": "news/query"}
+{"sentence": "put a seven pm meeting time down for march fourteenth", "label": "calendar/set"}
+{"sentence": "quick meals", "label": "cooking/recipe"}
+{"sentence": "unmute after", "label": "audio/volume_up"}
+{"sentence": "google search the topic", "label": "news/query"}
+{"sentence": "how many calories did i burn between three and five today", "label": "calendar/query"}
+{"sentence": "don't make any sounds", "label": "audio/volume_mute"}
+{"sentence": "please see if the restaurant chili's has delivery as an option", "label": "takeaway/query"}
+{"sentence": "i want two burgers and one coke order it fast", "label": "takeaway/order"}
+{"sentence": "silence", "label": "audio/volume_mute"}
+{"sentence": "make my calendar empty", "label": "calendar/remove"}
+{"sentence": "can i carry out with this restaurant", "label": "takeaway/query"}
+{"sentence": "entertainment news", "label": "news/query"}
+{"sentence": "what's it like outside", "label": "weather/query"}
+{"sentence": "i will need a scarf in afternoon to overcome sunlight", "label": "weather/query"}
+{"sentence": "set the speakers to mute", "label": "audio/volume_mute"}
+{"sentence": "remind me about calendar", "label": "calendar/set"}
+{"sentence": "clear up my calendar", "label": "calendar/remove"}
+{"sentence": "speak as loud as you can", "label": "audio/volume_up"}
+{"sentence": "silence for certain amount of hours", "label": "audio/volume_mute"}
+{"sentence": "does chinese deliver", "label": "takeaway/query"}
+{"sentence": "what is the status on my latest order", "label": "takeaway/query"}
+{"sentence": "the meeting with justin and katrina has been changed put it on thursday", "label": "calendar/set"}
+{"sentence": "turn off media volume", "label": "audio/volume_mute"}
+{"sentence": "can you tell me about my meetings next week", "label": "calendar/query"}
+{"sentence": "keep me updated on the election results", "label": "news/query"}
+{"sentence": "i want you to mute", "label": "audio/volume_mute"}
+{"sentence": "cancel all my appointments after three pm today and inform me the details", "label": "calendar/remove"}
+{"sentence": "add event to date", "label": "calendar/set"}
+{"sentence": "is it going to snow tonight", "label": "weather/query"}
+{"sentence": "turn up the volume of my speakers", "label": "audio/volume_up"}
+{"sentence": "i need two pizzas stat", "label": "takeaway/order"}
+{"sentence": "clear off the vet appointment tomorrow", "label": "calendar/remove"}
+{"sentence": "am i gonna need rain boots", "label": "weather/query"}
+{"sentence": "mute for two hours", "label": "audio/volume_mute"}
+{"sentence": "raise speaker volume", "label": "audio/volume_up"}
+{"sentence": "mute the speaker please", "label": "audio/volume_mute"}
+{"sentence": "on every tuesday remind me to go shopping", "label": "calendar/set"}
+{"sentence": "hey call the nearest chinese restaurant for a takeaway", "label": "takeaway/order"}
+{"sentence": "get us spaghetti from pizza hut", "label": "takeaway/order"}
+{"sentence": "order a twelve piece honey mustard wing combo with seasonimg altnon the fries and a sprite as the drink", "label": "takeaway/order"}
+{"sentence": "do i have any appointments scheduled for march twenty four two thousand and seventeen", "label": "calendar/query"}
+{"sentence": "remember to remind me about client meet at four pm", "label": "calendar/set"}
+{"sentence": "can you empty my calendar", "label": "calendar/remove"}
+{"sentence": "please call the golden fork and tell them to deliver one portion of the fish risotto", "label": "takeaway/order"}
+{"sentence": "what's going on between three hundred and thirty and four", "label": "calendar/query"}
+{"sentence": "My weekly plan", "label": "calendar/query"}
+{"sentence": "cancel dentist appointment for this week", "label": "calendar/remove"}
+{"sentence": "please find me the pe most recent news on", "label": "news/query"}
+{"sentence": "lower speaker volume", "label": "audio/volume_down"}
+{"sentence": "delete all the events of today", "label": "calendar/remove"}
+{"sentence": "in my calendar delete all of my golf events for the current month", "label": "calendar/remove"}
+{"sentence": "remind me of this meeting soon", "label": "calendar/set"}
+{"sentence": "decrease the volume", "label": "audio/volume_down"}
+{"sentence": "mute sound on speakers please", "label": "audio/volume_mute"}
+{"sentence": "set a reminder on fifteenth march as meeting", "label": "calendar/set"}
+{"sentence": "can i get delivery from dominos", "label": "takeaway/query"}
+{"sentence": "check the status of my pizza hut order please", "label": "takeaway/query"}
+{"sentence": "will the temperature be higher than forty tomorrow", "label": "weather/query"}
+{"sentence": "when will by order from taco bell be delivered", "label": "takeaway/query"}
+{"sentence": "id like to put in an order for some chinese food with hunan wok", "label": "takeaway/order"}
+{"sentence": "who takes less of duration of time for delivery", "label": "takeaway/query"}
+{"sentence": "will they deliver to me", "label": "takeaway/query"}
+{"sentence": "how much meat should i buy to serve ten people", "label": "cooking/recipe"}
+{"sentence": "remind me at the start of each month", "label": "calendar/set"}
+{"sentence": "does louie's do take out", "label": "takeaway/query"}
+{"sentence": "remove twenty fourth march meeting from schedule", "label": "calendar/remove"}
+{"sentence": "how are things in the world", "label": "news/query"}
+{"sentence": "talk quieter please", "label": "audio/volume_down"}
+{"sentence": "what are meeting scheduled for today", "label": "calendar/query"}
+{"sentence": "what is the seattle city council doing about homelessness", "label": "news/query"}
+{"sentence": "please tell me some international news", "label": "news/query"}
+{"sentence": "i want to mute the speaker", "label": "audio/volume_mute"}
+{"sentence": "order me a cheese burger from tommy's burgers", "label": "takeaway/order"}
+{"sentence": "can you give me a recipe for homemade chicken noodle soup", "label": "cooking/recipe"}
+{"sentence": "increase volume by two levels", "label": "audio/volume_up"}
+{"sentence": "what and how is india's economy at the moment", "label": "news/query"}
+{"sentence": "one thousand two hundred and thirty pm already you will have a meeting in ten mins", "label": "calendar/query"}
+{"sentence": "what is an alternative to flour", "label": "cooking/recipe"}
+{"sentence": "please order some sushi for dinner", "label": "takeaway/order"}
+{"sentence": "remove standup on Friday at ten am", "label": "calendar/remove"}
+{"sentence": "cancel the plan of party", "label": "calendar/remove"}
+{"sentence": "show the method to prepare icecream", "label": "cooking/recipe"}
+{"sentence": "church with mom and dad on sunday", "label": "calendar/set"}
+{"sentence": "call for takeout", "label": "takeaway/order"}
+{"sentence": "does shibaru sushi deliver", "label": "takeaway/query"}
+{"sentence": "please speak up", "label": "audio/volume_up"}
+{"sentence": "down the volume", "label": "audio/volume_down"}
+{"sentence": "events happening between eight am and five pm today", "label": "calendar/query"}
+{"sentence": "hi olly please remove the birthday event on coming sunday", "label": "calendar/remove"}
+{"sentence": "i couldn't hear you repeat that louder", "label": "audio/volume_up"}
+{"sentence": "mute audio", "label": "audio/volume_mute"}
+{"sentence": "please turn the music up", "label": "audio/volume_up"}
+{"sentence": "i want to know how to make a chicken in the oven", "label": "cooking/recipe"}
+{"sentence": "tell me the current weather for danville il", "label": "weather/query"}
+{"sentence": "can you please order some food for me", "label": "takeaway/order"}
+{"sentence": "please delete all my calendar events", "label": "calendar/remove"}
+{"sentence": "i need you to have the volume louder", "label": "audio/volume_up"}
+{"sentence": "turn off the sounds", "label": "audio/volume_mute"}
+{"sentence": "please remove march nineteenth's scheduled event", "label": "calendar/remove"}
+{"sentence": "remind me tomorrow at four about an event", "label": "calendar/set"}
+{"sentence": "what's the news in politics", "label": "news/query"}
+{"sentence": "call domino's pizza", "label": "takeaway/order"}
+{"sentence": "is the weather bad in new york right now", "label": "weather/query"}
+{"sentence": "what is the news today", "label": "news/query"}
+{"sentence": "get me news on trump", "label": "news/query"}
+{"sentence": "notify me about the meetings over a period of some days", "label": "calendar/query"}
+{"sentence": "do they have takeout", "label": "takeaway/query"}
+{"sentence": "no lunch date tomorrow", "label": "calendar/remove"}
+{"sentence": "ask if deliver", "label": "takeaway/query"}
+{"sentence": "how much is one serving of broccoli", "label": "cooking/recipe"}
+{"sentence": "what will be the highest temperature this week", "label": "weather/query"}
+{"sentence": "give me an update on the election in one hour", "label": "calendar/set"}
+{"sentence": "when is the school dance junction marked", "label": "calendar/query"}
+{"sentence": "annie could you please search the internet and play the videos for cooking italian food", "label": "cooking/recipe"}
+{"sentence": "what events do i have scheduled today", "label": "calendar/query"}
+{"sentence": "any upcoming events", "label": "calendar/query"}
+{"sentence": "remove father's day from calendar", "label": "calendar/remove"}
+{"sentence": "do i need a rain coat today", "label": "weather/query"}
+{"sentence": "please tell me the latest news about politics", "label": "news/query"}
+{"sentence": "how can i cook pizza", "label": "cooking/recipe"}
+{"sentence": "help me to mute my speaker", "label": "audio/volume_mute"}
+{"sentence": "is the sun gonna shine in devon this weekend", "label": "weather/query"}
+{"sentence": "increase the volume to seventy percent", "label": "audio/volume_up"}
+{"sentence": "see if john is available for a meeting on Monday", "label": "calendar/set"}
+{"sentence": "create a repeating event on mondays at seven pm", "label": "calendar/set"}
+{"sentence": "access recipe book please", "label": "cooking/recipe"}
+{"sentence": "i want to know everything that breaks about the dam breaking in california", "label": "news/query"}
+{"sentence": "what are the estimated temperatures this afternoon", "label": "weather/query"}
+{"sentence": "schedule a sales meeting for wednesday at eleven am", "label": "calendar/set"}
+{"sentence": "be mute", "label": "audio/volume_mute"}
+{"sentence": "how's weather today", "label": "weather/query"}
+{"sentence": "put working out on my calendar for eight am every day this week", "label": "calendar/set"}
+{"sentence": "tell me the best recipes for a given dish", "label": "cooking/recipe"}
+{"sentence": "tell me about the current weather", "label": "weather/query"}
+{"sentence": "can you notify the event in my calendar", "label": "calendar/set"}
+{"sentence": "volume control", "label": "audio/volume_mute"}
+{"sentence": "can you delete the doctors appointment i had Tuesday", "label": "calendar/remove"}
+{"sentence": "set a meeting with hongbin", "label": "calendar/set"}
+{"sentence": "do the knicks have a game at home tonight", "label": "calendar/query"}
+{"sentence": "is it going to be cloudy or sunny today in bangalore", "label": "weather/query"}
+{"sentence": "what is a good vegan egg substitute", "label": "cooking/recipe"}
+{"sentence": "give me today's calendar events after six pm", "label": "calendar/query"}
+{"sentence": "how do i cook a medium rare steak", "label": "cooking/recipe"}
+{"sentence": "make the speaker volume on maximum", "label": "audio/volume_up"}
+{"sentence": "raise the volume of my music player by fifty percent", "label": "audio/volume_up"}
+{"sentence": "increase the volume to max please", "label": "audio/volume_up"}
+{"sentence": "order takeout from pizza restaurant", "label": "takeaway/order"}
+{"sentence": "pawel prepare the meeting with john", "label": "calendar/query"}
+{"sentence": "can you take off the next event on my calendar", "label": "calendar/remove"}
+{"sentence": "give me the latest updates", "label": "news/query"}
+{"sentence": "lower volume to half", "label": "audio/volume_down"}
+{"sentence": "order me chinese food", "label": "takeaway/order"}
+{"sentence": "delete my dentist appointment", "label": "calendar/remove"}
+{"sentence": "check the weather app to see if", "label": "weather/query"}
+{"sentence": "remind me to call my grandma this Sunday", "label": "calendar/set"}
+{"sentence": "please reduce the sound", "label": "audio/volume_down"}
+{"sentence": "am i going to swim or work today", "label": "weather/query"}
+{"sentence": "where can i order takeout", "label": "takeaway/query"}
+{"sentence": "delete all recurring staff meetings", "label": "calendar/remove"}
+{"sentence": "tell me the temperature in pheonix", "label": "weather/query"}
+{"sentence": "open grubhub", "label": "takeaway/order"}
+{"sentence": "what places can i order takeout from near by", "label": "takeaway/order"}
+{"sentence": "i am really craving for chinese food right now please let me order take out", "label": "takeaway/order"}
+{"sentence": "how many things do i have planned tonight", "label": "calendar/query"}
+{"sentence": "find me a recipe for chicken noodle soup", "label": "cooking/recipe"}
+{"sentence": "increase volume by one", "label": "audio/volume_up"}
+{"sentence": "does mr pizza deliver", "label": "takeaway/query"}
+{"sentence": "do i have any thing going on at five", "label": "calendar/query"}
+{"sentence": "slow down the speaker volume", "label": "audio/volume_down"}
+{"sentence": "what is the weather forecast for chicago", "label": "weather/query"}
+{"sentence": "i want to order some takeaway food", "label": "takeaway/order"}
+{"sentence": "what is recipe", "label": "cooking/recipe"}
+{"sentence": "lower the volume ten percent", "label": "audio/volume_down"}
+{"sentence": "give me the news on donald trump", "label": "news/query"}
+{"sentence": "show me tutorials on cooking food", "label": "cooking/recipe"}
+{"sentence": "hey sound is low can you tune it up", "label": "audio/volume_up"}
+{"sentence": "can you check the facts on this issue", "label": "calendar/query"}
+{"sentence": "order chinese food", "label": "takeaway/order"}
+{"sentence": "please mute my speaker", "label": "audio/volume_mute"}
+{"sentence": "find and order rasgulla of janta sweet home pvt ltd", "label": "takeaway/order"}
+{"sentence": "please you don't speak in eight to ten pm", "label": "audio/volume_mute"}
+{"sentence": "plan a meeting in office with all employees tomorrow morning at eight", "label": "calendar/set"}
+{"sentence": "check the status of my order", "label": "takeaway/query"}
+{"sentence": "macdonald shops", "label": "takeaway/order"}
+{"sentence": "delete my next scheduled event please", "label": "calendar/remove"}
+{"sentence": "when can i pick up my order", "label": "takeaway/query"}
+{"sentence": "remind me the upcoming meeting at four am today", "label": "calendar/set"}
+{"sentence": "search if the restaurant does take out", "label": "takeaway/query"}
+{"sentence": "i want to see the news", "label": "news/query"}
+{"sentence": "is there a takeout menu at the restaurant", "label": "takeaway/query"}
+{"sentence": "olly turn the volume up", "label": "audio/volume_up"}
+{"sentence": "find me the recipe for a cake", "label": "cooking/recipe"}
+{"sentence": "i need a recipe that is from ingredients on my shopping list", "label": "cooking/recipe"}
+{"sentence": "all rccg march event is to be added to my calendar", "label": "calendar/set"}
+{"sentence": "thirteenth june is a day of election result please set it", "label": "calendar/set"}
+{"sentence": "please tell me the news", "label": "news/query"}
+{"sentence": "what's up with my order", "label": "takeaway/query"}
+{"sentence": "i've got a meeting by tonight seven pm please mute the music for an hour", "label": "audio/volume_mute"}
+{"sentence": "increase the volume of the speaker", "label": "audio/volume_up"}
+{"sentence": "tell me the recipe for mashed potatoes", "label": "cooking/recipe"}
+{"sentence": "find me news about trumps speech", "label": "news/query"}
+{"sentence": "find easy recipe for almond milk", "label": "cooking/recipe"}
+{"sentence": "find my next event and delete it please", "label": "calendar/remove"}
+{"sentence": "can you deleted the current event", "label": "calendar/remove"}
+{"sentence": "Speak louder please", "label": "audio/volume_up"}
+{"sentence": "please mute yourself", "label": "audio/volume_mute"}
+{"sentence": "give me the reminders", "label": "calendar/query"}
+{"sentence": "turn the speakers down to five percent", "label": "audio/volume_down"}
+{"sentence": "tell me what was the temperature in our city at twelve pm", "label": "weather/query"}
+{"sentence": "increase the volume", "label": "audio/volume_up"}
+{"sentence": "hows many more reminders are left", "label": "calendar/query"}
+{"sentence": "invite people to the calendar event", "label": "calendar/set"}
+{"sentence": "how long should i simmer rice for", "label": "cooking/recipe"}
+{"sentence": "when my takeaway order will arrive", "label": "takeaway/query"}
+{"sentence": "order takeout pizza from domino's for seven pm", "label": "takeaway/order"}
+{"sentence": "can i order takeaway from spanish place", "label": "takeaway/order"}
+{"sentence": "what are the upcoming reminders", "label": "calendar/query"}
+{"sentence": "what is the weather next week", "label": "weather/query"}
+{"sentence": "hey order me some take out from jason's deli", "label": "takeaway/order"}
+{"sentence": "let me know when the next cold front is expected", "label": "weather/query"}
+{"sentence": "please speak loud", "label": "audio/volume_up"}
+{"sentence": "what is trending in tech today", "label": "news/query"}
+{"sentence": "does the restaurant have delivery", "label": "takeaway/query"}
+{"sentence": "can you pull up the latest time so i won't be late for my appointment", "label": "calendar/query"}
+{"sentence": "check delivery options for the restaurant", "label": "takeaway/query"}
+{"sentence": "delete all details in event", "label": "calendar/remove"}
+{"sentence": "show me the recipe of tandoori chicken", "label": "cooking/recipe"}
+{"sentence": "delete my appointment tomorrow", "label": "calendar/remove"}
+{"sentence": "update the calendar with the last event removed", "label": "calendar/remove"}
+{"sentence": "where is my meeting at nine am", "label": "calendar/query"}
+{"sentence": "remove the event from monday", "label": "calendar/remove"}
+{"sentence": "tell me the recipe for yellow rice", "label": "cooking/recipe"}
+{"sentence": "bring up a recipe for turkey meatballs", "label": "cooking/recipe"}
+{"sentence": "am i free on sunday day", "label": "calendar/query"}
+{"sentence": "delete my next meeting", "label": "calendar/remove"}
+{"sentence": "tell me what is on my schedule for today", "label": "calendar/query"}
+{"sentence": "turn up radio volume", "label": "audio/volume_up"}
+{"sentence": "anything interesting happening next friday", "label": "calendar/query"}
+{"sentence": "set a meeting with tom tomorrow at seven pm", "label": "calendar/set"}
+{"sentence": "how do you make pasta", "label": "cooking/recipe"}
+{"sentence": "remind me every year on this date of", "label": "calendar/set"}
+{"sentence": "find me any news from so clean the last six hours", "label": "news/query"}
+{"sentence": "is mysore going to be very hot and humid today whats the weather status", "label": "weather/query"}
+{"sentence": "whatever the next event is in the calendar delete it", "label": "calendar/remove"}
+{"sentence": "is there takeaway at papa john's", "label": "takeaway/query"}
+{"sentence": "please tell me to take my umbrella because it will be very hot today", "label": "calendar/set"}
+{"sentence": "what is today's weather in springfield", "label": "weather/query"}
+{"sentence": "what's the recipe for fried chicken", "label": "cooking/recipe"}
+{"sentence": "pull up the menu for the closest mexican restaurant", "label": "takeaway/order"}
+{"sentence": "notify me when the event is going to take place", "label": "calendar/set"}
+{"sentence": "can you set radio to mute", "label": "audio/volume_mute"}
+{"sentence": "is there any rains predicted for bangalore today", "label": "weather/query"}
+{"sentence": "what is new news for today", "label": "news/query"}
+{"sentence": "ask for the weather today morning", "label": "weather/query"}
+{"sentence": "lower the speak volume", "label": "audio/volume_down"}
+{"sentence": "what asian restaurants nearby offer to go food", "label": "takeaway/query"}
+{"sentence": "what events are going to happen in my city between two four pm today", "label": "calendar/query"}
+{"sentence": "clear everything off my calendar for the rest of the year", "label": "calendar/remove"}
+{"sentence": "increase the volume a bit", "label": "audio/volume_up"}
+{"sentence": "order a takeaway", "label": "takeaway/order"}
+{"sentence": "i need to cancel my rsvp for dinner this evening can you remove it on my calendar as well", "label": "calendar/remove"}
+{"sentence": "speaker volume increase", "label": "audio/volume_up"}
+{"sentence": "do i need pants", "label": "weather/query"}
+{"sentence": "turn my audio higher", "label": "audio/volume_up"}
+{"sentence": "is there anything i need to be aware of", "label": "calendar/query"}
+{"sentence": "whats happening in football today", "label": "news/query"}
+{"sentence": "automobiles", "label": "news/query"}
+{"sentence": "does pizza hut have delivery", "label": "takeaway/query"}
+{"sentence": "in the following week repeat this event at ten am every day", "label": "calendar/set"}
+{"sentence": "order food from applebees", "label": "takeaway/order"}
+{"sentence": "will i need my snow boots this afternoon", "label": "weather/query"}
+{"sentence": "delete an last event reminder of twenty ninth of march twenty seventeen", "label": "calendar/remove"}
+{"sentence": "how long should i cook a steak to be medium", "label": "cooking/recipe"}
+{"sentence": "get news about new foreign policy", "label": "news/query"}
+{"sentence": "please search for beginners guide to cooking", "label": "cooking/recipe"}
+{"sentence": "what time is the party tonight", "label": "calendar/query"}
+{"sentence": "what's an easy recipe to cook for food", "label": "cooking/recipe"}
+{"sentence": "could you speak louder", "label": "audio/volume_up"}
+{"sentence": "please add the meeting with ms boland on wednesday eight hundred am to my calendar", "label": "calendar/set"}
+{"sentence": "schedule lunch at tomo in arcata california tomorrow at noon", "label": "calendar/set"}
+{"sentence": "turn off the bass from the audio", "label": "audio/volume_down"}
+{"sentence": "hi there do you offer home delivery for orders", "label": "takeaway/query"}
+{"sentence": "mute for volume", "label": "audio/volume_mute"}
+{"sentence": "decrease the volume to ten", "label": "audio/volume_down"}
+{"sentence": "please erase the next birthday event", "label": "calendar/remove"}
+{"sentence": "lower all volume on speakers please", "label": "audio/volume_down"}
+{"sentence": "status of weather", "label": "weather/query"}
+{"sentence": "order ribs for dinner", "label": "takeaway/order"}
+{"sentence": "can i order out", "label": "takeaway/order"}
+{"sentence": "what on my calendar", "label": "calendar/query"}
+{"sentence": "any local news stories for my home city", "label": "news/query"}
+{"sentence": "freezing", "label": "cooking/recipe"}
+{"sentence": "does lechateau have delivery service or only takeaway", "label": "takeaway/query"}
+{"sentence": "maximum kilometer to delivery", "label": "takeaway/query"}
+{"sentence": "march one is susan's birthday right", "label": "calendar/query"}
+{"sentence": "please see if chili's has delivery", "label": "takeaway/query"}
+{"sentence": "this event needs to be deleted", "label": "calendar/remove"}
+{"sentence": "weather forecast please", "label": "weather/query"}
+{"sentence": "on twenty third february rahul will come with me on india cricket match", "label": "calendar/set"}
+{"sentence": "please put in an order from red thai fpr this evening", "label": "takeaway/order"}
+{"sentence": "hackernews", "label": "news/query"}
+{"sentence": "clear all data from calendar", "label": "calendar/remove"}
+{"sentence": "quiet please", "label": "audio/volume_mute"}
+{"sentence": "speak softer please", "label": "audio/volume_down"}
+{"sentence": "checkout domino centre near me and order cheese pizza", "label": "takeaway/order"}
+{"sentence": "how to cook spaghetti squash", "label": "cooking/recipe"}
+{"sentence": "tell me what is on my calendar for tomorrow", "label": "calendar/query"}
+{"sentence": "repeating event meeting on mondays", "label": "calendar/set"}
+{"sentence": "Show chicken tikka recipe", "label": "cooking/recipe"}
+{"sentence": "please check my reminders", "label": "calendar/query"}
+{"sentence": "how do you make sunny side up eggs", "label": "cooking/recipe"}
+{"sentence": "any restaurant in the beautiful", "label": "takeaway/query"}
+{"sentence": "does that restaurant allow take out orders", "label": "takeaway/query"}
+{"sentence": "up the volume the sound is too low", "label": "audio/volume_up"}
+{"sentence": "remove my calendar event at one pm today", "label": "calendar/remove"}
+{"sentence": "is it going to be cloudy in london during the weekend", "label": "weather/query"}
+{"sentence": "get large pizza with pepperoni", "label": "takeaway/order"}
+{"sentence": "i am gonna need an umbrella today after sunset", "label": "weather/query"}
+{"sentence": "is there takeaway at donut junction", "label": "takeaway/query"}
+{"sentence": "hey does open sesame do take out", "label": "takeaway/query"}
+{"sentence": "what is my schedule for tomorrow morning", "label": "calendar/query"}
+{"sentence": "order pizza", "label": "takeaway/order"}
+{"sentence": "turn the sound up", "label": "audio/volume_up"}
+{"sentence": "open events this week", "label": "calendar/query"}
+{"sentence": "i want to cook pasta in american style show me how", "label": "cooking/recipe"}
+{"sentence": "did the yankees win last night", "label": "news/query"}
+{"sentence": "which is the next event coming up", "label": "calendar/query"}
+{"sentence": "does peking garden do orders online", "label": "takeaway/query"}
+{"sentence": "do remove next event from the calendar", "label": "calendar/remove"}
+{"sentence": "what are the steps for biriyani meal", "label": "cooking/recipe"}
+{"sentence": "is there valet service at the event", "label": "calendar/query"}
+{"sentence": "ask peking garden when my food will arrive", "label": "takeaway/query"}
+{"sentence": "domino's delivery status", "label": "takeaway/query"}
+{"sentence": "where is the closest spot to order food for pickup", "label": "takeaway/query"}
+{"sentence": "please stop for a bit", "label": "audio/volume_mute"}
+{"sentence": "please check my coming up events", "label": "calendar/query"}
+{"sentence": "where is tuesday's morning meeting", "label": "calendar/query"}
+{"sentence": "show me delivery near me", "label": "takeaway/order"}
+{"sentence": "i want all my events deleted", "label": "calendar/remove"}
+{"sentence": "can you turn up the volume on itunes", "label": "audio/volume_up"}
+{"sentence": "tell me about the latest sports news", "label": "news/query"}
+{"sentence": "remove dinner with mike from my calendar", "label": "calendar/remove"}
+{"sentence": "i need you to say that last information again but much louder", "label": "audio/volume_up"}
+{"sentence": "boiled", "label": "cooking/recipe"}
+{"sentence": "what does the analysts say about the new immigration policies", "label": "news/query"}
+{"sentence": "set the music volume to ninety", "label": "audio/volume_up"}
+{"sentence": "will the restaurant deliver the order", "label": "takeaway/query"}
+{"sentence": "what is trending", "label": "news/query"}
+{"sentence": "activate silent", "label": "audio/volume_mute"}
+{"sentence": "lower audio", "label": "audio/volume_down"}
+{"sentence": "i would like to pickup a veggie sub with a cookie from subway", "label": "takeaway/order"}
+{"sentence": "find the recipe for sambar in cookingforu application", "label": "cooking/recipe"}
+{"sentence": "how soon is my anniversary", "label": "calendar/query"}
+{"sentence": "check to see if pizza hut has my order on the way", "label": "takeaway/query"}
+{"sentence": "what temperature should a baked chicken be", "label": "cooking/recipe"}
+{"sentence": "please remind to sleep at nine pm", "label": "calendar/set"}
+{"sentence": "what is a good way to make steak", "label": "cooking/recipe"}
+{"sentence": "turn the volume down a little please", "label": "audio/volume_down"}
+{"sentence": "can you remind me to check my clothes in a hour", "label": "calendar/set"}
+{"sentence": "order me the fish risotto from the golden fork", "label": "takeaway/order"}
+{"sentence": "set reminder for tennis game with peter on Sunday at four pm", "label": "calendar/set"}
+{"sentence": "what temperature should the oil be for frying french fries", "label": "cooking/recipe"}
+{"sentence": "first week of march meetings", "label": "calendar/query"}
+{"sentence": "which restaurants offer take out food", "label": "takeaway/query"}
+{"sentence": "turn down the noise", "label": "audio/volume_mute"}
+{"sentence": "twelveth july is bola's birthday and my calendar to be updated with this date", "label": "calendar/set"}
+{"sentence": "please block off friday at eight am on my calendar", "label": "calendar/set"}
+{"sentence": "please turn the music volume up", "label": "audio/volume_up"}
+{"sentence": "can you take out dentist appointment from my calendar", "label": "calendar/remove"}
+{"sentence": "let me know if anything happens on that subject", "label": "news/query"}
+{"sentence": "please share up to the minute details on sprint", "label": "news/query"}
+{"sentence": "open cnn app", "label": "news/query"}
+{"sentence": "set a reminder for fifteen minutes to change laundry loads", "label": "calendar/set"}
+{"sentence": "i can't hear just increase the volume", "label": "audio/volume_up"}
+{"sentence": "show me the events in my work calendar for next week", "label": "calendar/set"}
+{"sentence": "where can i order pizza for delivery", "label": "takeaway/query"}
+{"sentence": "i need the recipe for hot cross buns", "label": "cooking/recipe"}
+{"sentence": "disable music player", "label": "audio/volume_mute"}
+{"sentence": "erase my next event", "label": "calendar/remove"}
+{"sentence": "what mexican restaurants are there nearby for takeout", "label": "takeaway/order"}
+{"sentence": "pull up peking garden online", "label": "takeaway/order"}
+{"sentence": "is my calendar free for Thursday", "label": "calendar/query"}
+{"sentence": "find and order handi paneer in pavitra", "label": "takeaway/order"}
+{"sentence": "please decrease the volume of this song", "label": "audio/volume_up"}
+{"sentence": "weather forecast for this week", "label": "weather/query"}
+{"sentence": "is mary's birthday party tonight", "label": "calendar/query"}
+{"sentence": "please increase volume", "label": "audio/volume_up"}
+{"sentence": "can I get the recipe for chocolate brownies", "label": "cooking/recipe"}
+{"sentence": "schedule a lunch meeting with brent on Wednesday at noon", "label": "calendar/set"}
+{"sentence": "order pizza for delivery", "label": "takeaway/order"}
+{"sentence": "increase volume please", "label": "audio/volume_up"}
+{"sentence": "does the nearby pizza hut deliver in my area", "label": "takeaway/query"}
+{"sentence": "where is my pizza from domino's at", "label": "takeaway/query"}
+{"sentence": "google please be extra quiet the baby is sleeping", "label": "audio/volume_mute"}
+{"sentence": "what is the best recipe for tacos", "label": "cooking/recipe"}
+{"sentence": "tell me when the hockey game tickets are for", "label": "calendar/query"}
+{"sentence": "is it going to rain today in san diego", "label": "weather/query"}
+{"sentence": "call pizza hut and find out if my order is ready", "label": "takeaway/query"}
+{"sentence": "should i bring an umbrella today", "label": "weather/query"}
+{"sentence": "how is this weeks weather", "label": "weather/query"}
+{"sentence": "please decrease the volume of music player", "label": "audio/volume_down"}
+{"sentence": "what is the phone number for the nearest location of church's chicken", "label": "takeaway/query"}
+{"sentence": "quiet on", "label": "audio/volume_mute"}
+{"sentence": "whats with my dinner order", "label": "takeaway/query"}
+{"sentence": "i want to eat two pita gyros please and some diet coke", "label": "takeaway/order"}
+{"sentence": "i want to order some takeout food", "label": "takeaway/order"}
+{"sentence": "what went on in the world today", "label": "news/query"}
+{"sentence": "am i busy on Wednesday evening", "label": "calendar/query"}
+{"sentence": "find apple pie recipe", "label": "cooking/recipe"}
+{"sentence": "on my calendar are there any birthdays", "label": "calendar/query"}
+{"sentence": "what are the offers in uber eats", "label": "takeaway/order"}
+{"sentence": "shut up", "label": "audio/volume_mute"}
+{"sentence": "what time am i supposed to pick up john again", "label": "calendar/query"}
+{"sentence": "please quiet the speaker", "label": "audio/volume_mute"}
+{"sentence": "what ingredients do i need for tomato soup", "label": "cooking/recipe"}
+{"sentence": "do i need boots today", "label": "weather/query"}
+{"sentence": "how long do i need to cook a brisket for it to be medium", "label": "cooking/recipe"}
+{"sentence": "can you remind me of sunday gym every saturday evening", "label": "calendar/set"}
+{"sentence": "how long until i receive my food", "label": "takeaway/query"}
+{"sentence": "set a reminder for my shopping trip tomorrow at five pm", "label": "calendar/set"}
+{"sentence": "Show me news from cnn", "label": "news/query"}
+{"sentence": "hey order two wings with french fries from the chinese food store", "label": "takeaway/order"}
+{"sentence": "is the restaurant having delivery facility", "label": "takeaway/query"}
+{"sentence": "is it supposed to rain tomorrow", "label": "weather/query"}
+{"sentence": "no notifications for five minutes", "label": "audio/volume_mute"}
+{"sentence": "hey order a side of hot wings with my previous order", "label": "takeaway/order"}
+{"sentence": "let me know the latest weather news", "label": "news/query"}
+{"sentence": "show me how to cook lasagna", "label": "cooking/recipe"}
+{"sentence": "is the meeting scheduled for tomorrow", "label": "calendar/query"}
+{"sentence": "will i need an umbrella today", "label": "weather/query"}
+{"sentence": "does fongs do carry out", "label": "takeaway/query"}
+{"sentence": "erase all events", "label": "calendar/remove"}
+{"sentence": "what is the current weather in denver", "label": "weather/query"}
+{"sentence": "set event on recurring", "label": "calendar/set"}
+{"sentence": "every wednesday night at five pm remind me to meet phil", "label": "calendar/set"}
+{"sentence": "alert me at the time of the event", "label": "calendar/set"}
+{"sentence": "quiet mode on until i am home from work", "label": "audio/volume_mute"}
+{"sentence": "do i have a sales meeting today", "label": "calendar/query"}
+{"sentence": "i am in need of some pizza what's the closest place that delivers", "label": "takeaway/order"}
+{"sentence": "turn the music lower", "label": "audio/volume_down"}
+{"sentence": "what events are scheduled for me to do today", "label": "calendar/query"}
+{"sentence": "how many degrees is it in orange tx right now", "label": "weather/query"}
+{"sentence": "can you delete all events from my calendar", "label": "calendar/remove"}
+{"sentence": "help me make brownies", "label": "cooking/recipe"}
+{"sentence": "please order me some takeout", "label": "takeaway/order"}
+{"sentence": "what have i got going on between three and four pm today", "label": "calendar/query"}
+{"sentence": "where am i supposed to be by this time tomorrow", "label": "calendar/query"}
+{"sentence": "noodles one pack make it as takeaway", "label": "takeaway/order"}
+{"sentence": "should i bring warm clothes", "label": "weather/query"}
+{"sentence": "Please pause the song", "label": "audio/volume_mute"}
+{"sentence": "give me a recipe for lasagne", "label": "cooking/recipe"}
+{"sentence": "what is the latest news from cbs", "label": "news/query"}
+{"sentence": "increase the volume of the left speaker by ten", "label": "audio/volume_up"}
+{"sentence": "decrease speaker volume", "label": "audio/volume_down"}
+{"sentence": "will it rain", "label": "weather/query"}
+{"sentence": "do i have any appointments coming up", "label": "calendar/query"}
+{"sentence": "when is taco bell going to arrive", "label": "takeaway/query"}
+{"sentence": "open the weather app", "label": "weather/query"}
+{"sentence": "what will the weather be for the next week", "label": "weather/query"}
+{"sentence": "can i go outing without any raincoat", "label": "weather/query"}
+{"sentence": "does restaurant has home delivery", "label": "takeaway/query"}
+{"sentence": "audio on", "label": "audio/volume_up"}
+{"sentence": "please be quiet for the next two hours", "label": "audio/volume_mute"}
+{"sentence": "what's the weather this week", "label": "weather/query"}
+{"sentence": "set a two day notification before maria's birthday please", "label": "calendar/set"}
+{"sentence": "what is home town weather", "label": "weather/query"}
+{"sentence": "find me a recipe for carrot soup", "label": "cooking/recipe"}
+{"sentence": "what is currently breaking news", "label": "news/query"}
+{"sentence": "from four to six when do i have a free break", "label": "calendar/query"}
+{"sentence": "tell me the meetings i have for the week", "label": "calendar/query"}
+{"sentence": "please lower music volume", "label": "audio/volume_down"}
+{"sentence": "please increase the volume of the music hips don't lie", "label": "audio/volume_up"}
+{"sentence": "am i on vacation this week", "label": "calendar/query"}
+{"sentence": "what is scheduled on my calendar today", "label": "calendar/query"}
+{"sentence": "i want to eat something will you order food for me", "label": "takeaway/order"}
+{"sentence": "be silent for thirty minutes", "label": "audio/volume_mute"}
+{"sentence": "order a takeaway sandwich and soup from the italian's", "label": "takeaway/order"}
+{"sentence": "how cold is today", "label": "weather/query"}
+{"sentence": "turn the sound off", "label": "audio/volume_mute"}
+{"sentence": "can you order me some buffalo chicken pizza", "label": "takeaway/order"}
+{"sentence": "show me nearby takeout restaurants", "label": "takeaway/order"}
+{"sentence": "Shut down the sound", "label": "audio/volume_mute"}
+{"sentence": "latest events", "label": "calendar/query"}
+{"sentence": "tell me what is on the schedule for july seventh", "label": "calendar/query"}
+{"sentence": "which day this week do i have plans", "label": "calendar/query"}
+{"sentence": "what day is the meeting on", "label": "calendar/query"}
+{"sentence": "celeb news", "label": "news/query"}
+{"sentence": "do i need to wear a coat today", "label": "weather/query"}
+{"sentence": "i need to know current weather in new york city", "label": "weather/query"}
+{"sentence": "remind me to move so there is no weight gain", "label": "calendar/set"}
+{"sentence": "show me pancakes", "label": "cooking/recipe"}
+{"sentence": "iphone", "label": "news/query"}
+{"sentence": "please lower the speaker volume", "label": "audio/volume_down"}
+{"sentence": "home town weather", "label": "weather/query"}
+{"sentence": "clear all events for this month", "label": "calendar/remove"}
+{"sentence": "your volume is too high please repeat that lower", "label": "audio/volume_down"}
+{"sentence": "remove meeting for wednesday morning", "label": "calendar/remove"}
+{"sentence": "please increase volume in music player", "label": "audio/volume_up"}
+{"sentence": "please slow down volume of speaker", "label": "audio/volume_down"}
+{"sentence": "how long until my takeaway", "label": "takeaway/query"}
+{"sentence": "sunny in oslo", "label": "weather/query"}
+{"sentence": "can you increase the volume of the speakers", "label": "audio/volume_up"}
+{"sentence": "find out if kfc delivers please", "label": "takeaway/query"}
+{"sentence": "order a large pepperoni pizza from dominos to go", "label": "takeaway/order"}
+{"sentence": "pull up my cnn app and read it to me", "label": "news/query"}
+{"sentence": "does it offer pick up", "label": "takeaway/query"}
+{"sentence": "take out available louies", "label": "takeaway/query"}
+{"sentence": "volume up", "label": "audio/volume_up"}
+{"sentence": "search for pizza nearby", "label": "takeaway/order"}
+{"sentence": "what time is the evening meeting i have with john", "label": "calendar/query"}
+{"sentence": "do i have anything scheduled in my events", "label": "calendar/query"}
+{"sentence": "list all the events in my march calendar", "label": "calendar/query"}
+{"sentence": "set volume to zero", "label": "audio/volume_mute"}
+{"sentence": "rise volume", "label": "audio/volume_up"}
+{"sentence": "make sound louder", "label": "audio/volume_up"}
+{"sentence": "please clear out my calendar completely", "label": "calendar/remove"}
+{"sentence": "new policies", "label": "news/query"}
+{"sentence": "tell me when taco bell can deliver my dinner", "label": "takeaway/query"}
+{"sentence": "can you remove that on my calendar", "label": "calendar/remove"}
+{"sentence": "mute sound", "label": "audio/volume_mute"}
+{"sentence": "i am no longer attending the wedding on the tenth so remove it from my calendar", "label": "calendar/remove"}
+{"sentence": "do you think i can wear sandals or should i wear sneakers tonight at seven pm", "label": "weather/query"}
+{"sentence": "order food", "label": "takeaway/order"}
+{"sentence": "let me know the weather for today", "label": "weather/query"}
+{"sentence": "prepare the order as soon as possible", "label": "takeaway/query"}
+{"sentence": "does pizza hut have my order ready", "label": "takeaway/query"}
+{"sentence": "reminders", "label": "calendar/set"}
+{"sentence": "how hot is it outside today", "label": "weather/query"}
+{"sentence": "what news updates are there from news express", "label": "news/query"}
+{"sentence": "show me chinese food near me", "label": "takeaway/order"}
+{"sentence": "is michael's a takeaway or delivery restaurant", "label": "takeaway/query"}
+{"sentence": "when will the match start", "label": "calendar/query"}
+{"sentence": "i want to know if the olive garden provides takeaway", "label": "takeaway/query"}
+{"sentence": "add dentist appointment for friday at five", "label": "calendar/set"}
+{"sentence": "delete my dinner tomorrow", "label": "calendar/remove"}
+{"sentence": "what are my plans for today", "label": "calendar/query"}
+{"sentence": "weather in home town", "label": "weather/query"}
+{"sentence": "how do i cook meatballs", "label": "cooking/recipe"}
+{"sentence": "delete my meeting event for march nineteen at one pm", "label": "calendar/remove"}
+{"sentence": "can i take food home here", "label": "takeaway/query"}
+{"sentence": "is gus's a take out place", "label": "takeaway/query"}
+{"sentence": "mute my speakers for a minute here i need to make a call", "label": "audio/volume_mute"}
+{"sentence": "remind me to take out the trash", "label": "calendar/set"}
+{"sentence": "goodnight", "label": "audio/volume_mute"}
+{"sentence": "set the volume higher", "label": "audio/volume_up"}
+{"sentence": "delete all my appointments for today", "label": "calendar/remove"}
+{"sentence": "provide wall street journal news", "label": "news/query"}
+{"sentence": "show up the events for me today", "label": "calendar/query"}
+{"sentence": "any low priced delicacies", "label": "takeaway/order"}
+{"sentence": "lower the volume of the speakers", "label": "audio/volume_down"}
+{"sentence": "down", "label": "audio/volume_down"}
+{"sentence": "delete the events from the calendar on twenty eighth march", "label": "calendar/remove"}
+{"sentence": "how do you zest a lime without a zester", "label": "cooking/recipe"}
+{"sentence": "set mute mode for one hour", "label": "audio/volume_mute"}
+{"sentence": "find new trump articles but not from fox news", "label": "news/query"}
+{"sentence": "what's the latest on the travel ban", "label": "news/query"}
+{"sentence": "order mcdonalds", "label": "takeaway/order"}
+{"sentence": "give me instructions on how to cook chicken", "label": "cooking/recipe"}
+{"sentence": "is it true that susan's birthday is on march first", "label": "calendar/query"}
+{"sentence": "tell me weather forecast", "label": "weather/query"}
+{"sentence": "can you sync my calendar with mark", "label": "calendar/set"}
+{"sentence": "does the nearby dominos have delivery", "label": "takeaway/query"}
+{"sentence": "what is the weather like outside", "label": "weather/query"}
+{"sentence": "i need help making pancakes", "label": "cooking/recipe"}
+{"sentence": "add new year with family next week", "label": "calendar/set"}
+{"sentence": "could you speak more softly", "label": "audio/volume_up"}
+{"sentence": "i'm in the mood to order takeaway", "label": "takeaway/order"}
+{"sentence": "what is today's weather forecast", "label": "weather/query"}
+{"sentence": "can it takeaway from ammi biryani", "label": "takeaway/query"}
+{"sentence": "i want the complete weather details of seventh march", "label": "weather/query"}
+{"sentence": "could you please yell the answer out to me", "label": "audio/volume_up"}
+{"sentence": "look to see if luigi's has takeaway", "label": "takeaway/query"}
+{"sentence": "how to make chicken tikka", "label": "cooking/recipe"}
+{"sentence": "remind me clock that i have a event", "label": "calendar/set"}
+{"sentence": "how cold is it outside", "label": "weather/query"}
+{"sentence": "hi olly please cancel all the programs for friday", "label": "calendar/remove"}
+{"sentence": "stop playing", "label": "audio/volume_mute"}
+{"sentence": "breaking news fox news", "label": "news/query"}
+{"sentence": "turn up", "label": "audio/volume_up"}
+{"sentence": "can you please be muted for a while", "label": "audio/volume_mute"}
+{"sentence": "can you tell me how to cook chocolate chip cookies", "label": "cooking/recipe"}
+{"sentence": "find weather report", "label": "weather/query"}
+{"sentence": "when will my food be ready", "label": "takeaway/query"}
+{"sentence": "louder please", "label": "audio/volume_up"}
+{"sentence": "raise the volume to fifty", "label": "audio/volume_up"}
+{"sentence": "turn it up", "label": "audio/volume_up"}
+{"sentence": "write down meeting at seven pm", "label": "calendar/set"}
+{"sentence": "call peking garden", "label": "takeaway/order"}
+{"sentence": "delete all my calendar events", "label": "calendar/remove"}
+{"sentence": "meeting this friday", "label": "calendar/set"}
+{"sentence": "can you please order me some mcdonalds", "label": "takeaway/order"}
+{"sentence": "mute volume", "label": "audio/volume_mute"}
+{"sentence": "could you please lower the tone", "label": "audio/volume_down"}
+{"sentence": "remind me on fifth march of every year to arrange wedding anniversary presents", "label": "calendar/set"}
+{"sentence": "what's going around in the world these days", "label": "news/query"}
+{"sentence": "tell me about my upcoming week", "label": "calendar/query"}
+{"sentence": "what will be the weather on monday this week", "label": "weather/query"}
+{"sentence": "remind me to go grocery shopping today", "label": "calendar/set"}
+{"sentence": "is there any good chinese takeout that's open late", "label": "takeaway/order"}
+{"sentence": "please empty my calendar", "label": "calendar/remove"}
+{"sentence": "what does one have to damage in cream to make butter", "label": "cooking/recipe"}
+{"sentence": "tell how vegetable is cooked", "label": "cooking/recipe"}
+{"sentence": "do i have any notifications from social media", "label": "calendar/query"}
+{"sentence": "latest reminder about meeting", "label": "calendar/set"}
+{"sentence": "please talk softer", "label": "audio/volume_down"}
+{"sentence": "quiet mode four hours", "label": "audio/volume_mute"}
+{"sentence": "recipes that can be cooked in an hour", "label": "cooking/recipe"}
+{"sentence": "turn sound off", "label": "audio/volume_mute"}
+{"sentence": "i want to eat some spicy thing", "label": "takeaway/order"}
+{"sentence": "what is the weather like in grand rapids mi", "label": "weather/query"}
+{"sentence": "set meeting with joanna on Saturday four pm", "label": "calendar/set"}
+{"sentence": "what's going on in the world these days", "label": "news/query"}
+{"sentence": "how is it outside", "label": "weather/query"}
+{"sentence": "order a pizza", "label": "takeaway/order"}
+{"sentence": "quiet time", "label": "audio/volume_mute"}
+{"sentence": "is it snowing in seattle", "label": "weather/query"}
+{"sentence": "whats the weather like", "label": "weather/query"}
+{"sentence": "turn the volume up on music player", "label": "audio/volume_up"}
+{"sentence": "it is cloudy today", "label": "weather/query"}
+{"sentence": "lower volume of music player", "label": "audio/volume_down"}
+{"sentence": "silently adjust", "label": "audio/volume_mute"}
+{"sentence": "remove next meeting today in my calendar", "label": "calendar/remove"}
+{"sentence": "what's the weather forecast for today", "label": "weather/query"}
+{"sentence": "my calendar is to be updated with all rccg event in march", "label": "calendar/set"}
+{"sentence": "please shut off", "label": "audio/volume_mute"}
+{"sentence": "remove all my engagements from calendar for tomorrow", "label": "calendar/remove"}
+{"sentence": "tell me all the takeaways nearby and i want to order food", "label": "takeaway/query"}
+{"sentence": "what's the latest news from xinhua", "label": "news/query"}
+{"sentence": "turn down volume twenty percent", "label": "audio/volume_down"}
+{"sentence": "where is an olive garden that does takeaway", "label": "takeaway/query"}
+{"sentence": "find my thai takeaways around grassmarket", "label": "takeaway/query"}
+{"sentence": "when monet's exhibition takes place", "label": "calendar/query"}
+{"sentence": "give me recipes", "label": "cooking/recipe"}
+{"sentence": "when is the doctor's appointment", "label": "calendar/query"}
+{"sentence": "can you eat sweet potato greens raw", "label": "cooking/recipe"}
+{"sentence": "is the anniversary event on twenty second of this month true", "label": "calendar/query"}
+{"sentence": "make a repeating reminder for my yoga practice every day at noon", "label": "calendar/set"}
+{"sentence": "what is happening this weekend", "label": "calendar/query"}
+{"sentence": "mute sound from speakers", "label": "audio/volume_mute"}
+{"sentence": "find dinner with mom on my calendar and delete it", "label": "calendar/remove"}
+{"sentence": "how do i steam rice", "label": "cooking/recipe"}
+{"sentence": "please remind me for the function at miami tomorrow", "label": "calendar/set"}
+{"sentence": "lower my music player volume by fifty percent of its current level", "label": "audio/volume_up"}
+{"sentence": "i need you to remind me to go to store tomorrow", "label": "calendar/set"}
+{"sentence": "remove calendar events for this week", "label": "calendar/remove"}
+{"sentence": "format data from calendar", "label": "calendar/remove"}
+{"sentence": "cancel future event from place i worked", "label": "calendar/remove"}
+{"sentence": "set on second january about soccer match of manchester", "label": "calendar/set"}
+{"sentence": "clean my calendar", "label": "calendar/remove"}
+{"sentence": "tell me the soup of the day at panera bread restaurant", "label": "takeaway/query"}
+{"sentence": "cancel everything on my calendar", "label": "calendar/remove"}
+{"sentence": "i dont want sound", "label": "audio/volume_mute"}
+{"sentence": "is the balloon festival this weekend", "label": "calendar/query"}
+{"sentence": "notify me an hour before my two pm appointment at the car dealership", "label": "calendar/set"}
+{"sentence": "please provide world hot news", "label": "news/query"}
+{"sentence": "on february fourteenth make dinner reservations at the restaurant", "label": "calendar/set"}
+{"sentence": "list out my upcoming events", "label": "calendar/query"}
+{"sentence": "i will no longer be joining mom for lunch tomorrow", "label": "calendar/remove"}
+{"sentence": "change the volume level to nineteen please", "label": "audio/volume_up"}
+{"sentence": "louder volume please", "label": "audio/volume_up"}
+{"sentence": "please unmute the settings", "label": "audio/volume_up"}
+{"sentence": "please remind me of all the nba scores in a week", "label": "calendar/set"}
+{"sentence": "is it going to rain later", "label": "weather/query"}
+{"sentence": "whats my schedule today", "label": "calendar/query"}
+{"sentence": "find me info on cars", "label": "news/query"}
+{"sentence": "who delivers near here", "label": "takeaway/order"}
+{"sentence": "how many teaspoons are in a cup", "label": "cooking/recipe"}
+{"sentence": "order a pizza for me", "label": "takeaway/order"}
+{"sentence": "i want the news about academy awards", "label": "news/query"}
+{"sentence": "clear all events on my calendar", "label": "calendar/remove"}
+{"sentence": "what's going on at the capitol", "label": "news/query"}
+{"sentence": "can you delete the dentist appointment", "label": "calendar/remove"}
+{"sentence": "how long do i chill an icebo pie", "label": "cooking/recipe"}
+{"sentence": "add a reminder for april twenty as my bro's birthday", "label": "calendar/set"}
+{"sentence": "turn up the volume on the music", "label": "audio/volume_up"}
+{"sentence": "show news of migration", "label": "news/query"}
+{"sentence": "where are my takeaway order", "label": "takeaway/query"}
+{"sentence": "will trump visit russia anytime soon", "label": "news/query"}
+{"sentence": "can i get delivery from this restaurant", "label": "takeaway/query"}
+{"sentence": "please find out of charley's steakhouse delivers", "label": "takeaway/query"}
+{"sentence": "call eastwind and order lomaine to go", "label": "takeaway/order"}
+{"sentence": "what are the ingredients necessary", "label": "cooking/recipe"}
+{"sentence": "remind me to pick up john from the airport tonight at eight", "label": "calendar/set"}
+{"sentence": "do i have any openings on my schedule for tomorrow", "label": "calendar/query"}
+{"sentence": "delete my calendar", "label": "calendar/remove"}
+{"sentence": "please set a monthly reminder for paying rent", "label": "calendar/set"}
+{"sentence": "how long until my order is ready", "label": "takeaway/query"}
+{"sentence": "how hot is it in quebec", "label": "weather/query"}
+{"sentence": "open calendar and make an event reminder", "label": "calendar/set"}
+{"sentence": "slow the volume speaker", "label": "audio/volume_down"}
+{"sentence": "do i have a meeting on saturday march twenty fifth", "label": "calendar/query"}
+{"sentence": "what is the recipe for apple pie", "label": "cooking/recipe"}
+{"sentence": "is india win today cricket match", "label": "news/query"}
+{"sentence": "are there any status updates on cnn news facebook page", "label": "news/query"}
+{"sentence": "set a reminder for tomorrow evening", "label": "calendar/set"}
+{"sentence": "order one pizza from pizza hut", "label": "takeaway/order"}
+{"sentence": "what is on the agenda for the four pm meeting with joe", "label": "calendar/query"}
+{"sentence": "please call china wok and order number seven", "label": "takeaway/order"}
+{"sentence": "tell me which catering packages are available", "label": "takeaway/query"}
+{"sentence": "set the event to recur on the first monday of the month", "label": "calendar/set"}
+{"sentence": "order general t'so eggroll to go", "label": "takeaway/order"}
+{"sentence": "how many minutes do i need to wait to pick up my food from china on the go", "label": "takeaway/query"}
+{"sentence": "does restaurant have takeaway", "label": "takeaway/query"}
+{"sentence": "can you order me some pizza", "label": "takeaway/order"}
+{"sentence": "turn up the speakers", "label": "audio/volume_up"}
+{"sentence": "latest updates on syrian civil war", "label": "news/query"}
+{"sentence": "delete all meetings for tomorrow", "label": "calendar/remove"}
+{"sentence": "take out event from calendar", "label": "calendar/remove"}
+{"sentence": "cancel the breakfast at tiffany's house", "label": "calendar/remove"}
+{"sentence": "cnn", "label": "news/query"}
+{"sentence": "please cancel my next hair cut", "label": "calendar/remove"}
+{"sentence": "hey olly tell my today's top news", "label": "news/query"}
+{"sentence": "find hotel order food name", "label": "takeaway/order"}
+{"sentence": "clean my entire calendar", "label": "calendar/remove"}
+{"sentence": "order chinese from china spring wonton soup and a small beef and broccoli", "label": "takeaway/order"}
+{"sentence": "add to calendar may two is mary's birthday repeat every year", "label": "calendar/set"}
+{"sentence": "mute for one hour", "label": "audio/volume_mute"}
+{"sentence": "order me postmates of mcdonald", "label": "takeaway/order"}
+{"sentence": "check and see what will be the weather condition in new jersey at eight am tomorrow", "label": "weather/query"}
+{"sentence": "any good fast food items", "label": "takeaway/order"}
+{"sentence": "order me some chipotle", "label": "takeaway/order"}
+{"sentence": "please find the recipe for meatballs", "label": "cooking/recipe"}
+{"sentence": "recipe for meal", "label": "cooking/recipe"}
+{"sentence": "please mute the speakers", "label": "audio/volume_mute"}
+{"sentence": "pause for ten seconds", "label": "audio/volume_mute"}
+{"sentence": "can they provide takeaway", "label": "takeaway/query"}
+{"sentence": "recipes", "label": "cooking/recipe"}
+{"sentence": "go to sleep", "label": "audio/volume_mute"}
+{"sentence": "will there be snow tomorrow", "label": "weather/query"}
+{"sentence": "sound off", "label": "audio/volume_mute"}
+{"sentence": "get yourself muted", "label": "audio/volume_mute"}
+{"sentence": "my events", "label": "calendar/query"}
+{"sentence": "speak louder", "label": "audio/volume_up"}
+{"sentence": "create a meeting event in my calendar", "label": "calendar/set"}
+{"sentence": "what is the forecast", "label": "weather/query"}
+{"sentence": "will i need an umbrella tomorrow", "label": "weather/query"}
+{"sentence": "does peking garden deliver", "label": "takeaway/query"}
+{"sentence": "any fast food meal offers", "label": "takeaway/order"}
+{"sentence": "add event to calendar", "label": "calendar/set"}
+{"sentence": "could you please schedule a meeting with this person", "label": "calendar/set"}
+{"sentence": "what meetings do i have next thursday", "label": "calendar/query"}
+{"sentence": "please hold for the next hour", "label": "audio/volume_mute"}
+{"sentence": "google what is the temperature outside", "label": "weather/query"}
+{"sentence": "what is the latest headline news from this newsource", "label": "news/query"}
+{"sentence": "how can a cook risotto", "label": "cooking/recipe"}
+{"sentence": "just increase the volume a little", "label": "audio/volume_up"}
+{"sentence": "when is dale's birthday", "label": "calendar/query"}
+{"sentence": "set the settings to mute", "label": "audio/volume_mute"}
+{"sentence": "what conducts heat better copper bottomed pots or cast iron", "label": "cooking/recipe"}
+{"sentence": "find the correct temperature for frying a whole turkey", "label": "cooking/recipe"}
+{"sentence": "please explain the rice recipe", "label": "cooking/recipe"}
+{"sentence": "hows the food order going", "label": "takeaway/query"}
+{"sentence": "take off the doctor's appointment on march twentieth", "label": "calendar/remove"}
+{"sentence": "remind me about my monday meeting with peter francis fifteen minutes before the meeting", "label": "calendar/set"}
+{"sentence": "what are the most recent headlines on cnn", "label": "news/query"}
+{"sentence": "does restaurant royale deliver takeaway", "label": "takeaway/query"}
+{"sentence": "unmute", "label": "audio/volume_up"}
+{"sentence": "down the speaker volume at the end of level", "label": "audio/volume_mute"}
+{"sentence": "keep me informed about bitcoin price", "label": "news/query"}
+{"sentence": "set a neighbor party for next week", "label": "calendar/set"}
+{"sentence": "will it rain in the noon", "label": "weather/query"}
+{"sentence": "I need the volume to be quieter", "label": "audio/volume_down"}
+{"sentence": "please confirm the weather for the thirteenth of this month", "label": "weather/query"}
+{"sentence": "make sure there is no events on my calendar", "label": "calendar/remove"}
+{"sentence": "search for your favorite meal", "label": "cooking/recipe"}
+{"sentence": "i feel like having soup for lunch order from wangs kitchen restaurant a chicken manchow soup", "label": "takeaway/order"}
+{"sentence": "don't speak for an hour", "label": "audio/volume_mute"}
+{"sentence": "whats the weather now", "label": "weather/query"}
+{"sentence": "tell me the weather for new york city", "label": "weather/query"}
+{"sentence": "can you direct me to the menu for the highest rated chinese carryout near me", "label": "takeaway/order"}
+{"sentence": "mute the living room speakers", "label": "audio/volume_mute"}
+{"sentence": "when is bank holiday", "label": "calendar/query"}
+{"sentence": "delete all my events for tomorrow", "label": "calendar/remove"}
+{"sentence": "turn off the sound", "label": "audio/volume_mute"}
+{"sentence": "find out if the restaurant does takeaway orders", "label": "takeaway/query"}
+{"sentence": "the current news", "label": "news/query"}
+{"sentence": "charges of delivery", "label": "takeaway/query"}
+{"sentence": "whats the average temperature in mangalore for this week", "label": "weather/query"}
+{"sentence": "let me know when you hear about france", "label": "news/query"}
+{"sentence": "when i get home can you please order a pizza", "label": "takeaway/order"}
+{"sentence": "i need to hear the volume of the current music", "label": "audio/volume_up"}
+{"sentence": "the music volume should increase to ninety", "label": "audio/volume_up"}
+{"sentence": "can you tell me the next scheduled event", "label": "calendar/query"}
+{"sentence": "crabmeat recipe", "label": "cooking/recipe"}
+{"sentence": "please add dinner with mary to my calendar on saturday", "label": "calendar/set"}
+{"sentence": "contact pizza hut and order a large pizza with ham and mushrooms", "label": "takeaway/order"}
+{"sentence": "do they deliver", "label": "takeaway/query"}
+{"sentence": "turn up sound", "label": "audio/volume_up"}
+{"sentence": "delete my dr k appointment in march", "label": "calendar/remove"}
+{"sentence": "show me my events", "label": "calendar/query"}
+{"sentence": "you're too loud", "label": "audio/volume_down"}
+{"sentence": "remind me to have launch with boss today at one pm", "label": "calendar/set"}
+{"sentence": "what's the news in politics on cnn", "label": "news/query"}
+{"sentence": "please keep quiet for the next hour", "label": "audio/volume_mute"}
+{"sentence": "should i take an umbrella today", "label": "weather/query"}
+{"sentence": "calendar event send invite bill malinda", "label": "calendar/set"}
+{"sentence": "order takeout", "label": "takeaway/order"}
+{"sentence": "Turn down volume", "label": "audio/volume_down"}
+{"sentence": "add my spin class to the calendar for Saturday at seven am", "label": "calendar/set"}
+{"sentence": "get me match highlights", "label": "news/query"}
+{"sentence": "what's happening in world news today", "label": "news/query"}
+{"sentence": "what temperature do you bake a potato", "label": "cooking/recipe"}
+{"sentence": "weather in chicago please", "label": "weather/query"}
+{"sentence": "what am i up to this weekend", "label": "calendar/query"}
+{"sentence": "set the alarm in my calendar events before five mins", "label": "calendar/set"}
+{"sentence": "what's my next appointment", "label": "calendar/query"}
+{"sentence": "don't let me forget i have a parent teacher conference this monday at four hundred pm", "label": "calendar/set"}
+{"sentence": "how is my order", "label": "takeaway/query"}
+{"sentence": "is dinner ready yet", "label": "takeaway/query"}
+{"sentence": "is it colder than yesterday", "label": "weather/query"}
+{"sentence": "notification regarding the new iphone release update", "label": "news/query"}
+{"sentence": "reviews of the restaurants", "label": "takeaway/query"}
+{"sentence": "add practice to calendar on feb four at king's park at two pm", "label": "calendar/set"}
+{"sentence": "could you please help me to order some sushi from deliveroo", "label": "takeaway/order"}
+{"sentence": "enter silence mode", "label": "audio/volume_mute"}
+{"sentence": "i want to read yahoo news", "label": "news/query"}
+{"sentence": "set a notification on third march about company meeting", "label": "calendar/set"}
+{"sentence": "what else is on the list", "label": "calendar/query"}
+{"sentence": "cancel tomorrow's meeting", "label": "calendar/remove"}
+{"sentence": "can you remind my next meeting with my boss one hour before it will happen", "label": "calendar/set"}
+{"sentence": "delete meeting", "label": "calendar/remove"}
+{"sentence": "can you please disregard the party that i will be going to this weekend on my calendar", "label": "calendar/remove"}
+{"sentence": "schedule a delivery from food at the nearby takeaway diner", "label": "takeaway/order"}
+{"sentence": "is my order ready for pick up now", "label": "takeaway/query"}
+{"sentence": "how to make cheesecake", "label": "cooking/recipe"}
+{"sentence": "remove all the events and schedules", "label": "calendar/remove"}
+{"sentence": "can you delete the not so important events", "label": "calendar/remove"}
+{"sentence": "what is next in my calendar", "label": "calendar/query"}
+{"sentence": "hello beef up the volume a little bit", "label": "audio/volume_up"}
+{"sentence": "how many eggs should i put in my cake mixture", "label": "cooking/recipe"}
+{"sentence": "what time can i pick up my food", "label": "takeaway/query"}
+{"sentence": "i cant hear a thing", "label": "audio/volume_up"}
+{"sentence": "i need to know if mr pizza delivers", "label": "takeaway/query"}
+{"sentence": "where is the event today", "label": "calendar/query"}
+{"sentence": "open news about bp oil", "label": "news/query"}
+{"sentence": "last take away order", "label": "takeaway/query"}
+{"sentence": "does fongs have delivery", "label": "takeaway/query"}
+{"sentence": "what should i make for dinner", "label": "cooking/recipe"}
+{"sentence": "what will be the weather update for monday noon", "label": "weather/query"}
+{"sentence": "show me a spaghetti recipe", "label": "cooking/recipe"}
+{"sentence": "next week my uncle birthday", "label": "calendar/set"}
+{"sentence": "checkout top restaurant near me and order shahi panner", "label": "takeaway/order"}
+{"sentence": "set mute until said otherwise", "label": "audio/volume_mute"}
+{"sentence": "look up news articles about trump", "label": "news/query"}
+{"sentence": "could you please recommend a mexican restaurant for take out", "label": "takeaway/query"}
+{"sentence": "can i get an order delivered from romero's", "label": "takeaway/query"}
+{"sentence": "how do i make meatloaf", "label": "cooking/recipe"}
+{"sentence": "when is my order ready", "label": "takeaway/query"}
+{"sentence": "i want to slow down my speaker", "label": "audio/volume_down"}
+{"sentence": "make a list of all the halloween events going around in new york", "label": "calendar/query"}
+{"sentence": "i need a high volume", "label": "audio/volume_up"}
+{"sentence": "what food is good", "label": "cooking/recipe"}
+{"sentence": "yo order take out from jason's deli on sixth ave", "label": "takeaway/order"}
+{"sentence": "please show me the local weather", "label": "weather/query"}
+{"sentence": "place a take out order at olive garden", "label": "takeaway/order"}
+{"sentence": "how do you make cookies", "label": "cooking/recipe"}
+{"sentence": "when is the next time it will rain", "label": "weather/query"}
+{"sentence": "set reminder notification for three o'clock", "label": "calendar/set"}
+{"sentence": "please do not respond", "label": "audio/volume_mute"}
+{"sentence": "does that restaurant allow call in orders", "label": "takeaway/query"}
+{"sentence": "get news from bbc", "label": "news/query"}
+{"sentence": "what will the weather be next week", "label": "weather/query"}
+{"sentence": "status for the pizza delivery from pizza hut", "label": "takeaway/query"}
+{"sentence": "show me the weather forecast for the next three three days", "label": "weather/query"}
+{"sentence": "please order my favorite dish from my favorite restaurant", "label": "takeaway/order"}
+{"sentence": "order me a byron from deliveroo", "label": "takeaway/order"}
+{"sentence": "please remove the doctor appointment in my calendar for february twelfth at nine am", "label": "calendar/remove"}
+{"sentence": "order me a large ham and olive pizza from dominos", "label": "takeaway/order"}
+{"sentence": "can you turn that down", "label": "audio/volume_down"}
+{"sentence": "tell me how to cook meatballs", "label": "cooking/recipe"}
+{"sentence": "turn_down speakers", "label": "audio/volume_down"}
+{"sentence": "raise the volume to sixty", "label": "audio/volume_up"}
+{"sentence": "thursday at three pm there is a teachers meeting i need to be reminded of", "label": "calendar/set"}
+{"sentence": "i want some curry to go any recommendations", "label": "takeaway/query"}
+{"sentence": "set a reminder for two days prior of the event", "label": "calendar/set"}
+{"sentence": "delete my meeting for one pm on march nineteenth", "label": "calendar/remove"}
+{"sentence": "bring back talking after", "label": "audio/volume_up"}
+{"sentence": "is the thanks giving event on fourteenth of this month true", "label": "calendar/query"}
+{"sentence": "please cook me a hamburger", "label": "cooking/recipe"}
+{"sentence": "just set me reminders about pending payment of children school fees", "label": "calendar/set"}
+{"sentence": "give me international news", "label": "news/query"}
+{"sentence": "what time do i have a doctors appointment on the twenty second", "label": "calendar/query"}
+{"sentence": "delete all events for the next five days", "label": "calendar/remove"}
+{"sentence": "play it louder", "label": "audio/volume_up"}
+{"sentence": "tell me if the olive garden allows takeaway", "label": "takeaway/query"}
+{"sentence": "when is my next appointment and who do i contact to reschedule", "label": "calendar/query"}
+{"sentence": "what can i cook with broccoli and chicken", "label": "cooking/recipe"}
+{"sentence": "mute yourself until i say otherwise", "label": "audio/volume_mute"}
+{"sentence": "cancel meeting at three", "label": "calendar/remove"}
+{"sentence": "whats needed to make pizza", "label": "cooking/recipe"}
+{"sentence": "order chinese for delivery", "label": "takeaway/order"}
+{"sentence": "does this restaurant deliver", "label": "takeaway/query"}
+{"sentence": "turn speaker volume down", "label": "audio/volume_down"}
+{"sentence": "mute immediately", "label": "audio/volume_mute"}
+{"sentence": "delete the next event in the calendar", "label": "calendar/remove"}
+{"sentence": "temperature this hour", "label": "weather/query"}
+{"sentence": "will it be nice at the beach on friday", "label": "weather/query"}
+{"sentence": "speaker volume decrease", "label": "audio/volume_down"}
+{"sentence": "what is new in politics today can you filter out trump news though", "label": "news/query"}
+{"sentence": "decrease volume to very soft", "label": "audio/volume_down"}
+{"sentence": "confirm the order and send me the confirmation", "label": "takeaway/order"}
+{"sentence": "remove the next event on my calendar", "label": "calendar/remove"}
+{"sentence": "what time does the dinner party start tonight", "label": "calendar/query"}
+{"sentence": "delete lunch tomorrow", "label": "calendar/remove"}
+{"sentence": "hey olly mute the speakers", "label": "audio/volume_mute"}
+{"sentence": "how is the weather of this place", "label": "weather/query"}
+{"sentence": "tell me how to cook pasta", "label": "cooking/recipe"}
+{"sentence": "i would like to attend church every sunday at eleven am", "label": "calendar/set"}
+{"sentence": "no no turn it down", "label": "audio/volume_down"}
+{"sentence": "please unmute yourself", "label": "audio/volume_mute"}
+{"sentence": "increase the volume so that i can hear it in other room", "label": "audio/volume_up"}
+{"sentence": "tell me the recipe to cook pav bhaji", "label": "cooking/recipe"}
+{"sentence": "what is my afternoon schedule tomorrow", "label": "calendar/query"}
+{"sentence": "remove my dinner event for monday", "label": "calendar/remove"}
+{"sentence": "what is latest on the recent events happening right now", "label": "news/query"}
+{"sentence": "is it currently raining", "label": "weather/query"}
+{"sentence": "remind me off about my tomorrow meeting sharply at ten", "label": "calendar/set"}
+{"sentence": "pause the music", "label": "audio/volume_mute"}
+{"sentence": "increase volume", "label": "audio/volume_up"}
+{"sentence": "how to cook yellow rice", "label": "cooking/recipe"}
+{"sentence": "what's coming up this week", "label": "calendar/query"}
+{"sentence": "i want to know the procedure of making thanksgiving turkey in five sentences", "label": "cooking/recipe"}
+{"sentence": "remind me to take the casserole out of the oven at seven hundred and forty five pm", "label": "calendar/set"}
+{"sentence": "give some of delete in today events", "label": "calendar/remove"}
+{"sentence": "change my plan erase my next event", "label": "calendar/remove"}
+{"sentence": "are there any cooking classes nearby my area", "label": "cooking/recipe"}
+{"sentence": "how soon can we expect rain", "label": "weather/query"}
+{"sentence": "what is the headline from today's morning local news", "label": "news/query"}
+{"sentence": "delete all events in calendar", "label": "calendar/remove"}
+{"sentence": "remind me if i miss my evening walk routine", "label": "calendar/set"}
+{"sentence": "could you please find me the latest news from a source that i do not usually go to", "label": "news/query"}
+{"sentence": "please check if paradise does takeaway", "label": "takeaway/query"}
+{"sentence": "increase the volume please", "label": "audio/volume_up"}
+{"sentence": "please change the volume to mute", "label": "audio/volume_mute"}
+{"sentence": "is it raining now", "label": "weather/query"}
+{"sentence": "can you mute my speaker", "label": "audio/volume_mute"}
+{"sentence": "it's time for junk food", "label": "takeaway/order"}
+{"sentence": "delete the party on june first from my calendar", "label": "calendar/remove"}
+{"sentence": "do i need a jacket today", "label": "weather/query"}
+{"sentence": "add to calendar an medical appointment for the first day of the next five months", "label": "calendar/set"}
+{"sentence": "please turn down the volume", "label": "audio/volume_down"}
+{"sentence": "please let me know about topic elections", "label": "news/query"}
+{"sentence": "place order to pizza takeout for seven pm", "label": "takeaway/order"}
+{"sentence": "tell me if taco bell delivers", "label": "takeaway/query"}
+{"sentence": "call the restaurant to see if the delivery is on the way", "label": "takeaway/query"}
+{"sentence": "give me the headline news", "label": "news/query"}
+{"sentence": "can i get a recipe for tuna", "label": "cooking/recipe"}
+{"sentence": "order a meal from a nice restaurant", "label": "takeaway/order"}
+{"sentence": "please set this date to repeat", "label": "calendar/set"}
+{"sentence": "what is the status of my order no", "label": "takeaway/query"}
+{"sentence": "more volume please", "label": "audio/volume_up"}
+{"sentence": "quieter", "label": "audio/volume_down"}
+{"sentence": "remind me about tomorrow meeting at ten am", "label": "calendar/set"}
+{"sentence": "dentist appointment today at nine am", "label": "calendar/set"}
+{"sentence": "cancel my event on june nineteenth", "label": "calendar/remove"}
+{"sentence": "turn down the sound", "label": "audio/volume_down"}
+{"sentence": "erase my appointment with ted", "label": "calendar/remove"}
+{"sentence": "what's going on in new york", "label": "news/query"}
+{"sentence": "are you sure its going to rain tomorrow", "label": "weather/query"}
+{"sentence": "is my schedule full for tomorrow from eight am to two pm", "label": "calendar/query"}
+{"sentence": "why do people use avocado seeds", "label": "cooking/recipe"}
+{"sentence": "please be quiet", "label": "audio/volume_mute"}
+{"sentence": "will i be able to get away with shorts today", "label": "weather/query"}
+{"sentence": "is it going to be nice tomorrow", "label": "weather/query"}
+{"sentence": "find my food", "label": "takeaway/query"}
+{"sentence": "do i need a light or heavy jacket today", "label": "weather/query"}
+{"sentence": "what's the weather in toronto today", "label": "weather/query"}
+{"sentence": "what's on my schedule this week", "label": "calendar/query"}
+{"sentence": "what is the status of my order", "label": "takeaway/query"}
+{"sentence": "will the pizza be here soon", "label": "takeaway/query"}
+{"sentence": "i can't hear you", "label": "audio/volume_up"}
+{"sentence": "turn the volume up", "label": "audio/volume_up"}
+{"sentence": "what is happening with brexit today", "label": "news/query"}
+{"sentence": "do not talk", "label": "audio/volume_mute"}
+{"sentence": "destroy all events", "label": "calendar/remove"}
+{"sentence": "i would like to order some takeout", "label": "takeaway/order"}
+{"sentence": "people canceling iowa vacations over congressman's words", "label": "news/query"}
+{"sentence": "check the dish price and all", "label": "takeaway/query"}
+{"sentence": "lower the volume on the speakers", "label": "audio/volume_down"}
+{"sentence": "can i get takeout from pf changs", "label": "takeaway/query"}
+{"sentence": "tell me the news about jallikattu in tamil nadu", "label": "news/query"}
+{"sentence": "get me some food", "label": "takeaway/order"}
+{"sentence": "tell me the preparation method for chicken sixty five", "label": "cooking/recipe"}
+{"sentence": "how do i make meal", "label": "cooking/recipe"}
+{"sentence": "i need to mute the speaker", "label": "audio/volume_mute"}
+{"sentence": "i have to go to a meting on friday at noon can you remind me", "label": "calendar/set"}
+{"sentence": "do i have free time next tuesday to schedule a meeting", "label": "calendar/query"}
+{"sentence": "call china king chinese restaurant", "label": "takeaway/order"}
+{"sentence": "what goes with risotto", "label": "cooking/recipe"}
+{"sentence": "do i have anything planned for the twenty first", "label": "calendar/query"}
+{"sentence": "order two large pizzas and pieces of hot wings from dominoes", "label": "takeaway/order"}
+{"sentence": "i want to order chinese takeout", "label": "takeaway/order"}
+{"sentence": "will it be raining on thursday", "label": "weather/query"}
+{"sentence": "what time is my domino's order expected to arrive", "label": "takeaway/query"}
+{"sentence": "i am unable to hear you can you speak little loud", "label": "audio/volume_up"}
+{"sentence": "can you please stop speaking", "label": "audio/volume_mute"}
+{"sentence": "clear my calendar for saturday", "label": "calendar/remove"}
+{"sentence": "delete everything on my calendar for the next two weeks", "label": "calendar/remove"}
+{"sentence": "how to cook this food", "label": "cooking/recipe"}
+{"sentence": "what is the weather for the school week", "label": "weather/query"}
+{"sentence": "call china wok", "label": "takeaway/order"}
+{"sentence": "how's the weather today", "label": "weather/query"}
+{"sentence": "volume louder please", "label": "audio/volume_up"}
+{"sentence": "is there any new news on trump", "label": "news/query"}
+{"sentence": "how do i bake a potato", "label": "cooking/recipe"}
+{"sentence": "hey please provide information about events by the end of the day", "label": "calendar/query"}
+{"sentence": "latest news update", "label": "news/query"}
+{"sentence": "please raise the volume of speaker", "label": "audio/volume_up"}
+{"sentence": "rm rf calendar", "label": "calendar/remove"}
+{"sentence": "what a sunny day", "label": "weather/query"}
+{"sentence": "make a repeating reminder for tomorrow", "label": "calendar/set"}
+{"sentence": "find if takeaway possible in restaurant pizzahouse", "label": "takeaway/query"}
+{"sentence": "place an order for a pepperoni pizza at papa johns", "label": "takeaway/order"}
+{"sentence": "i want to order a pizza from michael's pizza", "label": "takeaway/order"}
+{"sentence": "what's happening today", "label": "news/query"}
+{"sentence": "do i need a sweater today", "label": "weather/query"}
+{"sentence": "please remove this event from my calendar", "label": "calendar/remove"}
+{"sentence": "increase the volume of the music to ninety", "label": "audio/volume_up"}
+{"sentence": "speak louder please", "label": "audio/volume_up"}
+{"sentence": "what's the temperature", "label": "weather/query"}
+{"sentence": "delete every event", "label": "calendar/remove"}
+{"sentence": "remember dinner on thursday at bistro italia", "label": "calendar/set"}
+{"sentence": "do not speak today", "label": "audio/volume_mute"}
+{"sentence": "speak quieter", "label": "audio/volume_down"}
+{"sentence": "update me on the standing rock protest", "label": "news/query"}
+{"sentence": "do we add rosemary in pasta", "label": "cooking/recipe"}
+{"sentence": "will it get warmer here next week", "label": "weather/query"}
+{"sentence": "let me know when my meetings are on monday", "label": "calendar/set"}
+{"sentence": "tell me how to make garlic bread", "label": "cooking/recipe"}
+{"sentence": "give me the news", "label": "news/query"}
+{"sentence": "i dont want to carry an umbrella will we have rain today", "label": "weather/query"}
+{"sentence": "tell me about the meetings over a period of time", "label": "calendar/query"}
+{"sentence": "please tell me the chances of rain this week for zip code twenty nine thousand nine hundred and seventy eight", "label": "weather/query"}
+{"sentence": "who is scheduled for tomorrow's meeting", "label": "calendar/query"}
+{"sentence": "i just ordered food call and see it has been delivered", "label": "takeaway/query"}
+{"sentence": "it should spices", "label": "cooking/recipe"}
+{"sentence": "too loud", "label": "audio/volume_down"}
+{"sentence": "show me how to cook a recipe", "label": "cooking/recipe"}
+{"sentence": "what is the climate here today", "label": "weather/query"}
+{"sentence": "ordering food", "label": "takeaway/order"}
+{"sentence": "cancel all my appointments", "label": "calendar/remove"}
+{"sentence": "what's happening on bbc news today", "label": "news/query"}
+{"sentence": "places with pizza delivery near me", "label": "takeaway/order"}
+{"sentence": "order some takeaway food", "label": "takeaway/order"}
+{"sentence": "how does it feel outside", "label": "weather/query"}
+{"sentence": "call pf chang's to order me egg foo young", "label": "takeaway/order"}
+{"sentence": "is soft cheese better than hard", "label": "cooking/recipe"}
+{"sentence": "headline news for texas", "label": "news/query"}
+{"sentence": "does paradise has takeaway", "label": "takeaway/query"}
+{"sentence": "mute speaker", "label": "audio/volume_mute"}
+{"sentence": "i am so hungry and tired and i think i might order some food now", "label": "takeaway/order"}
+{"sentence": "does the nearby chinese restaurant do delivery", "label": "takeaway/query"}
+{"sentence": "any signs of rain", "label": "weather/query"}
+{"sentence": "evaporated", "label": "cooking/recipe"}
+{"sentence": "set the volume to low", "label": "audio/volume_down"}
+{"sentence": "will there be snow this week", "label": "weather/query"}
+{"sentence": "low the volume", "label": "audio/volume_down"}
+{"sentence": "clear my day on the twenty ninth", "label": "calendar/remove"}
+{"sentence": "delete that", "label": "calendar/remove"}
+{"sentence": "restaurant order status", "label": "takeaway/query"}
+{"sentence": "show me the latest news from the un", "label": "news/query"}
+{"sentence": "what's the latest news about us election", "label": "news/query"}
+{"sentence": "at what temperature should i bake cookies", "label": "cooking/recipe"}
+{"sentence": "current weather forecast", "label": "weather/query"}
+{"sentence": "can you speak a little louder", "label": "audio/volume_up"}
+{"sentence": "on january twenty five set meeting for twelve", "label": "calendar/set"}
+{"sentence": "what do i have scheduled for next week", "label": "calendar/query"}
+{"sentence": "check the news", "label": "news/query"}
+{"sentence": "please order me pizza and wings from papa johns now", "label": "takeaway/order"}
+{"sentence": "turn up speakers", "label": "audio/volume_up"}
+{"sentence": "i no longer need to see the doctor can that event be removed", "label": "calendar/remove"}
+{"sentence": "cnn headlines", "label": "news/query"}
+{"sentence": "does dominos has a delivery option", "label": "takeaway/query"}
+{"sentence": "do they deliver home", "label": "takeaway/query"}
+{"sentence": "top news", "label": "news/query"}
+{"sentence": "take away all events", "label": "calendar/remove"}
+{"sentence": "decrease the volume to ten percent", "label": "audio/volume_down"}
+{"sentence": "call and order pizza for delivery", "label": "takeaway/order"}
+{"sentence": "speakers off", "label": "audio/volume_mute"}
+{"sentence": "what events are this week", "label": "calendar/query"}
+{"sentence": "get me the latest news of world", "label": "news/query"}
+{"sentence": "what is the status on my takeout", "label": "takeaway/query"}
+{"sentence": "remove all the events on my calendar", "label": "calendar/remove"}
+{"sentence": "how many calories are in a one divided by of peanuts", "label": "cooking/recipe"}
+{"sentence": "shall we meet for today's party", "label": "calendar/query"}
+{"sentence": "lower the volume to twenty", "label": "audio/volume_down"}
+{"sentence": "call pizza hut and order a large pan pizza with ham and mushrooms", "label": "takeaway/order"}
+{"sentence": "can i get the food to go", "label": "takeaway/query"}
+{"sentence": "weather for the next week in new york", "label": "weather/query"}
+{"sentence": "clear all events from march seven", "label": "calendar/remove"}
+{"sentence": "order six chicken tacos from chipotle", "label": "takeaway/order"}
+{"sentence": "which teams are playing today in the premier league", "label": "news/query"}
+{"sentence": "please clear my calendar for tomorrow", "label": "calendar/remove"}
+{"sentence": "i would like to have a sushi can you order me a lunch", "label": "takeaway/order"}
+{"sentence": "is it going to rain on monday", "label": "weather/query"}
+{"sentence": "i want to see the recipe of veg biryani", "label": "cooking/recipe"}
+{"sentence": "does my calendar say i'm free on april one two thousand and seventeen", "label": "calendar/query"}
+{"sentence": "remove my meeting today at one pm", "label": "calendar/remove"}
+{"sentence": "whats going on in my calendar", "label": "calendar/query"}
+{"sentence": "reminder about meeting from eight am to twelve pm", "label": "calendar/set"}
+{"sentence": "search for the latest news about iphone", "label": "news/query"}
+{"sentence": "i want to cook italian dishes show me some", "label": "cooking/recipe"}
+{"sentence": "get me takeaway food", "label": "takeaway/order"}
+{"sentence": "find a recipe for homemade bread", "label": "cooking/recipe"}
+{"sentence": "remove my car payment on the fifteenth from my calendar", "label": "calendar/remove"}
+{"sentence": "remove my event at one pm in my calendar", "label": "calendar/remove"}
+{"sentence": "turn up music please", "label": "audio/volume_up"}
+{"sentence": "use google to show me how to cook", "label": "cooking/recipe"}
+{"sentence": "olly please read me today's news", "label": "news/query"}
+{"sentence": "set reminder for tomorrow for this item", "label": "calendar/set"}
+{"sentence": "turn on silent mode until my alarm goes off", "label": "audio/volume_mute"}
+{"sentence": "please turn up the speaker volume", "label": "audio/volume_up"}
+{"sentence": "do i have any undone tasks", "label": "calendar/query"}
+{"sentence": "remind me of my appointment on the fifteenth", "label": "calendar/set"}
+{"sentence": "remove john's birthday from the calendar", "label": "calendar/remove"}
+{"sentence": "Is it going to be windy on Saturday in denver", "label": "weather/query"}
+{"sentence": "hey olly on the twentieth clear my calendar", "label": "calendar/remove"}
+{"sentence": "am i going to need a jacket tomorrow", "label": "weather/query"}
+{"sentence": "cut down the volume", "label": "audio/volume_down"}
+{"sentence": "please tell me when's my financial meeting", "label": "calendar/query"}
+{"sentence": "what were the cities affected by the earthquake", "label": "news/query"}
+{"sentence": "do i have any off days this week", "label": "calendar/query"}
+{"sentence": "what happened to my pizza order it has been an hour since i ordered", "label": "takeaway/query"}
+{"sentence": "does fridays do takeaway", "label": "takeaway/query"}
+{"sentence": "is mr pizza on skip the dishes", "label": "takeaway/query"}
+{"sentence": "how long should i cook a hamburger on each side", "label": "cooking/recipe"}
+{"sentence": "how many cups of sugar in texas sheet cake frosting", "label": "cooking/recipe"}
+{"sentence": "will the weather be bad on Sunday", "label": "weather/query"}
+{"sentence": "give me election updates", "label": "news/query"}
+{"sentence": "please tell me what day this event reminder is set for", "label": "calendar/query"}
+{"sentence": "do i have any get togethers this week", "label": "calendar/query"}
+{"sentence": "reduce volume", "label": "audio/volume_down"}
+{"sentence": "will the temperature be in the today", "label": "weather/query"}
+{"sentence": "remove emma's birthday from events", "label": "calendar/remove"}
+{"sentence": "place order for a chicken manchow soup from wangs kitchen restaurant", "label": "takeaway/order"}
+{"sentence": "please turn up the volume to twenty one", "label": "audio/volume_up"}
+{"sentence": "should i wear a hat today", "label": "weather/query"}
+{"sentence": "order two pizzas from dominoes", "label": "takeaway/order"}
+{"sentence": "stop the audio", "label": "audio/volume_mute"}
+{"sentence": "i can barely hear you", "label": "audio/volume_up"}
+{"sentence": "what is the latest on donald trump", "label": "news/query"}
+{"sentence": "what is the best pizza near me that delivers", "label": "takeaway/order"}
+{"sentence": "please show today meting with clients", "label": "calendar/query"}
+{"sentence": "can i get delivery from here", "label": "takeaway/query"}
+{"sentence": "find the right amount of cinnamon for the garam masala", "label": "cooking/recipe"}
+{"sentence": "create an event gym day on monday and set it to repeat", "label": "calendar/set"}
+{"sentence": "remove the board meeting and reschedule for next wednesday", "label": "calendar/remove"}
+{"sentence": "how is the weather likely to be this week", "label": "weather/query"}
+{"sentence": "show me the recipe for cookies", "label": "cooking/recipe"}
+{"sentence": "what is the bbc's latest news", "label": "news/query"}
+{"sentence": "repeat birthday", "label": "calendar/set"}
+{"sentence": "in five sentences let me know the procedure of making thanksgiving turkey", "label": "cooking/recipe"}
+{"sentence": "what is the news about terrorist attack in afghanistan", "label": "news/query"}
+{"sentence": "how about the latest news", "label": "news/query"}
+{"sentence": "keep me up to date on the election news", "label": "news/query"}
+{"sentence": "remind me of my twelve oclock meeting by eleven thirty", "label": "calendar/set"}
+{"sentence": "what takeout places are near me", "label": "takeaway/order"}
+{"sentence": "cancel my birthday party", "label": "calendar/remove"}
+{"sentence": "write down that i am going to meet with jenny on the third okay", "label": "calendar/set"}
+{"sentence": "shall i change my car tyres to snow tyres soon", "label": "weather/query"}
+{"sentence": "can you get me news from ny times", "label": "news/query"}
+{"sentence": "is there any pending reminder for me", "label": "calendar/query"}
+{"sentence": "place a takeaway order for a cheeseburger and fries from burger king", "label": "takeaway/order"}
+{"sentence": "can i order olive garden to go", "label": "takeaway/query"}
+{"sentence": "delete event from mine", "label": "calendar/remove"}
+{"sentence": "please look up best recipes", "label": "cooking/recipe"}
+{"sentence": "find and order domino pizza at nearest store of domino", "label": "takeaway/order"}
+{"sentence": "i need the volume to be louder", "label": "audio/volume_up"}
+{"sentence": "lower the speakers", "label": "audio/volume_down"}
+{"sentence": "Volume louder softer", "label": "audio/volume_up"}
+{"sentence": "will i need sunblock this weekend", "label": "weather/query"}
+{"sentence": "what events are scheduled this week", "label": "calendar/query"}
+{"sentence": "Hey turn the volume high", "label": "audio/volume_up"}
+{"sentence": "list out my meetings today", "label": "calendar/query"}
+{"sentence": "hey does that restaurant have takeout", "label": "takeaway/query"}
+{"sentence": "tell me the latest news from bbc sports", "label": "news/query"}
+{"sentence": "what was the weather for the week", "label": "weather/query"}
+{"sentence": "what date is my anniversary", "label": "calendar/query"}
+{"sentence": "how do i make cookies", "label": "cooking/recipe"}
+{"sentence": "is today a sunscreen day", "label": "weather/query"}
+{"sentence": "add a reminder to april fourth to go to the dentist", "label": "calendar/set"}
+{"sentence": "order some fried chicken from church's chicken via grubhub", "label": "takeaway/order"}
+{"sentence": "don't speak for a while", "label": "audio/volume_mute"}
+{"sentence": "when will my chinese food arrive", "label": "takeaway/query"}
+{"sentence": "mute the sound", "label": "audio/volume_mute"}
+{"sentence": "restaurant delivery update", "label": "takeaway/query"}
+{"sentence": "please delete this calendar event", "label": "calendar/remove"}
+{"sentence": "be quiet", "label": "audio/volume_mute"}
+{"sentence": "how do i braise a pork loin", "label": "cooking/recipe"}
+{"sentence": "how to cook crabs", "label": "cooking/recipe"}
+{"sentence": "give me the weather for merced at three pm", "label": "weather/query"}
+{"sentence": "turn volume up to highest level", "label": "audio/volume_up"}
+{"sentence": "order a large plain pizza from mimo's for me", "label": "takeaway/order"}
+{"sentence": "time time is the holiday party at the office", "label": "calendar/query"}
+{"sentence": "it is too loud decrease the volume", "label": "audio/volume_down"}
+{"sentence": "do i have a busy day today", "label": "calendar/query"}
+{"sentence": "find easy recipe for corn bread", "label": "cooking/recipe"}
+{"sentence": "remove all the reminders from the calendar", "label": "calendar/remove"}
+{"sentence": "could you order sushi for tonight dinner", "label": "takeaway/order"}
+{"sentence": "call the closest mexican restaurant", "label": "takeaway/order"}
+{"sentence": "recipe for spaghetti", "label": "cooking/recipe"}
+{"sentence": "is calendar event true", "label": "calendar/query"}
+{"sentence": "loudly", "label": "audio/volume_up"}
+{"sentence": "how long should i cook chicken for", "label": "cooking/recipe"}
+{"sentence": "clear my next event", "label": "calendar/remove"}
+{"sentence": "silent mode", "label": "audio/volume_mute"}
+{"sentence": "is this program is scheduled", "label": "calendar/query"}
+{"sentence": "start a takeaway order for me", "label": "takeaway/order"}
+{"sentence": "whats the weather like right now in new york", "label": "weather/query"}
+{"sentence": "checkout subway food centre near me and order tandoori roti", "label": "takeaway/order"}
+{"sentence": "start the radio now on low volume", "label": "audio/volume_down"}
+{"sentence": "erase my next calendar event", "label": "calendar/remove"}
+{"sentence": "could you speak up", "label": "audio/volume_up"}
+{"sentence": "search for the best spagetti recipe", "label": "cooking/recipe"}
+{"sentence": "please could you tell me if george's geek restaurant can i order takeaway from there", "label": "takeaway/query"}
+{"sentence": "remove all events from my calendar", "label": "calendar/remove"}
+{"sentence": "can i order takeaway dinner from byron's", "label": "takeaway/order"}
+{"sentence": "what is the status of last take away order", "label": "takeaway/query"}
+{"sentence": "raise the volume of the speakers to fifty five percent", "label": "audio/volume_up"}
+{"sentence": "find the this week's news about emigration legislation in the us please", "label": "news/query"}
+{"sentence": "mute the volume", "label": "audio/volume_mute"}
+{"sentence": "tell me about current status of sunderland vs liverpool match", "label": "news/query"}
+{"sentence": "volume down", "label": "audio/volume_down"}
+{"sentence": "does arby's do takeaway", "label": "takeaway/query"}
+{"sentence": "have there been updates on abortion law", "label": "news/query"}
+{"sentence": "is my order at domino's ready", "label": "takeaway/query"}
+{"sentence": "can you remind me about my meeting tomorrow", "label": "calendar/set"}
+{"sentence": "tell me when my next doctors appointment is", "label": "calendar/set"}
+{"sentence": "look up whether or not charley's steakhouse delivers", "label": "takeaway/query"}
+{"sentence": "remove today's meeting at evening", "label": "calendar/remove"}
+{"sentence": "get me fresh news", "label": "news/query"}
+{"sentence": "delete the scheduled meeting on fourth october twelve pm", "label": "calendar/remove"}
+{"sentence": "what's happening around the world", "label": "news/query"}
+{"sentence": "remove the fundraiser for dolphines in april", "label": "calendar/remove"}
+{"sentence": "what's the weather supposed to be like on wednesday", "label": "weather/query"}
+{"sentence": "order me some chinese food", "label": "takeaway/order"}
+{"sentence": "Silence speakers", "label": "audio/volume_mute"}
+{"sentence": "do i have any events scheduled today", "label": "calendar/query"}
+{"sentence": "instructions to make a meal", "label": "cooking/recipe"}
+{"sentence": "meeting july calendar", "label": "calendar/query"}
+{"sentence": "do i have meeting with steve this week", "label": "calendar/query"}
+{"sentence": "can i pick up my large order at pizza hut", "label": "takeaway/query"}
+{"sentence": "add a reminder to my calendar every year on this date", "label": "calendar/set"}
+{"sentence": "please remove my next event", "label": "calendar/remove"}
+{"sentence": "will it be rainy tomorrow", "label": "weather/query"}
+{"sentence": "has the weather changed for wednesday at all", "label": "weather/query"}
+{"sentence": "how me the highest weather this week", "label": "weather/query"}
+{"sentence": "make this a bit louder", "label": "audio/volume_up"}
+{"sentence": "set a notification for june fifth every year", "label": "calendar/set"}
+{"sentence": "don't let me forget tomorrow's meeting with sheila", "label": "calendar/set"}
+{"sentence": "whats up with my takeaway", "label": "takeaway/query"}
+{"sentence": "what is a cookie recipe", "label": "cooking/recipe"}
+{"sentence": "when is my next appointment with dr smith", "label": "calendar/query"}
+{"sentence": "what is my schedule for tomorrow", "label": "calendar/query"}
+{"sentence": "how do i cook a pasta", "label": "cooking/recipe"}
+{"sentence": "takeaway noodles one pack", "label": "takeaway/order"}
+{"sentence": "delete my meeting for tomorrow", "label": "calendar/remove"}
+{"sentence": "near pizza shops", "label": "takeaway/order"}
+{"sentence": "what's the current temperature outside", "label": "weather/query"}
+{"sentence": "audio up", "label": "audio/volume_up"}
+{"sentence": "turn up your volume", "label": "audio/volume_up"}

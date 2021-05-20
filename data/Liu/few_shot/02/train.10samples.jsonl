@@ -1,0 +1,180 @@
+{"label": "hue_lightchange", "sentence": "PDA, change the color of my porch lights to green."}
+{"label": "negate", "sentence": "you gave me wrong information."}
+{"label": "hue_lightup", "sentence": "raise the light."}
+{"label": "negate", "sentence": "recheck last action."}
+{"label": "repeat", "sentence": "would you try that instruction said again please."}
+{"label": "factoid", "sentence": "How many grams are there for a cup of butter?"}
+{"label": "order", "sentence": "Order two large pizzas and 2p pieces of hot wings from dominoes."}
+{"label": "negate", "sentence": "please rectify the incorrect command."}
+{"label": "sendemail", "sentence": "Send a batch of emails to my family"}
+{"label": "convert", "sentence": "Olly can you convert my time zone to the timezone I'm currently in?"}
+{"label": "maths", "sentence": "PLZ, SOLVE THIS MATH."}
+{"label": "hue_lighton", "sentence": "Please turn all all lights."}
+{"label": "hue_lightchange", "sentence": "check for the color requirement"}
+{"label": "order", "sentence": "Order a large pan pizza with ham and mushrooms from Pizza Hut."}
+{"label": "sendemail", "sentence": "Send an email to Jerry, ask what time will he be home tonight."}
+{"label": "ticket", "sentence": "Olly I need a ticket for a train ride to atlanta"}
+{"label": "convert", "sentence": "Cortana, if it's 8 PM on the east coast, what time is it in Sacramento, California?"}
+{"label": "order", "sentence": "I would like to pickup a veggie sub with a cookie from Subway."}
+{"label": "maths", "sentence": "what is 2 times 2"}
+{"label": "confirm", "sentence": "can you please check my last command."}
+{"label": "likeness", "sentence": "This is a good song. Put it on repeat."}
+{"label": "repeat", "sentence": "speak again please."}
+{"label": "hue_lightup", "sentence": "I can't see, let's make it brighter"}
+{"label": "maths", "sentence": "What is the answer to 2 plus 2?"}
+{"label": "wemo_on", "sentence": "Turn on switch of wemo socket."}
+{"label": "factoid", "sentence": "Give me the age of Chuck Norris."}
+{"label": "coffee", "sentence": "Olly, brew a pot of coffee."}
+{"label": "createoradd", "sentence": "make a new list for me"}
+{"label": "ticket", "sentence": "Olly please purchase me a train ticket to atlanta"}
+{"label": "querycontact", "sentence": "link me to jeff's email"}
+{"label": "createoradd", "sentence": "put the item on the list"}
+{"label": "sendemail", "sentence": "Send a reply to this email."}
+{"label": "maths", "sentence": "what is 0/0?"}
+{"label": "order", "sentence": "Show me nearby takeout restuarants"}
+{"label": "repeat", "sentence": "tell me what you've just said once more please."}
+{"label": "querycontact", "sentence": "Send hi in watsapp to vikki"}
+{"label": "factoid", "sentence": "emma watson"}
+{"label": "wemo_on", "sentence": "You can also add additional switches to your home to control more devices."}
+{"label": "repeat", "sentence": "please let's try your word spoke again."}
+{"label": "negate", "sentence": "shit, i think you did a task all wrong."}
+{"label": "convert", "sentence": "What time is 12PM Eastern Time in Pacific Time?"}
+{"label": "convert", "sentence": "Convert GMT to IST."}
+{"label": "querycontact", "sentence": "Can you give me details on John?"}
+{"label": "hue_lighton", "sentence": "Please turn the lights on."}
+{"label": "hue_lighton", "sentence": "Olly It's awfully dark here"}
+{"label": "order", "sentence": "How about some pizza tonight Olly? Can you please order a pepperoni large?"}
+{"label": "ticket", "sentence": "bring me a train ticket."}
+{"label": "maths", "sentence": "do you know math?"}
+{"label": "order", "sentence": "Order the best priced General Tofu in Nyack"}
+{"label": "convert", "sentence": "convert 10:30 from GMT +2:30 to GMT 0:00"}
+{"label": "repeat", "sentence": "would you do it again please."}
+{"label": "confirm", "sentence": "can you check and confirm that."}
+{"label": "wemo_on", "sentence": "Turn on the socket."}
+{"label": "currency", "sentence": "What is the exchange rate between the dollar and the Euro currently?"}
+{"label": "hue_lightup", "sentence": "Olly can you raise the lights for me please?"}
+{"label": "wemo_on", "sentence": "On/off mobile charger plug"}
+{"label": "repeat", "sentence": "would you try again please."}
+{"label": "querycontact", "sentence": "What is my daughter's phone number."}
+{"label": "ticket", "sentence": "I need to book a train ticket from mumbai to goa"}
+{"label": "wemo_on", "sentence": "Turn on the geyser"}
+{"label": "likeness", "sentence": "the song makes me remember certain memories"}
+{"label": "currency", "sentence": "How many pesos can I get for a dollar right now?"}
+{"label": "convert", "sentence": "set timezone"}
+{"label": "hue_lightchange", "sentence": "Replace the current light colours in the house with dark ones."}
+{"label": "confirm", "sentence": "i'd like you check and confirm the details please."}
+{"label": "negate", "sentence": "wait, i think it's not the correct answer."}
+{"label": "createoradd", "sentence": "open a new list for me"}
+{"label": "querycontact", "sentence": "can you pull up jeff"}
+{"label": "querycontact", "sentence": "Is there a way to pull up information about a contact?"}
+{"label": "convert", "sentence": "time zone between india and US"}
+{"label": "coffee", "sentence": "Please make coffee according to my earlier preferance"}
+{"label": "currency", "sentence": "What is a Canadian dollar worth in the US?"}
+{"label": "hue_lighton", "sentence": "and the light began"}
+{"label": "coffee", "sentence": "Olly, I would like to have a cup of coffee."}
+{"label": "likeness", "sentence": "Hey Olly I like music by Sigur Ros"}
+{"label": "confirm", "sentence": "will you check and confirm last thing said."}
+{"label": "sendemail", "sentence": "reply wishes to john by email"}
+{"label": "negate", "sentence": "please modify that command."}
+{"label": "createoradd", "sentence": "Make a note on my to-do list to call the realtor."}
+{"label": "hue_lightup", "sentence": "More lights please"}
+{"label": "coffee", "sentence": "Make me a coffee"}
+{"label": "coffee", "sentence": "Start coffee machine."}
+{"label": "confirm", "sentence": "please check detail."}
+{"label": "currency", "sentence": "What exchange rate does the US dollar and the Euro have?"}
+{"label": "repeat", "sentence": "will you try again."}
+{"label": "factoid", "sentence": "What is Barack Obama doing right now?"}
+{"label": "createoradd", "sentence": "Please create a new list for me"}
+{"label": "maths", "sentence": "What is 5 divided by 1"}
+{"label": "coffee", "sentence": "Start coffee."}
+{"label": "convert", "sentence": "What is the time difference between Eastern time and Pacific time?"}
+{"label": "wemo_on", "sentence": "turn on socket"}
+{"label": "hue_lightup", "sentence": "Switch up the color of the lights in the house."}
+{"label": "coffee", "sentence": "Olly, please start the coffee."}
+{"label": "likeness", "sentence": "THAT SONG IS MY FAVORITE."}
+{"label": "coffee", "sentence": "I want coffee everyday"}
+{"label": "hue_lightup", "sentence": "Increase the light in the room"}
+{"label": "maths", "sentence": "answer this mathematical question."}
+{"label": "hue_lightchange", "sentence": "hey siri chance the current light settings"}
+{"label": "querycontact", "sentence": "What's the address for Alex"}
+{"label": "wemo_on", "sentence": "Turn on living room radio"}
+{"label": "wemo_on", "sentence": "turn on when plugged in else turn off"}
+{"label": "currency", "sentence": "Please look up exchange between US and Mexco"}
+{"label": "factoid", "sentence": "Where is Russia located?"}
+{"label": "hue_lighton", "sentence": "Turn on all upstairs lights."}
+{"label": "querycontact", "sentence": "Can you please give me John's email?"}
+{"label": "negate", "sentence": "i am sorry but i think you made mistakes."}
+{"label": "coffee", "sentence": "make coffee now"}
+{"label": "sendemail", "sentence": "PDA, create an email that needs to go out to my family."}
+{"label": "sendemail", "sentence": "i want to replay to Allen"}
+{"label": "createoradd", "sentence": "add business contacts to contact list"}
+{"label": "wemo_on", "sentence": "Turn on kitchen light"}
+{"label": "likeness", "sentence": "That's a good song"}
+{"label": "hue_lightchange", "sentence": "make the lights pink at the house"}
+{"label": "factoid", "sentence": "Is California between Nevada and New York?"}
+{"label": "negate", "sentence": "i am sorry but i think that's not the correct answer."}
+{"label": "maths", "sentence": "Please add one plus one"}
+{"label": "ticket", "sentence": "Print kids train ticket for this Thursday"}
+{"label": "hue_lightchange", "sentence": "Olly, rotate the light colors."}
+{"label": "confirm", "sentence": "i want you check what i last said please."}
+{"label": "querycontact", "sentence": "Who is the most frequently called person in my phone book?"}
+{"label": "createoradd", "sentence": "Please create a list of Due payment those who not received more then 10 Months."}
+{"label": "currency", "sentence": "What's the exchange rate for..."}
+{"label": "hue_lighton", "sentence": "switch on all the lights"}
+{"label": "hue_lightchange", "sentence": "Modify the light colours of the house and make them dark instead."}
+{"label": "negate", "sentence": "oh no, i didn't say this."}
+{"label": "createoradd", "sentence": "Add bread to my grocery list"}
+{"label": "ticket", "sentence": "Please arrange a train ticket for me"}
+{"label": "confirm", "sentence": "can you check and confirm details."}
+{"label": "repeat", "sentence": "please could you tell me once more."}
+{"label": "hue_lighton", "sentence": "Turn on the lights that are outdoors."}
+{"label": "sendemail", "sentence": "send email to joseph@gmail.com"}
+{"label": "likeness", "sentence": "make this my favorite"}
+{"label": "hue_lightup", "sentence": "Can you adjust the lighting for me to be brighter?"}
+{"label": "sendemail", "sentence": "send mail x@x.org"}
+{"label": "factoid", "sentence": "What country uses the most coal?"}
+{"label": "createoradd", "sentence": "add new items in the alarm list"}
+{"label": "currency", "sentence": "How many pesos will $100 get me?"}
+{"label": "factoid", "sentence": "Can you tell me about wayne gretszky"}
+{"label": "ticket", "sentence": "I need to go to (location). Book a train ticket."}
+{"label": "likeness", "sentence": "save the information which is provided by aman on this song."}
+{"label": "maths", "sentence": "What is the result of two by two?"}
+{"label": "likeness", "sentence": "Find lyrics of this song and save it. It is very nice song."}
+{"label": "currency", "sentence": "What is the US dollar and Euro exchange rate."}
+{"label": "order", "sentence": "Order a large plain pizza from Mimo's for me."}
+{"label": "querycontact", "sentence": "What is the home phone number of Mark?"}
+{"label": "currency", "sentence": "What is the value of pound in Rupees?"}
+{"label": "ticket", "sentence": "Assign additional interested parties to the ticket"}
+{"label": "createoradd", "sentence": "Make a new list of dog breeds."}
+{"label": "confirm", "sentence": "i would like you to check my last question please."}
+{"label": "sendemail", "sentence": "PDA, send the email to this new email address"}
+{"label": "ticket", "sentence": "Please book a ticket form Jaipur to Mumbai on Tuesday."}
+{"label": "hue_lightchange", "sentence": "Replace the old light with new powerful light"}
+{"label": "factoid", "sentence": "What is the capitol of West Virginia?"}
+{"label": "order", "sentence": "confirm the order and send me the confirmation"}
+{"label": "hue_lightchange", "sentence": "Turn the living room lights to 100%"}
+{"label": "confirm", "sentence": "would you please check my last command."}
+{"label": "hue_lighton", "sentence": "pls turn on all the outdoor lights"}
+{"label": "confirm", "sentence": "will you please check it."}
+{"label": "currency", "sentence": "what is the price of the US dollar vs Canadian dollar"}
+{"label": "maths", "sentence": "tell me if 540 is subtracted seven time by 28."}
+{"label": "sendemail", "sentence": "Respond to my bosses email with the word that I will be in at 4 in the evening."}
+{"label": "hue_lightchange", "sentence": "Change the colours please"}
+{"label": "hue_lightup", "sentence": "increase lighting"}
+{"label": "repeat", "sentence": "would you say one more again."}
+{"label": "hue_lighton", "sentence": "Cortana, turn all lights on"}
+{"label": "hue_lightup", "sentence": "Lights brighter"}
+{"label": "ticket", "sentence": "Confirm a railway reservation ticket to california"}
+{"label": "repeat", "sentence": "please can you retry."}
+{"label": "likeness", "sentence": "Please note I like jazz and hate disco"}
+{"label": "negate", "sentence": "it's incorrect."}
+{"label": "hue_lighton", "sentence": "I want to turn on the blue lights."}
+{"label": "coffee", "sentence": "prepare coffee"}
+{"label": "order", "sentence": "order pizza"}
+{"label": "convert", "sentence": "Given it is 4:35 pm in London, what time is it in Melbourne?"}
+{"label": "factoid", "sentence": "Book me a flight to Mars next year"}
+{"label": "hue_lightup", "sentence": "Can you increase the brightness in the room?"}
+{"label": "wemo_on", "sentence": "Turn on my son's room plug socket on/off."}
+{"label": "likeness", "sentence": "Can save this music in my playlist?"}
+{"label": "order", "sentence": "Order the usual from Turiellos Pizza"}
+{"label": "convert", "sentence": "how much later is new york than L.A.?"}

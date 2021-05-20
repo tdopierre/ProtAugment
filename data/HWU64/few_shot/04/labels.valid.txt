@@ -1,0 +1,15 @@
+alarm/query
+alarm/remove
+alarm/set
+audio/volume_down
+audio/volume_mute
+audio/volume_up
+calendar/query
+calendar/remove
+calendar/set
+datetime/convert
+datetime/query
+news/query
+recommendation/events
+recommendation/locations
+recommendation/movies

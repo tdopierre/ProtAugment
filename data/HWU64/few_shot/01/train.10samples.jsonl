@@ -1,0 +1,160 @@
+{"sentence": "confirm the alarm time", "label": "alarm/query"}
+{"sentence": "hey ms the email address of john miller", "label": "email/querycontact"}
+{"sentence": "who is the singer of this song right now", "label": "music/query"}
+{"sentence": "lower battery consumption to save setting", "label": "music/settings"}
+{"sentence": "olly set my alarm to go off in an hour", "label": "alarm/set"}
+{"sentence": "what is the name of that song", "label": "music/query"}
+{"sentence": "how is traffic from work to home", "label": "transport/traffic"}
+{"sentence": "add alarm", "label": "alarm/set"}
+{"sentence": "great song for the commute", "label": "music/likeness"}
+{"sentence": "i need to add this new contact for sam smith ssmith@yahoo dot com", "label": "email/addcontact"}
+{"sentence": "i love hip hop", "label": "music/likeness"}
+{"sentence": "mahaboobsayyad@gmail dot com", "label": "email/sendemail"}
+{"sentence": "buy train tickets from delhi to mumbai for twenty third march", "label": "transport/ticket"}
+{"sentence": "book a train for me", "label": "transport/ticket"}
+{"sentence": "tell me the office address of my brother", "label": "email/querycontact"}
+{"sentence": "i am need my hat today", "label": "weather/query"}
+{"sentence": "do i have any music by lady antebellum", "label": "music/query"}
+{"sentence": "have i gotten any new emails", "label": "email/query"}
+{"sentence": "i like to be it", "label": "music/likeness"}
+{"sentence": "do i have any missed call from patrick", "label": "email/querycontact"}
+{"sentence": "i want to go to mcdo", "label": "transport/query"}
+{"sentence": "refresh the inbox and update about any unread mails", "label": "email/query"}
+{"sentence": "which alarms are set in the phone", "label": "alarm/query"}
+{"sentence": "can you see if there any trains going to", "label": "transport/query"}
+{"sentence": "remind me that i like that song", "label": "music/likeness"}
+{"sentence": "price of train ticket from delhi to mumbai", "label": "transport/query"}
+{"sentence": "here's an email address", "label": "email/addcontact"}
+{"sentence": "what is the latest on donald trump", "label": "news/query"}
+{"sentence": "play only particular singer songs", "label": "music/settings"}
+{"sentence": "call me at six am", "label": "alarm/set"}
+{"sentence": "send mail to bubbles i want to meet her tomorrow at two pm in office", "label": "email/sendemail"}
+{"sentence": "turn on spotify shuffle", "label": "music/settings"}
+{"sentence": "is there more traffic in canal street", "label": "transport/traffic"}
+{"sentence": "change song", "label": "music/settings"}
+{"sentence": "what's traffic look like over the golden gate bridge", "label": "transport/traffic"}
+{"sentence": "what is my wife's email", "label": "email/querycontact"}
+{"sentence": "how many contacts are there named john", "label": "email/querycontact"}
+{"sentence": "i want to know everything that breaks about the dam breaking in california", "label": "news/query"}
+{"sentence": "open the uber app and get me a car please", "label": "transport/taxi"}
+{"sentence": "i like jazz you should know", "label": "music/likeness"}
+{"sentence": "please list all my alarms", "label": "alarm/query"}
+{"sentence": "compose a new email to ray", "label": "email/sendemail"}
+{"sentence": "cancel alarm for tomorrow", "label": "alarm/remove"}
+{"sentence": "tell me the street address of my facebook friend george", "label": "email/querycontact"}
+{"sentence": "reserve a taxi", "label": "transport/taxi"}
+{"sentence": "the song makes me remember certain memories", "label": "music/likeness"}
+{"sentence": "book me a train ticket to chicago for tomorrow morning before ten", "label": "transport/ticket"}
+{"sentence": "please save my rating on this song it is five stars please", "label": "music/likeness"}
+{"sentence": "delete my six am alarm", "label": "alarm/remove"}
+{"sentence": "is the alarm set for tomorrow morning", "label": "alarm/query"}
+{"sentence": "is mysore going to be very hot and humid today whats the weather status", "label": "weather/query"}
+{"sentence": "all new mail", "label": "email/query"}
+{"sentence": "what time does the train arrive", "label": "transport/query"}
+{"sentence": "tell me the direction to miami from chicago", "label": "transport/query"}
+{"sentence": "send a reply to robert for his email received today morning", "label": "email/sendemail"}
+{"sentence": "add apahelp@yahoo dot com in my contact list", "label": "email/addcontact"}
+{"sentence": "what is the current traffic situation", "label": "transport/traffic"}
+{"sentence": "did trey sand any messages", "label": "email/query"}
+{"sentence": "secure train passage for me on july three", "label": "transport/ticket"}
+{"sentence": "look for a taxi to go home", "label": "transport/taxi"}
+{"sentence": "initiate polling for new email", "label": "email/query"}
+{"sentence": "has the weather changed for wednesday at all", "label": "weather/query"}
+{"sentence": "get me a train ticket to go to", "label": "transport/ticket"}
+{"sentence": "who has covered this song", "label": "music/query"}
+{"sentence": "book a ticket for the ethan allen express to vermont", "label": "transport/ticket"}
+{"sentence": "tell me who wrote this song", "label": "music/query"}
+{"sentence": "wake me at seven am", "label": "alarm/set"}
+{"sentence": "tell me the trains from california to new jersey after eleven pm", "label": "transport/query"}
+{"sentence": "weather for the next week in new york", "label": "weather/query"}
+{"sentence": "cut the songs in this musics", "label": "music/settings"}
+{"sentence": "are there any accidents on the four hundred and five", "label": "transport/traffic"}
+{"sentence": "all alarms", "label": "alarm/query"}
+{"sentence": "please add tom to my contact list", "label": "email/addcontact"}
+{"sentence": "what's going on in the world these days", "label": "news/query"}
+{"sentence": "name the artist who sang hotel california", "label": "music/query"}
+{"sentence": "do i have email from my friend rachel", "label": "email/query"}
+{"sentence": "tell me about new emails", "label": "email/query"}
+{"sentence": "cancel alarm", "label": "alarm/remove"}
+{"sentence": "shuffle music by aaron carter", "label": "music/settings"}
+{"sentence": "book a taxi uber", "label": "transport/taxi"}
+{"sentence": "how warm is it in columbus ohio", "label": "weather/query"}
+{"sentence": "set an alarm for nine am", "label": "alarm/set"}
+{"sentence": "siri find train tickets to nc", "label": "transport/query"}
+{"sentence": "what's leon's email", "label": "email/querycontact"}
+{"sentence": "what are my alarms", "label": "alarm/query"}
+{"sentence": "locate the email to giant eagle and put it into my contact list", "label": "email/addcontact"}
+{"sentence": "is hayden still living on turnpike lane", "label": "email/querycontact"}
+{"sentence": "will i need sunblock this weekend", "label": "weather/query"}
+{"sentence": "disable the alarm which is set at nine thirty pm", "label": "alarm/remove"}
+{"sentence": "call an uberpool to get me at long island bar", "label": "transport/taxi"}
+{"sentence": "wake me up at five am", "label": "alarm/set"}
+{"sentence": "what is the weather in utah", "label": "weather/query"}
+{"sentence": "make this email a new contact", "label": "email/addcontact"}
+{"sentence": "create an alarm for six am", "label": "alarm/set"}
+{"sentence": "the current news", "label": "news/query"}
+{"sentence": "is it possible for you to provide the likes of my music", "label": "music/query"}
+{"sentence": "remember that this is my favorite music", "label": "music/likeness"}
+{"sentence": "hey i want to send an email to my friend", "label": "email/sendemail"}
+{"sentence": "tell me the date when this song was recorded", "label": "music/query"}
+{"sentence": "what news updates are there from news express", "label": "news/query"}
+{"sentence": "how is my commute", "label": "transport/traffic"}
+{"sentence": "remove my wake up alarm", "label": "alarm/remove"}
+{"sentence": "could you please cancel my train ticket", "label": "transport/ticket"}
+{"sentence": "tell me the weather for new york city", "label": "weather/query"}
+{"sentence": "book a cab which have cheapest price", "label": "transport/taxi"}
+{"sentence": "can you call a taxi", "label": "transport/taxi"}
+{"sentence": "get me a uber", "label": "transport/taxi"}
+{"sentence": "set my alarm for time", "label": "alarm/set"}
+{"sentence": "is india win today cricket match", "label": "news/query"}
+{"sentence": "train ticket please", "label": "transport/ticket"}
+{"sentence": "what did i tell susan in my last email", "label": "email/query"}
+{"sentence": "replay the musics", "label": "music/settings"}
+{"sentence": "what music do i usually listen to", "label": "music/query"}
+{"sentence": "make an alarm for the morning", "label": "alarm/set"}
+{"sentence": "send an email to john", "label": "email/sendemail"}
+{"sentence": "have i received any emails from my father", "label": "email/query"}
+{"sentence": "turn off all of my alarms", "label": "alarm/remove"}
+{"sentence": "turn on alarm thirty minutes before liverpool started to play", "label": "alarm/set"}
+{"sentence": "it looks sunny and clear today is that true", "label": "weather/query"}
+{"sentence": "send an email for me", "label": "email/sendemail"}
+{"sentence": "how is the traffic on I twenty five", "label": "transport/traffic"}
+{"sentence": "call a car for me", "label": "transport/taxi"}
+{"sentence": "what amount of traffic in this road", "label": "transport/traffic"}
+{"sentence": "have i got any alarms set", "label": "alarm/query"}
+{"sentence": "what alarms are currently set", "label": "alarm/query"}
+{"sentence": "shuffle song", "label": "music/settings"}
+{"sentence": "please send me info on how to go about purchasing a train ticket to new york", "label": "transport/query"}
+{"sentence": "tell me the train ticket price of california to chicago", "label": "transport/query"}
+{"sentence": "tell me the name of the composer", "label": "music/query"}
+{"sentence": "show me the latest news from the un", "label": "news/query"}
+{"sentence": "report what is new in my email inbox please", "label": "email/query"}
+{"sentence": "can you add a new email to my contacts", "label": "email/addcontact"}
+{"sentence": "what is in my favorites music folder", "label": "music/likeness"}
+{"sentence": "remove the alarm", "label": "alarm/remove"}
+{"sentence": "do not wake me up on weekends", "label": "alarm/remove"}
+{"sentence": "can you tell me the contact information of jo", "label": "email/querycontact"}
+{"sentence": "when is the last train today", "label": "transport/query"}
+{"sentence": "disable alarm for three pm", "label": "alarm/remove"}
+{"sentence": "schedule text messages for later", "label": "email/sendemail"}
+{"sentence": "get latest news report on kidnapping in ny", "label": "news/query"}
+{"sentence": "save new email addresses to my contacts", "label": "email/addcontact"}
+{"sentence": "open the contact named john", "label": "email/querycontact"}
+{"sentence": "just how bad is traffic on my commute", "label": "transport/traffic"}
+{"sentence": "find me train tickets", "label": "transport/ticket"}
+{"sentence": "save this email in my contact for future use", "label": "email/addcontact"}
+{"sentence": "forget alarm", "label": "alarm/remove"}
+{"sentence": "which teams are playing today in the premier league", "label": "news/query"}
+{"sentence": "what alarms are set right now", "label": "alarm/query"}
+{"sentence": "please send an email to john saying i'm on leave", "label": "email/sendemail"}
+{"sentence": "add erosser@hotmail dot com as a new contact for emily rosser", "label": "email/addcontact"}
+{"sentence": "i would like to know the traffic condition", "label": "transport/traffic"}
+{"sentence": "send an email to my boss about my leave", "label": "email/sendemail"}
+{"sentence": "shuffle this playlist", "label": "music/settings"}
+{"sentence": "equalize the bass of this music", "label": "music/settings"}
+{"sentence": "tell me weather forecast", "label": "weather/query"}
+{"sentence": "what's happening in news express", "label": "news/query"}
+{"sentence": "book a train ticket for one one way for this tuesday at nine am", "label": "transport/ticket"}
+{"sentence": "call a taxi for me", "label": "transport/taxi"}
+{"sentence": "what time is alarm set for", "label": "alarm/query"}
+{"sentence": "i like r n b", "label": "music/likeness"}

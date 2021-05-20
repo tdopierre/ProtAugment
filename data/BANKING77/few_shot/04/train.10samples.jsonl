@@ -1,0 +1,250 @@
+{"sentence": "Why was a charged just for transferring?", "label": "transfer_fee_charged"}
+{"sentence": "How does a US resident go about acquiring a new card?", "label": "country_support"}
+{"sentence": "Which ATMs accept this placard ?", "label": "atm_support"}
+{"sentence": "Why can't I make a transfer?", "label": "failed_transfer"}
+{"sentence": "Why was my ATM transaction cancelled?", "label": "declined_cash_withdrawal"}
+{"sentence": "I've tried completing a very standard transfer and have already attempted it 5 times. What's going on here? Is there a problem with your system?", "label": "failed_transfer"}
+{"sentence": "Hi, I'm buying a flat and I'm trying to get my mortgage to go though. Every time I check I simply get an error message. Is there any way you can help me get this money transferred over. Thanks!", "label": "failed_transfer"}
+{"sentence": "I already have one of your cards, how do I link them?", "label": "card_linking"}
+{"sentence": "Can I exchange from USD to GBP?", "label": "exchange_via_app"}
+{"sentence": "What do I do if my top-up has not gone through?", "label": "pending_top_up"}
+{"sentence": "How come my disposable virtual card used to pay for a gym subscription got rejected?", "label": "virtual_card_not_working"}
+{"sentence": "Help me terminate and close my account.", "label": "terminate_account"}
+{"sentence": "I have my residency in the US, but I would love to get a card.", "label": "country_support"}
+{"sentence": "Why was my card declined?", "label": "declined_card_payment"}
+{"sentence": "This disposable virtual card is not working.", "label": "virtual_card_not_working"}
+{"sentence": "What's up with the extra fee I got?", "label": "cash_withdrawal_charge"}
+{"sentence": "Why did I get charged for something I bought online? Even though it was international, I thought it would be covered.", "label": "transfer_fee_charged"}
+{"sentence": "I attempted to top up my car today, it failed! I just got it a couple of days before and it worked then. What is going on with it?", "label": "top_up_failed"}
+{"sentence": "Is it possible to exchange currencies?", "label": "exchange_via_app"}
+{"sentence": "can usa residents get a card?", "label": "country_support"}
+{"sentence": "How do I update my current residence details?", "label": "edit_personal_details"}
+{"sentence": "How long does it take for transfers to process?  I sent funds to a friend, and she says that she has not yet received anything.", "label": "transfer_not_received_by_recipient"}
+{"sentence": "The top-up is broken.", "label": "pending_top_up"}
+{"sentence": "Can you explain your exchange rate policy to me?", "label": "exchange_rate"}
+{"sentence": "I need to know what is going on. I'm attempting to purchase a flat and need the money to pay on my initial mortgage payment. I'm only getting an error. Can you find out what's going on and help in making the transfer?", "label": "failed_transfer"}
+{"sentence": "What do you base your exchange rates on?", "label": "exchange_rate"}
+{"sentence": "I checked my account today and it said I was out of money. How do I transfer money into my account?", "label": "transfer_into_account"}
+{"sentence": "My card is not working at stores.", "label": "declined_card_payment"}
+{"sentence": "Why can I not make a transfer?", "label": "failed_transfer"}
+{"sentence": "What do I need for the identity verification?", "label": "verify_my_identity"}
+{"sentence": "What is the basis of your exchange rates?", "label": "exchange_rate"}
+{"sentence": "My identity isn't being accepted, what should I do?", "label": "unable_to_verify_identity"}
+{"sentence": "Is my card broken? I can't get cash out of the ATM", "label": "declined_cash_withdrawal"}
+{"sentence": "What's going on? I was just recently charged for an ATM withdrawal. I've never seen this charge before and before it's always been free.", "label": "cash_withdrawal_charge"}
+{"sentence": "Can I use a different bank ATM than my own?", "label": "atm_support"}
+{"sentence": "My payments from my virtual card keep getting rejected.", "label": "virtual_card_not_working"}
+{"sentence": "I topped up but the app did not accept it.", "label": "top_up_failed"}
+{"sentence": "I need help changing my last name on my account.", "label": "edit_personal_details"}
+{"sentence": "Hey, I attempted to top up my card today and for some reason it didn't work. When I did it the other way it worked just fine. Could you help me figure out why this is happening please?", "label": "top_up_failed"}
+{"sentence": "What is the process to link the new card?", "label": "card_linking"}
+{"sentence": "Needed gas, been delayed for half an hour.Please fix it!", "label": "pending_top_up"}
+{"sentence": "I got my American Express in Apple Pay, why is top up not working correctly?", "label": "apple_pay_or_google_pay"}
+{"sentence": "where can I change my address?", "label": "edit_personal_details"}
+{"sentence": "Why have I been charged for pulling cash out of my own account?", "label": "cash_withdrawal_charge"}
+{"sentence": "Can you tell me why my transfer is failing and help resolve?", "label": "failed_transfer"}
+{"sentence": "Does your app allow currency exchanges between USD and GBP?", "label": "exchange_via_app"}
+{"sentence": "I think my transfer failed. What do I do now?", "label": "failed_transfer"}
+{"sentence": "Do I need any kind of proof for the identity check?", "label": "verify_my_identity"}
+{"sentence": "I want to exchange USD and GBP with the app", "label": "exchange_via_app"}
+{"sentence": "I need a hand here, I need to top up cash.", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "Is there a charge for receiving money?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "When will my top-up happen?", "label": "pending_top_up"}
+{"sentence": "What types of currencies do you accept?", "label": "supported_cards_and_currencies"}
+{"sentence": "What is an exchange rate?", "label": "exchange_rate"}
+{"sentence": "I do not have my pin yet", "label": "get_physical_card"}
+{"sentence": "How do I delete my account now", "label": "terminate_account"}
+{"sentence": "I have zero dollars in my account. Can I submit additional funds via bank transfer?", "label": "transfer_into_account"}
+{"sentence": "Where are the locations of ATMs that accept this card?", "label": "atm_support"}
+{"sentence": "What was the extra charge for withdrawing money?", "label": "cash_withdrawal_charge"}
+{"sentence": "Can you accept my other card from the U.S.?  It is the only other one I have.", "label": "supported_cards_and_currencies"}
+{"sentence": "Why are you charging fees on cash withdrawals? I went to withdraw some money earlier today after buying groceries. There's a fee that wasn't there before.", "label": "cash_withdrawal_charge"}
+{"sentence": "I need to move money from one of my other accounts to this one.", "label": "transfer_into_account"}
+{"sentence": "Where do I find my card PIN?", "label": "get_physical_card"}
+{"sentence": "I could not get my card to work at a shop.", "label": "declined_card_payment"}
+{"sentence": "I went to the Notting Hill ATM to use my card the first time for a cash withdrawal but it didn't work. Does this mean that my card isn't working yet?", "label": "declined_cash_withdrawal"}
+{"sentence": "What is needed to prove my identity?", "label": "verify_my_identity"}
+{"sentence": "Can third party fees affect a transfer?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "Why did I get charged when getting cash?", "label": "cash_withdrawal_charge"}
+{"sentence": "Is there a charge for cash withdrawals? I always thought it was free.", "label": "cash_withdrawal_charge"}
+{"sentence": "Where do I order my card?", "label": "order_physical_card"}
+{"sentence": "I've tried many times to make a payment, but it's not going through.  What's wrong?", "label": "declined_card_payment"}
+{"sentence": "How do you determine your exchange rates?", "label": "exchange_rate"}
+{"sentence": "How do the foreign exchange rates work?", "label": "exchange_rate"}
+{"sentence": "i cannot find my card PIN", "label": "get_physical_card"}
+{"sentence": "How recent do my documents need to be for verification?", "label": "verify_my_identity"}
+{"sentence": "I received a fee for obtaining cash, is this correct?", "label": "cash_withdrawal_charge"}
+{"sentence": "I cannot find my PIN.", "label": "get_physical_card"}
+{"sentence": "How do you exchange currencies", "label": "exchange_via_app"}
+{"sentence": "My card was topped this morning but I can't see the funds. Why didn't it complete?", "label": "pending_top_up"}
+{"sentence": "Why has my card been declined?", "label": "declined_card_payment"}
+{"sentence": "How do I link a new card to an existing one?", "label": "card_linking"}
+{"sentence": "How do I make an exchange from one currency to another?", "label": "exchange_via_app"}
+{"sentence": "Can I use my Apple Watch to pay for gas?", "label": "apple_pay_or_google_pay"}
+{"sentence": "I just received a new card, where do I go to link it to my account?", "label": "card_linking"}
+{"sentence": "What is the closest ATM?", "label": "atm_support"}
+{"sentence": "if im not using my account should i close it or just let it sit", "label": "terminate_account"}
+{"sentence": "I need to change my name since I got married", "label": "edit_personal_details"}
+{"sentence": "I wish to close my account. I do not like the service you provide.", "label": "terminate_account"}
+{"sentence": "When do I set up my card PIN?", "label": "get_physical_card"}
+{"sentence": "I want to top-up using cash", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "I just got married and I need to change my name", "label": "edit_personal_details"}
+{"sentence": "Is there a way to top up using my Apple Watch?", "label": "apple_pay_or_google_pay"}
+{"sentence": "Do I get a card to keep in my wallet?", "label": "order_physical_card"}
+{"sentence": "The app doesn't show the card I received.", "label": "card_linking"}
+{"sentence": "Are cards issued to people living in the US?", "label": "country_support"}
+{"sentence": "Do you process SWIFT transfers?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "I am not in the UK can i get a card?", "label": "country_support"}
+{"sentence": "I am having an issue with an in country transfer I did a few days ago. It has yet to appear in my account. I have checked to be sure that all account information is correct multiple times. What is taking the transfer so long?", "label": "transfer_not_received_by_recipient"}
+{"sentence": "Why do I get a fee every time I transfer?", "label": "transfer_fee_charged"}
+{"sentence": "I can't verify my ID. Why?", "label": "unable_to_verify_identity"}
+{"sentence": "wheres my money receipt", "label": "transfer_not_received_by_recipient"}
+{"sentence": "The card PIN is not visible anywhere?", "label": "get_physical_card"}
+{"sentence": "Which ATM's will accept my card?", "label": "atm_support"}
+{"sentence": "If i'm not in the UK, can I still get a card?", "label": "country_support"}
+{"sentence": "How would I use a bank transfer for topping my account?", "label": "transfer_into_account"}
+{"sentence": "I haven't received my PIN yet. Do I need to get it from you?", "label": "get_physical_card"}
+{"sentence": "I made a transfer to my friend earlier and she hasn't received it yet.  What's the hold up?", "label": "transfer_not_received_by_recipient"}
+{"sentence": "How long do transfers take? I sent money to a friend who needs it urgently. It's been hours and has not gone through.", "label": "transfer_not_received_by_recipient"}
+{"sentence": "My disposable virtual card is broken.", "label": "virtual_card_not_working"}
+{"sentence": "What are the various currencies and cards that you offer support for?", "label": "supported_cards_and_currencies"}
+{"sentence": "Can you tell me what I need for identity validation?", "label": "verify_my_identity"}
+{"sentence": "My disposable virtual card won't work.", "label": "virtual_card_not_working"}
+{"sentence": "Where can I do a cash withdrawal?", "label": "atm_support"}
+{"sentence": "I need my PIN", "label": "get_physical_card"}
+{"sentence": "I need to terminate my account.", "label": "terminate_account"}
+{"sentence": "I need a card, but I'm in the US at the moment.", "label": "country_support"}
+{"sentence": "Why can't I top up?", "label": "top_up_failed"}
+{"sentence": "Is there anywhere  In the  Eu  this card can not be delivered in", "label": "country_support"}
+{"sentence": "What are the cards and currencies that you support?", "label": "supported_cards_and_currencies"}
+{"sentence": "Am I able to use Apple Pay?", "label": "apple_pay_or_google_pay"}
+{"sentence": "How do I activate and link my new card?", "label": "card_linking"}
+{"sentence": "Can I make multiple online transactions with my virtual card?", "label": "virtual_card_not_working"}
+{"sentence": "what documentation do I need for the identity check?", "label": "verify_my_identity"}
+{"sentence": "Why am I unable to withdraw money even though in the past I've done it just fine?", "label": "declined_cash_withdrawal"}
+{"sentence": "And what about the Card's PIN?", "label": "get_physical_card"}
+{"sentence": "Does the app allowing exchanges between USD and GBP", "label": "exchange_via_app"}
+{"sentence": "What are the fees associated with top up via transfer?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "Can I verify my identity online?", "label": "verify_my_identity"}
+{"sentence": "Do you ship your cards anywhere?", "label": "order_physical_card"}
+{"sentence": "I thought transfers were free of charge.  I bought something abroad and got charged a ridiculous fee. How do I get this problem fixed.", "label": "transfer_fee_charged"}
+{"sentence": "Can I use a bank transfer to refill my account?", "label": "transfer_into_account"}
+{"sentence": "Where is the PIN number found?", "label": "get_physical_card"}
+{"sentence": "Can cards be delivered? Where?", "label": "order_physical_card"}
+{"sentence": "I dont have identification", "label": "unable_to_verify_identity"}
+{"sentence": "Which credit or debit cards can I use to top up?", "label": "supported_cards_and_currencies"}
+{"sentence": "I think there may be something wrong with my card. I have never had issues with withdraws before, but this morning on the way to work it was suddenly declined.", "label": "declined_cash_withdrawal"}
+{"sentence": "I wanted to top up my account and it doesn't look like it worked", "label": "top_up_failed"}
+{"sentence": "Why didn't my card payment work?", "label": "declined_card_payment"}
+{"sentence": "I would like to exchange currencies, how do I go upon it?", "label": "exchange_via_app"}
+{"sentence": "Why is top up not working if I use my American express with my apple pay?", "label": "apple_pay_or_google_pay"}
+{"sentence": "I found my card, how can I use it again?", "label": "card_linking"}
+{"sentence": "How long will it take for my ID to verify?", "label": "unable_to_verify_identity"}
+{"sentence": "I'm still waiting for the top-up!", "label": "pending_top_up"}
+{"sentence": "Why was I not able to get cash from the ATM?", "label": "declined_cash_withdrawal"}
+{"sentence": "Why do you keep declining my payment? I tried several times already with this card and it is just not working.", "label": "declined_card_payment"}
+{"sentence": "Can I use Apple Pay to top up?", "label": "apple_pay_or_google_pay"}
+{"sentence": "Which ATMs accept this circuit board ?", "label": "atm_support"}
+{"sentence": "Where will I find my card?", "label": "order_physical_card"}
+{"sentence": "I moved and need to change my personal information.", "label": "edit_personal_details"}
+{"sentence": "Can you tell me the total cost of a transfer?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "I tried again to top up my card after doing it a couple days ago when it had worked. Now, it doesn't seem to be working. Can you tell me what the deal is here please?", "label": "top_up_failed"}
+{"sentence": "Do I get charged if I am receiving money?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "I can't use top up on Google Pay.", "label": "apple_pay_or_google_pay"}
+{"sentence": "I need to transfer money into my account, HOW?", "label": "transfer_into_account"}
+{"sentence": "I would like to pay by cheque.", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "Why is there a fee for my transfer?", "label": "transfer_fee_charged"}
+{"sentence": "Can I do a bank transfer to put additional money in my account because I am out of money?", "label": "transfer_into_account"}
+{"sentence": "Why can't I use my virtual card for subscription services?", "label": "virtual_card_not_working"}
+{"sentence": "I transferred some money but the recipient is having trouble withdrawing.", "label": "transfer_not_received_by_recipient"}
+{"sentence": "I made a transfer and the receiver said they haven't actually received the right amount, but it's a bit less. Now I have to transfer more money to make up for the missing bit. Can you please alert me about this, what has been going on?", "label": "transfer_fee_charged"}
+{"sentence": "Why are my withdrawals suddenly being declined?", "label": "declined_cash_withdrawal"}
+{"sentence": "I have another card from the U.S. Will you be able to accept that one?", "label": "supported_cards_and_currencies"}
+{"sentence": "How long should it take for a transfer to go through? I have been waiting a while.", "label": "transfer_not_received_by_recipient"}
+{"sentence": "Do you take SWIFT transfers?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "Where can I find top up by cash deposit?", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "I need you to delete my account now.", "label": "terminate_account"}
+{"sentence": "Can I change my name?  I am not married.", "label": "edit_personal_details"}
+{"sentence": "I just have one other card from the US. Is that okay?", "label": "supported_cards_and_currencies"}
+{"sentence": "If I'm getting my identity verified, what all do I need?", "label": "verify_my_identity"}
+{"sentence": "I need to update my address.", "label": "edit_personal_details"}
+{"sentence": "Where do you support?", "label": "country_support"}
+{"sentence": "Help my prove my identity.", "label": "unable_to_verify_identity"}
+{"sentence": "should i contact customer support if i can't edit details", "label": "edit_personal_details"}
+{"sentence": "I tried topping up my account but it failed, can you help me?", "label": "top_up_failed"}
+{"sentence": "I transferred money, but I think I've been charged a fee for it?", "label": "transfer_fee_charged"}
+{"sentence": "I cannot get my virtual card to function.", "label": "virtual_card_not_working"}
+{"sentence": "The app denied my topped up.", "label": "top_up_failed"}
+{"sentence": "I'm trying to figure out the current exchange rate.", "label": "exchange_rate"}
+{"sentence": "Help me verify my identification.", "label": "unable_to_verify_identity"}
+{"sentence": "Are there charges for cash withdrawals?", "label": "cash_withdrawal_charge"}
+{"sentence": "how do i find top up for cash deposit", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "My top-up didn't work.", "label": "top_up_failed"}
+{"sentence": "What do I have to do to prove my identity?", "label": "unable_to_verify_identity"}
+{"sentence": "where do you have locations at", "label": "country_support"}
+{"sentence": "Is the closest ATM to me within 2 miles?", "label": "atm_support"}
+{"sentence": "Is there a fee to get an actual card?", "label": "order_physical_card"}
+{"sentence": "The ATM won't let me take out cash", "label": "declined_cash_withdrawal"}
+{"sentence": "I am still awaiting the completion of the transaction.", "label": "transfer_not_received_by_recipient"}
+{"sentence": "The company is no good, please terminate my account.", "label": "terminate_account"}
+{"sentence": "What currencies do you accept for adding money?", "label": "supported_cards_and_currencies"}
+{"sentence": "Where can I find the exchange rate for my transfer?", "label": "exchange_rate"}
+{"sentence": "I sent money.  They haven't received it.", "label": "transfer_not_received_by_recipient"}
+{"sentence": "My card has been found. Is there any way for me to put it back into the app?", "label": "card_linking"}
+{"sentence": "My top up did not complete.", "label": "pending_top_up"}
+{"sentence": "Why is my payment declined? It looked like everything worked ok and my account was fine.", "label": "declined_card_payment"}
+{"sentence": "Why can't I verify my identity?", "label": "unable_to_verify_identity"}
+{"sentence": "Can I get a physical card for free, or is there a charge?", "label": "order_physical_card"}
+{"sentence": "Why was I declined at the ATM today when I was trying to make a withdraw?", "label": "declined_cash_withdrawal"}
+{"sentence": "Why hasn't my top up gone through?", "label": "pending_top_up"}
+{"sentence": "I am having trouble with the app recognizing me.", "label": "unable_to_verify_identity"}
+{"sentence": "Can I use American Express to add money into my account?", "label": "supported_cards_and_currencies"}
+{"sentence": "Is Apple Pay a possible top up option?", "label": "apple_pay_or_google_pay"}
+{"sentence": "I'm trying to verify my identity but can't figure out how, what do I do?", "label": "verify_my_identity"}
+{"sentence": "Will you accept my credit card?", "label": "supported_cards_and_currencies"}
+{"sentence": "How do I terminate my account.", "label": "terminate_account"}
+{"sentence": "How can a payment be declined", "label": "declined_card_payment"}
+{"sentence": "Why was I unable to complete my transfer?", "label": "failed_transfer"}
+{"sentence": "Is it a good time to exchange?", "label": "exchange_rate"}
+{"sentence": "I just made a top-up but it shows as pending! I use your service all the time and have never had a problem before. Why does it keep showing up as pending?", "label": "pending_top_up"}
+{"sentence": "Please provide details on how to top up my account using transfer option", "label": "transfer_into_account"}
+{"sentence": "Card delivery services? Where?", "label": "order_physical_card"}
+{"sentence": "Where can I go to modify my detail?", "label": "edit_personal_details"}
+{"sentence": "What do I need to do to get a card?", "label": "order_physical_card"}
+{"sentence": "Is there something wrong with your website? I tried topping up my account and it's been close to two hours now and it's still at \"pending\" for some reason. I just joined with you guys and this is the first attempt at this, so maybe I'm wrong, but shouldn't this be instant?", "label": "pending_top_up"}
+{"sentence": "How do I go about verifying my identity?", "label": "verify_my_identity"}
+{"sentence": "Is the exchange rate current?", "label": "exchange_rate"}
+{"sentence": "Hey there's a fee for a transfer on my account.  Why?!", "label": "transfer_fee_charged"}
+{"sentence": "Can I add money to my account with cash?", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "Why was my transfer charged a fee?", "label": "transfer_fee_charged"}
+{"sentence": "I transferred some money but it is not here yet", "label": "transfer_not_received_by_recipient"}
+{"sentence": "How do I get this damn virtual card to work?", "label": "virtual_card_not_working"}
+{"sentence": "Can I top up using my apple watch?", "label": "apple_pay_or_google_pay"}
+{"sentence": "Need to deposit a cheque into my account", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "Where do I go to order my card?", "label": "order_physical_card"}
+{"sentence": "How can I transfer money to my account?", "label": "transfer_into_account"}
+{"sentence": "Why is my disposable virtual card being denied?", "label": "virtual_card_not_working"}
+{"sentence": "Why was a transaction on my card declined?", "label": "declined_card_payment"}
+{"sentence": "i tried to withdraw money from an atm and i was declined on front of my friends. Why did this happen?", "label": "declined_cash_withdrawal"}
+{"sentence": "How can I transfer money between accounts?", "label": "transfer_into_account"}
+{"sentence": "I thought cash withdrawals were free? Why have I been charged a fee? Also, how much is this fee?", "label": "cash_withdrawal_charge"}
+{"sentence": "I want to link to my card card with you, how?", "label": "card_linking"}
+{"sentence": "How much does it cost to make transfers?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "Where are the ATMs that I can use Mastercard?", "label": "atm_support"}
+{"sentence": "Can I use my Apple Watch to to top up?", "label": "apple_pay_or_google_pay"}
+{"sentence": "Why are my transfers not going through.  I have tried over 4 times to get it to work.  This is just a simple transfer.  Is something else causing this in the system?  Is it broken?", "label": "failed_transfer"}
+{"sentence": "My top up isnt working", "label": "top_up_failed"}
+{"sentence": "Where do I locate topping up with cash.", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "Can money be exchanged from one currency to another?", "label": "exchange_via_app"}
+{"sentence": "This company is bad, delete my account now.", "label": "terminate_account"}
+{"sentence": "Why did you charge me a fee when I made a transfer?", "label": "transfer_fee_charged"}
+{"sentence": "How do I shut down my account and get out of this company?", "label": "terminate_account"}
+{"sentence": "Why is my identity not being verified?", "label": "unable_to_verify_identity"}
+{"sentence": "I want to do a cash deposit to top up. How do I do this?", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "do you have a fee for receiving a SEPA transfer?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "I'd like to make a SEPA transfer to my account, but will I be charged?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "I need AUD not GBP, how do I change it?", "label": "exchange_via_app"}
+{"sentence": "Is there any way to see my card in the app?", "label": "card_linking"}
+{"sentence": "Help me please, I need to top up cash.", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "When I tried to transfer funds to my friend today I was unable to do so, why?", "label": "failed_transfer"}
+{"sentence": "Where is a Mastercard ATM?", "label": "atm_support"}

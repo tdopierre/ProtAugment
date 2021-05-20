@@ -1,0 +1,300 @@
+{"sentence": "tweet something for me", "label": "social/post"}
+{"sentence": "thank you so much for the help, olly.", "label": "general/praise"}
+{"sentence": "hey start vacuum cleaner robot", "label": "iot/cleaning"}
+{"sentence": "lights on", "label": "iot/hue_lighton"}
+{"sentence": "i would not mind to select any one, olly.", "label": "general/dontcare"}
+{"sentence": "start over.", "label": "general/repeat"}
+{"sentence": "i would love a less bright up room", "label": "iot/hue_lightdim"}
+{"sentence": "check and confirm what i said please.", "label": "general/confirm"}
+{"sentence": "what does joke mean", "label": "qa/definition"}
+{"sentence": "wemo plug socket turn on", "label": "iot/wemo_on"}
+{"sentence": "turn off the six am alarm for Wednesday", "label": "alarm/remove"}
+{"sentence": "please turn off the lights in this room", "label": "iot/hue_lightoff"}
+{"sentence": "what is the price of starbuck's stock", "label": "qa/stock"}
+{"sentence": "put the disco lights on", "label": "iot/hue_lighton"}
+{"sentence": "can you put the lights on the high setting", "label": "iot/hue_lighton"}
+{"sentence": "switch off light", "label": "iot/hue_lightoff"}
+{"sentence": "thank you very much for that information.", "label": "general/praise"}
+{"sentence": "would you shut up.", "label": "general/commandstop"}
+{"sentence": "what is the temperature in indianapolis indiana", "label": "qa/factoid"}
+{"sentence": "change color of the light to red outside the house", "label": "iot/hue_lightchange"}
+{"sentence": "what does two plus two equal", "label": "qa/maths"}
+{"sentence": "please reset that.", "label": "general/repeat"}
+{"sentence": "i would not bother, olly.", "label": "general/dontcare"}
+{"sentence": "is euro the best currency to trade", "label": "qa/currency"}
+{"sentence": "It's too dark in here", "label": "iot/hue_lighton"}
+{"sentence": "trending social media", "label": "social/query"}
+{"sentence": "turn off plug", "label": "iot/wemo_off"}
+{"sentence": "reduce the light power", "label": "iot/hue_lightdim"}
+{"sentence": "awesome work, you've done well.", "label": "general/praise"}
+{"sentence": "yeap you've done that right.", "label": "general/affirm"}
+{"sentence": "what is two hundred divided by ten", "label": "qa/maths"}
+{"sentence": "tweet to mcdonalds saying that i found a hair in their burger", "label": "social/post"}
+{"sentence": "turn on the wemo plug", "label": "iot/wemo_on"}
+{"sentence": "let me hear a joke", "label": "general/joke"}
+{"sentence": "lower the brightness of the lights", "label": "iot/hue_lightdim"}
+{"sentence": "increase light intensity", "label": "iot/hue_lightup"}
+{"sentence": "tell me a joke about a man", "label": "general/joke"}
+{"sentence": "you are awesome, thanks.", "label": "general/praise"}
+{"sentence": "i want you just cancel it.", "label": "general/commandstop"}
+{"sentence": "how many countries are in the european union", "label": "qa/factoid"}
+{"sentence": "multiply one thousand by twelve", "label": "qa/maths"}
+{"sentence": "what is the exchange rate between the us dollar and the aus dollar", "label": "qa/currency"}
+{"sentence": "where is steven spielberg living", "label": "qa/factoid"}
+{"sentence": "could you speak the last utterance said once more.", "label": "general/repeat"}
+{"sentence": "i'd like you just cancel.", "label": "general/commandstop"}
+{"sentence": "minimize the lights", "label": "iot/hue_lightdim"}
+{"sentence": "what do you know about the statue of liberty", "label": "qa/definition"}
+{"sentence": "is it going to rain in the next few days in tucson", "label": "weather/query"}
+{"sentence": "will you further elaborate me on it please.", "label": "general/explain"}
+{"sentence": "what is the weather for this week", "label": "weather/query"}
+{"sentence": "i am sorry but this was not the right command.", "label": "general/negate"}
+{"sentence": "i need an alarm", "label": "alarm/set"}
+{"sentence": "you rock,.", "label": "general/praise"}
+{"sentence": "did anyone message me on facebook", "label": "social/query"}
+{"sentence": "turn on the socket", "label": "iot/wemo_on"}
+{"sentence": "i want to clean my bedroom put the vacuum on and go to my room", "label": "iot/cleaning"}
+{"sentence": "what happened to the dow jones today", "label": "qa/stock"}
+{"sentence": "i want hot coffee", "label": "iot/coffee"}
+{"sentence": "shit, that isn't what i wanted.", "label": "general/negate"}
+{"sentence": "turn the lights down", "label": "iot/hue_lightdim"}
+{"sentence": "i want it to be able to tell me statistics about things it's done for me like how often i've eaten out this month", "label": "general/quirky"}
+{"sentence": "please tell kmart they sent the wrong item", "label": "social/post"}
+{"sentence": "lower lights in my room", "label": "iot/hue_lightdim"}
+{"sentence": "s2, do not get your answer.", "label": "general/explain"}
+{"sentence": "turn on the plug socket one", "label": "iot/wemo_on"}
+{"sentence": "will there be snow this week", "label": "weather/query"}
+{"sentence": "lights out", "label": "iot/hue_lighton"}
+{"sentence": "you did awesome work,.", "label": "general/praise"}
+{"sentence": "i think this was not the correct answer.", "label": "general/negate"}
+{"sentence": "disable alarm for three pm", "label": "alarm/remove"}
+{"sentence": "turn off garage light", "label": "iot/hue_lightoff"}
+{"sentence": "clean the floor please", "label": "iot/cleaning"}
+{"sentence": "do i have any new friend requests", "label": "social/query"}
+{"sentence": "start vacuum cleaner", "label": "iot/cleaning"}
+{"sentence": "define session", "label": "qa/definition"}
+{"sentence": "switch on all the lights", "label": "iot/hue_lighton"}
+{"sentence": "where is russia located", "label": "qa/factoid"}
+{"sentence": "what time do i have my alarm set for tomorrow", "label": "alarm/query"}
+{"sentence": "will the temperature be in the today", "label": "weather/query"}
+{"sentence": "olly will you just stop it please.", "label": "general/commandstop"}
+{"sentence": "delete my alarm for eight am", "label": "alarm/remove"}
+{"sentence": "how much is fifty us dollars with in china", "label": "qa/currency"}
+{"sentence": "confirm my alarm settings", "label": "alarm/query"}
+{"sentence": "can you brighten up the lights please", "label": "iot/hue_lightup"}
+{"sentence": "what is twenty three times fifty two", "label": "qa/maths"}
+{"sentence": "has sarah posted anything today", "label": "social/query"}
+{"sentence": "what's new on facebook", "label": "social/query"}
+{"sentence": "what is the answer to two by two", "label": "qa/maths"}
+{"sentence": "tell me about the current weather", "label": "weather/query"}
+{"sentence": "kill all the frogs you see", "label": "general/quirky"}
+{"sentence": "i want you cancel.", "label": "general/commandstop"}
+{"sentence": "what is the deepest point on earth", "label": "qa/factoid"}
+{"sentence": "it's dirty here make some noise", "label": "iot/cleaning"}
+{"sentence": "i am sorry but it's not correct response.", "label": "general/negate"}
+{"sentence": "ah that's awesome work.", "label": "general/praise"}
+{"sentence": "would you please check and confirm detail.", "label": "general/confirm"}
+{"sentence": "please will you further clarify me on that.", "label": "general/explain"}
+{"sentence": "please remove my alarm", "label": "alarm/remove"}
+{"sentence": "robot vacuum the living room now", "label": "iot/cleaning"}
+{"sentence": "what alarms will wake me up tomorrow", "label": "alarm/query"}
+{"sentence": "turn the lights off", "label": "iot/hue_lightoff"}
+{"sentence": "would you speak it one more again please.", "label": "general/repeat"}
+{"sentence": "can you change the lights to white", "label": "iot/hue_lightchange"}
+{"sentence": "new updates", "label": "social/query"}
+{"sentence": "tweet my current location", "label": "social/post"}
+{"sentence": "please make the lights natural", "label": "iot/hue_lightchange"}
+{"sentence": "s1, could you please again rephrase me about what you said now.", "label": "general/explain"}
+{"sentence": "i would like a cup of coffee", "label": "iot/coffee"}
+{"sentence": "will you rephrase me on what you've just said again please.", "label": "general/explain"}
+{"sentence": "say again.", "label": "general/repeat"}
+{"sentence": "please turn off the wemo plug", "label": "iot/wemo_off"}
+{"sentence": "how much does bde cost", "label": "qa/stock"}
+{"sentence": "lights off", "label": "iot/hue_lightoff"}
+{"sentence": "set alarm at two am", "label": "alarm/set"}
+{"sentence": "lower the lights", "label": "iot/hue_lightdim"}
+{"sentence": "what do you mean.", "label": "general/explain"}
+{"sentence": "what alarms do i have set for thursday", "label": "alarm/query"}
+{"sentence": "what is zero divided by zero", "label": "qa/maths"}
+{"sentence": "make it brighter in here please", "label": "iot/hue_lightup"}
+{"sentence": "please see see for me the alarms that you have set sunday morning", "label": "alarm/query"}
+{"sentence": "will you further elaborate me on what you have said please.", "label": "general/explain"}
+{"sentence": "current forex rates", "label": "qa/currency"}
+{"sentence": "that is unimportant to me, olly.", "label": "general/dontcare"}
+{"sentence": "wait, you did not interpret command right.", "label": "general/negate"}
+{"sentence": "famous person biographies", "label": "general/quirky"}
+{"sentence": "please increase the light", "label": "iot/hue_lightup"}
+{"sentence": "send twitter to mattel that they need to stop making toys in china", "label": "social/post"}
+{"sentence": "how many jokes do you know", "label": "general/joke"}
+{"sentence": "remind me at six thirty pm", "label": "alarm/set"}
+{"sentence": "when is madonna's birthday", "label": "qa/factoid"}
+{"sentence": "have no idea for which to choose.", "label": "general/dontcare"}
+{"sentence": "send a tweet to kroger about spoiled milk", "label": "social/post"}
+{"sentence": "please turn off the wemo plug socket", "label": "iot/wemo_off"}
+{"sentence": "yes the command is confirmed.", "label": "general/affirm"}
+{"sentence": "what alarms are set", "label": "alarm/query"}
+{"sentence": "transition lights to blue to green to yellow", "label": "iot/hue_lightchange"}
+{"sentence": "remove the first alarm", "label": "alarm/remove"}
+{"sentence": "whatever will be okay for me.", "label": "general/dontcare"}
+{"sentence": "i dont want any alarms", "label": "alarm/remove"}
+{"sentence": "hi olly post my last clicked photo on facebook with title marry christmas", "label": "social/post"}
+{"sentence": "define what's a goalkeeper", "label": "qa/definition"}
+{"sentence": "can you watch a movie on netflix with me", "label": "general/quirky"}
+{"sentence": "s1, rephrase this further.", "label": "general/explain"}
+{"sentence": "i'd like you check my last question please.", "label": "general/confirm"}
+{"sentence": "could you turn off light", "label": "iot/hue_lightoff"}
+{"sentence": "weather in home town", "label": "weather/query"}
+{"sentence": "i need to change my house lights colour to blue", "label": "iot/hue_lightchange"}
+{"sentence": "define flabbergasted", "label": "qa/definition"}
+{"sentence": "what is the answer to two times three", "label": "qa/maths"}
+{"sentence": "uhh no, incorrect command.", "label": "general/negate"}
+{"sentence": "create an alarm for five pm", "label": "alarm/set"}
+{"sentence": "could you please set an alarm at six am", "label": "alarm/set"}
+{"sentence": "should i take my raincoat with me now", "label": "weather/query"}
+{"sentence": "is black sea real", "label": "qa/factoid"}
+{"sentence": "facebook current stock rate", "label": "qa/stock"}
+{"sentence": "what is the current exchange rate between dollars and euros", "label": "qa/currency"}
+{"sentence": "a joke please", "label": "general/joke"}
+{"sentence": "anything is okay for me.", "label": "general/dontcare"}
+{"sentence": "any one is okay to me.", "label": "general/dontcare"}
+{"sentence": "turn the light off in the living room", "label": "iot/hue_lightoff"}
+{"sentence": "power off please", "label": "iot/wemo_off"}
+{"sentence": "turn on the geyser", "label": "iot/wemo_on"}
+{"sentence": "replace color from light to dark", "label": "iot/hue_lightchange"}
+{"sentence": "you understood the answer right.", "label": "general/affirm"}
+{"sentence": "how many alarms are listed", "label": "alarm/query"}
+{"sentence": "what's your favorite joke", "label": "general/joke"}
+{"sentence": "turn on the lights that are outdoors", "label": "iot/hue_lighton"}
+{"sentence": "are you happy today", "label": "general/quirky"}
+{"sentence": "hey can you please make me a creamy coffee", "label": "iot/coffee"}
+{"sentence": "how many american dollars are in a euro", "label": "qa/currency"}
+{"sentence": "look up stock prices for my mutual funds and account", "label": "qa/stock"}
+{"sentence": "please could you tell me once more.", "label": "general/repeat"}
+{"sentence": "how many calories did i burn with my fifty minutes of yoga", "label": "general/quirky"}
+{"sentence": "how many calories are in a serving of grapes", "label": "qa/factoid"}
+{"sentence": "please turn on my balcony lights", "label": "iot/hue_lighton"}
+{"sentence": "do you know any joke", "label": "general/joke"}
+{"sentence": "what is that one more time.", "label": "general/repeat"}
+{"sentence": "thank you very much, olly.", "label": "general/praise"}
+{"sentence": "shut the smart socket down", "label": "iot/wemo_off"}
+{"sentence": "wake me up at four am", "label": "alarm/set"}
+{"sentence": "canadian us exchange rate", "label": "qa/currency"}
+{"sentence": "how much is the euro worth versus us dollar", "label": "qa/currency"}
+{"sentence": "dim the lights in my bedroom", "label": "iot/hue_lightdim"}
+{"sentence": "fantastic response to command.", "label": "general/affirm"}
+{"sentence": "can you set my coffee machine to make me coffee at four pm time", "label": "iot/coffee"}
+{"sentence": "switch off the smart plug socket now", "label": "iot/wemo_off"}
+{"sentence": "i was not clear about your response.", "label": "general/explain"}
+{"sentence": "create an alarm for six am", "label": "alarm/set"}
+{"sentence": "fix an alarm", "label": "alarm/set"}
+{"sentence": "turn on the wemo", "label": "iot/wemo_on"}
+{"sentence": "switch on smart plug", "label": "iot/wemo_on"}
+{"sentence": "remove all alarms if any", "label": "alarm/remove"}
+{"sentence": "you are chatbot", "label": "general/quirky"}
+{"sentence": "replay please.", "label": "general/repeat"}
+{"sentence": "will you check and confirm the instruction please.", "label": "general/confirm"}
+{"sentence": "what is elvis favorite ride", "label": "qa/factoid"}
+{"sentence": "make light color red", "label": "iot/hue_lightchange"}
+{"sentence": "would you try the last one spoken one more time again please.", "label": "general/repeat"}
+{"sentence": "pull up the complaint website for starbucks", "label": "social/post"}
+{"sentence": "tell me what the word organism means", "label": "qa/definition"}
+{"sentence": "open vacuum cleaner", "label": "iot/cleaning"}
+{"sentence": "please turn on all the outdoor lights", "label": "iot/hue_lighton"}
+{"sentence": "turn my lights down to a lower level of brightness", "label": "iot/hue_lightdim"}
+{"sentence": "tell me what's trending on twitter", "label": "social/query"}
+{"sentence": "command was confirmed.", "label": "general/affirm"}
+{"sentence": "complaint on service provider on my twitter", "label": "social/post"}
+{"sentence": "do not really mind for any one.", "label": "general/dontcare"}
+{"sentence": "would not care.", "label": "general/dontcare"}
+{"sentence": "can the lights be turned up", "label": "iot/hue_lightup"}
+{"sentence": "tell me my alarms", "label": "alarm/query"}
+{"sentence": "stop powering the wemo socket", "label": "iot/wemo_off"}
+{"sentence": "i would like it if my robot could make money for me", "label": "general/quirky"}
+{"sentence": "check and confirm last thing said please.", "label": "general/confirm"}
+{"sentence": "activate robot cleaner in an hour", "label": "iot/cleaning"}
+{"sentence": "what friends were in popular places the last day", "label": "social/query"}
+{"sentence": "can you please check my last question.", "label": "general/confirm"}
+{"sentence": "tell me that one more time please.", "label": "general/repeat"}
+{"sentence": "can you begin the brew", "label": "iot/coffee"}
+{"sentence": "power off on", "label": "iot/wemo_off"}
+{"sentence": "that is all, stop it.", "label": "general/commandstop"}
+{"sentence": "is it snowing in california", "label": "weather/query"}
+{"sentence": "what is the current exchange rate from u. s. d. to rupies", "label": "qa/currency"}
+{"sentence": "tell me all about hurricane", "label": "qa/definition"}
+{"sentence": "power up the plug socket one", "label": "iot/wemo_on"}
+{"sentence": "good response to the command.", "label": "general/affirm"}
+{"sentence": "you've done it correctly thanks, olly.", "label": "general/praise"}
+{"sentence": "please increase the light of table lamp", "label": "iot/hue_lightup"}
+{"sentence": "olly just stop.", "label": "general/commandstop"}
+{"sentence": "office lights off", "label": "iot/hue_lightoff"}
+{"sentence": "what does apple of my eye mean", "label": "qa/definition"}
+{"sentence": "find recent events of the celebrity", "label": "general/quirky"}
+{"sentence": "set an alarm for nine am", "label": "alarm/set"}
+{"sentence": "olly that's enough, stop.", "label": "general/commandstop"}
+{"sentence": "please activate my coffee pot for me", "label": "iot/coffee"}
+{"sentence": "turn off all alarms", "label": "alarm/remove"}
+{"sentence": "would you check and confirm the question please.", "label": "general/confirm"}
+{"sentence": "turn on all upstairs lights", "label": "iot/hue_lighton"}
+{"sentence": "dammit, that's not what i meant.", "label": "general/negate"}
+{"sentence": "how many three are available in twenty seven", "label": "qa/maths"}
+{"sentence": "run the vacuum", "label": "iot/cleaning"}
+{"sentence": "please turn off kitchen light", "label": "iot/hue_lightoff"}
+{"sentence": "myspace", "label": "social/query"}
+{"sentence": "can we turn up the lights", "label": "iot/hue_lightup"}
+{"sentence": "tell me the weather for this week", "label": "weather/query"}
+{"sentence": "describe the statue of liberty", "label": "qa/definition"}
+{"sentence": "you didn't get it correctly.", "label": "general/negate"}
+{"sentence": "s2, i could not quite catch up with you.", "label": "general/explain"}
+{"sentence": "could you change the lights colour to green please", "label": "iot/hue_lightchange"}
+{"sentence": "please would you check and confirm it.", "label": "general/confirm"}
+{"sentence": "jokes", "label": "general/joke"}
+{"sentence": "how do i set my coffee machine to make coffee", "label": "iot/coffee"}
+{"sentence": "switch off wemo", "label": "iot/wemo_off"}
+{"sentence": "brighten the lights in the hallway", "label": "iot/hue_lightup"}
+{"sentence": "mention the stock price of hdfc", "label": "qa/stock"}
+{"sentence": "whatever would be good.", "label": "general/dontcare"}
+{"sentence": "give me my facebook update every three hours", "label": "social/query"}
+{"sentence": "turn the lights blue", "label": "iot/hue_lightchange"}
+{"sentence": "change the light to blue", "label": "iot/hue_lightchange"}
+{"sentence": "sarcastic jokes", "label": "general/joke"}
+{"sentence": "turn on the light socket", "label": "iot/wemo_on"}
+{"sentence": "yes you have done that exactly.", "label": "general/affirm"}
+{"sentence": "you have understood my instructions perfectly.", "label": "general/affirm"}
+{"sentence": "turn on the plug", "label": "iot/wemo_on"}
+{"sentence": "time mr coffee for six am", "label": "iot/coffee"}
+{"sentence": "tell me formula for area of circle", "label": "qa/maths"}
+{"sentence": "how's the stock for exxon mobil doing today", "label": "qa/stock"}
+{"sentence": "what is amazon worth", "label": "qa/stock"}
+{"sentence": "what is twelve divided by four", "label": "qa/maths"}
+{"sentence": "turn the lights up", "label": "iot/hue_lightup"}
+{"sentence": "would you cancel it please.", "label": "general/commandstop"}
+{"sentence": "can you please confirm last thing i said.", "label": "general/confirm"}
+{"sentence": "tweet to amazon about late delivery of my tv", "label": "social/post"}
+{"sentence": "shut off the lights in the kitchen", "label": "iot/hue_lightoff"}
+{"sentence": "set alarm for six am tomorrow", "label": "alarm/set"}
+{"sentence": "give me the stock price of intel", "label": "qa/stock"}
+{"sentence": "give me some dim light", "label": "iot/hue_lightdim"}
+{"sentence": "how is the exchange rate for microsoft", "label": "qa/stock"}
+{"sentence": "what is the temperature", "label": "weather/query"}
+{"sentence": "perfect work, you've done well, olly.", "label": "general/praise"}
+{"sentence": "thats not it please do it again.", "label": "general/negate"}
+{"sentence": "make me coffee", "label": "iot/coffee"}
+{"sentence": "journal entry for today", "label": "general/quirky"}
+{"sentence": "tell me the funniest joke that was ever told", "label": "general/joke"}
+{"sentence": "siri what is dollars in yen", "label": "qa/currency"}
+{"sentence": "please delete the wednesday evening alarm", "label": "alarm/remove"}
+{"sentence": "get the coffee started please", "label": "iot/coffee"}
+{"sentence": "joke please", "label": "general/joke"}
+{"sentence": "how many alarms are currently on my phone", "label": "alarm/query"}
+{"sentence": "at what time is my alarm set", "label": "alarm/query"}
+{"sentence": "describe the computer to me", "label": "qa/definition"}
+{"sentence": "yeap you have got my instructions exactly.", "label": "general/affirm"}
+{"sentence": "could you please confirm what i just said.", "label": "general/confirm"}
+{"sentence": "turn off the fan", "label": "iot/wemo_off"}
+{"sentence": "take off my alarms", "label": "alarm/remove"}
+{"sentence": "increase the brightness of the lights", "label": "iot/hue_lightup"}
+{"sentence": "where is stonehenge", "label": "qa/factoid"}
+{"sentence": "yeap it's confirmed.", "label": "general/affirm"}
+{"sentence": "olly can you just stop.", "label": "general/commandstop"}
+{"sentence": "wait, i think that's not the correct command.", "label": "general/negate"}
+{"sentence": "start the vacuum for me", "label": "iot/cleaning"}

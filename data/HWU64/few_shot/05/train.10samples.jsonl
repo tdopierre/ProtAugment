@@ -1,0 +1,250 @@
+{"sentence": "please would you shut up.", "label": "general/commandstop"}
+{"sentence": "cheer me up", "label": "general/joke"}
+{"sentence": "yeah you've got that perfectly.", "label": "general/affirm"}
+{"sentence": "how many contacts are there named john", "label": "email/querycontact"}
+{"sentence": "again clarify me on your answers please.", "label": "general/explain"}
+{"sentence": "replay the musics", "label": "music/settings"}
+{"sentence": "open up contacts and add email something@gmail dot com", "label": "email/addcontact"}
+{"sentence": "who sing we are the world", "label": "music/query"}
+{"sentence": "send email to marissa", "label": "email/sendemail"}
+{"sentence": "show me the time", "label": "datetime/query"}
+{"sentence": "did any emails come for me in the last five hours", "label": "email/query"}
+{"sentence": "could you confirm detail please.", "label": "general/confirm"}
+{"sentence": "what is the email address for tessa", "label": "email/querycontact"}
+{"sentence": "hmm, i think not correct.", "label": "general/negate"}
+{"sentence": "book me a train ticket for saturday", "label": "transport/ticket"}
+{"sentence": "tell me if anything important is happening on social media today", "label": "social/query"}
+{"sentence": "traffic status please", "label": "transport/traffic"}
+{"sentence": "which place has more traffic", "label": "transport/traffic"}
+{"sentence": "hi there tell me latest updates of times of india page in facebook", "label": "social/query"}
+{"sentence": "open jokes", "label": "general/joke"}
+{"sentence": "start a new email to george brown", "label": "email/sendemail"}
+{"sentence": "how do i get to brighton", "label": "transport/query"}
+{"sentence": "please would you confirm detail.", "label": "general/confirm"}
+{"sentence": "set up a taxi for eleven am tomorrow", "label": "transport/taxi"}
+{"sentence": "did ashwin joined party yesterday", "label": "general/quirky"}
+{"sentence": "that's useful, thank you so much, olly.", "label": "general/praise"}
+{"sentence": "i like you stop it.", "label": "general/commandstop"}
+{"sentence": "i need directions to lowes in mount h nj", "label": "transport/query"}
+{"sentence": "save settings", "label": "music/settings"}
+{"sentence": "find out the the train arrival time and book me", "label": "transport/ticket"}
+{"sentence": "yes you got answer correcly.", "label": "general/affirm"}
+{"sentence": "what's the funniest joke you know", "label": "general/joke"}
+{"sentence": "i want a train ticket to edinburgh", "label": "transport/ticket"}
+{"sentence": "what is today", "label": "datetime/query"}
+{"sentence": "is there any traffic downtown right now", "label": "transport/traffic"}
+{"sentence": "whatever would be good to me, olly.", "label": "general/dontcare"}
+{"sentence": "add this email to my contact", "label": "email/addcontact"}
+{"sentence": "repeat jazz", "label": "music/settings"}
+{"sentence": "jay's phone number", "label": "email/querycontact"}
+{"sentence": "i'd like you to check and confirm last thing said please.", "label": "general/confirm"}
+{"sentence": "do i have the address for the apple store in my contacts", "label": "email/querycontact"}
+{"sentence": "yeah fantastic.", "label": "general/affirm"}
+{"sentence": "please can you confirm last thing said.", "label": "general/confirm"}
+{"sentence": "latest instagram posts", "label": "social/query"}
+{"sentence": "book a taxi", "label": "transport/taxi"}
+{"sentence": "please rectify the command.", "label": "general/negate"}
+{"sentence": "thank you so much for the information.", "label": "general/praise"}
+{"sentence": "yes fantastic response.", "label": "general/affirm"}
+{"sentence": "will you check what i said please.", "label": "general/confirm"}
+{"sentence": "can you please let me know the next four scheduled trains to chicago", "label": "transport/query"}
+{"sentence": "show me today all train times of next two hours at jodhpur to jaisalmer", "label": "transport/query"}
+{"sentence": "what is the time difference between india and ivory coast", "label": "datetime/convert"}
+{"sentence": "are you aware this joke", "label": "general/joke"}
+{"sentence": "it's not the correct command.", "label": "general/negate"}
+{"sentence": "please can you stop it.", "label": "general/commandstop"}
+{"sentence": "really don't mind, olly.", "label": "general/dontcare"}
+{"sentence": "can you book a train ticket for my father", "label": "transport/ticket"}
+{"sentence": "fantastic response.", "label": "general/affirm"}
+{"sentence": "i love this music can you please save this to my dance playlist and remember that i like it", "label": "music/likeness"}
+{"sentence": "please keep everything i have on this song", "label": "music/likeness"}
+{"sentence": "yeap amazing response to the command.", "label": "general/affirm"}
+{"sentence": "shit, not correct response.", "label": "general/negate"}
+{"sentence": "perfect work, you've done well, olly.", "label": "general/praise"}
+{"sentence": "s2, i could not get that.", "label": "general/explain"}
+{"sentence": "speak the last words one more time please.", "label": "general/repeat"}
+{"sentence": "please add smurfette@gmail dot com to my email contacts", "label": "email/addcontact"}
+{"sentence": "i am sorry but it's not correct response.", "label": "general/negate"}
+{"sentence": "change the time in this location to ist", "label": "datetime/convert"}
+{"sentence": "tweet a complaint", "label": "social/post"}
+{"sentence": "email hwu@gmail dot com add to email contacts", "label": "email/addcontact"}
+{"sentence": "today is monday is it", "label": "datetime/query"}
+{"sentence": "i like you check and confirm last thing i said please.", "label": "general/confirm"}
+{"sentence": "can you say one more again.", "label": "general/repeat"}
+{"sentence": "i would like to know the train timings to bournemouth tomorrow", "label": "transport/query"}
+{"sentence": "shit, that isn't what i wanted.", "label": "general/negate"}
+{"sentence": "could you please create a pandora channel for adele", "label": "music/settings"}
+{"sentence": "check emails", "label": "email/query"}
+{"sentence": "what is the current time in lagos nigeria", "label": "datetime/query"}
+{"sentence": "set track twenty eight in music player on repeat", "label": "music/settings"}
+{"sentence": "send an email to my brother and say wedding anniversary", "label": "email/sendemail"}
+{"sentence": "uh no, you gave me incorrect information.", "label": "general/negate"}
+{"sentence": "anything new on insta", "label": "social/query"}
+{"sentence": "update on email", "label": "email/query"}
+{"sentence": "save the opinion that i just posted to this song", "label": "music/likeness"}
+{"sentence": "is this song ed sheeran", "label": "music/query"}
+{"sentence": "what is the time in beijing", "label": "datetime/query"}
+{"sentence": "what is jimmy johns's corporate number", "label": "email/querycontact"}
+{"sentence": "i have no idea for what to do, olly.", "label": "general/dontcare"}
+{"sentence": "save the email to my contact", "label": "email/addcontact"}
+{"sentence": "have no idea regarding to which to select.", "label": "general/dontcare"}
+{"sentence": "would not really mind.", "label": "general/dontcare"}
+{"sentence": "tweet paula deen's restaurant that the line is always too long", "label": "social/post"}
+{"sentence": "what's your favorite color", "label": "general/quirky"}
+{"sentence": "will you replay please.", "label": "general/repeat"}
+{"sentence": "can i get the directions to the nearest bar", "label": "transport/query"}
+{"sentence": "i'd like you confirm the question please.", "label": "general/confirm"}
+{"sentence": "my favorite singer is shakira", "label": "music/likeness"}
+{"sentence": "tell a joke", "label": "general/joke"}
+{"sentence": "book for me an uber taxi to bardonia", "label": "transport/taxi"}
+{"sentence": "whats the time now", "label": "datetime/query"}
+{"sentence": "i have a deadline on tuesday", "label": "general/quirky"}
+{"sentence": "please will you explain me more on what you've said.", "label": "general/explain"}
+{"sentence": "that's enough, just cancel it.", "label": "general/commandstop"}
+{"sentence": "i would like to hear the last you just said again.", "label": "general/repeat"}
+{"sentence": "s2, i was unclear about your answers.", "label": "general/explain"}
+{"sentence": "accident or normal traffic", "label": "transport/traffic"}
+{"sentence": "display latest emails", "label": "email/query"}
+{"sentence": "post to facebook I'm home", "label": "social/post"}
+{"sentence": "has mary posted anything to facebook today", "label": "social/query"}
+{"sentence": "make a new contact with this email", "label": "email/addcontact"}
+{"sentence": "convert time zone to ist", "label": "datetime/convert"}
+{"sentence": "post the following status to facebook", "label": "social/post"}
+{"sentence": "what does the clock say", "label": "datetime/query"}
+{"sentence": "respond to mom's mail message about the recipe site", "label": "email/sendemail"}
+{"sentence": "show me the information of friend", "label": "email/querycontact"}
+{"sentence": "that is all, just cancel.", "label": "general/commandstop"}
+{"sentence": "i appreciate it, that's great job.", "label": "general/praise"}
+{"sentence": "send email to mom and tell her see her at disney world", "label": "email/sendemail"}
+{"sentence": "exact.", "label": "general/affirm"}
+{"sentence": "can you get me train ticket prices please", "label": "transport/query"}
+{"sentence": "what is the route to the closest mcdonalds", "label": "transport/query"}
+{"sentence": "shuffle the songs in the music library", "label": "music/settings"}
+{"sentence": "listening song of arijit singh post it on my facebook account", "label": "social/post"}
+{"sentence": "what you have said is not so clear.", "label": "general/explain"}
+{"sentence": "i want to see the twitter handler of samsung", "label": "social/post"}
+{"sentence": "who is the contact that last called me", "label": "email/querycontact"}
+{"sentence": "hey i want to get trains to manchester on Wednesday", "label": "transport/ticket"}
+{"sentence": "what song is currently playing", "label": "music/query"}
+{"sentence": "latest news feed from facebook", "label": "social/query"}
+{"sentence": "time between us and canada", "label": "datetime/convert"}
+{"sentence": "is the data prefers any problems in objects", "label": "general/quirky"}
+{"sentence": "book train ticket for this time", "label": "transport/ticket"}
+{"sentence": "is there any traffic right now", "label": "transport/traffic"}
+{"sentence": "s1, could you please again rephrase me about what you said now.", "label": "general/explain"}
+{"sentence": "i like you check question please.", "label": "general/confirm"}
+{"sentence": "find new email", "label": "email/query"}
+{"sentence": "s1, explain further please.", "label": "general/explain"}
+{"sentence": "please tell me it once again.", "label": "general/repeat"}
+{"sentence": "have a anyinput day", "label": "general/quirky"}
+{"sentence": "ah it is excellent.", "label": "general/praise"}
+{"sentence": "sorry but that is not the right answer.", "label": "general/negate"}
+{"sentence": "i think you did not get this right.", "label": "general/negate"}
+{"sentence": "tell me that one more time please.", "label": "general/repeat"}
+{"sentence": "show me all the emails received recently", "label": "email/query"}
+{"sentence": "olly can you stop it.", "label": "general/commandstop"}
+{"sentence": "i do not care.", "label": "general/dontcare"}
+{"sentence": "are there any unread emails from patrick", "label": "email/query"}
+{"sentence": "can i pass the bypass road at current traffic", "label": "transport/traffic"}
+{"sentence": "find transportation to rome", "label": "transport/taxi"}
+{"sentence": "whatever is good.", "label": "general/dontcare"}
+{"sentence": "that's good one, thank you very much, olly.", "label": "general/praise"}
+{"sentence": "what time is it in the other time zones", "label": "datetime/query"}
+{"sentence": "yes you got command exactly.", "label": "general/affirm"}
+{"sentence": "are you happy today", "label": "general/quirky"}
+{"sentence": "would you try what you said again.", "label": "general/repeat"}
+{"sentence": "i want to book rajdhani train ticket from mumbai to ahmadabad", "label": "transport/ticket"}
+{"sentence": "show me the name of the song playing right now", "label": "music/query"}
+{"sentence": "that's enough, stop it.", "label": "general/commandstop"}
+{"sentence": "i am the living blues", "label": "music/likeness"}
+{"sentence": "do you hear songs of arrahman music", "label": "music/query"}
+{"sentence": "how long will it take to drive to long beach", "label": "transport/traffic"}
+{"sentence": "how high is the quality of this stone", "label": "general/quirky"}
+{"sentence": "change my mum's email in my phonebook", "label": "email/addcontact"}
+{"sentence": "convert eight thirty from gtm four to g. m. t. five thirty", "label": "datetime/convert"}
+{"sentence": "can you locate some gospel music for me", "label": "music/query"}
+{"sentence": "whats the traffic like near ypsilanti", "label": "transport/traffic"}
+{"sentence": "i would like to hear the last one you said again.", "label": "general/repeat"}
+{"sentence": "please say the following on facebook", "label": "social/post"}
+{"sentence": "uber please", "label": "transport/taxi"}
+{"sentence": "what is tomorrows date", "label": "datetime/query"}
+{"sentence": "yes i like to save opinion on song playing and which player support that song", "label": "music/likeness"}
+{"sentence": "did i get an email from jen last night", "label": "email/query"}
+{"sentence": "book a taxi to the airport", "label": "transport/taxi"}
+{"sentence": "retry the last spoken.", "label": "general/repeat"}
+{"sentence": "i want the music to be saved can you do it for me", "label": "music/likeness"}
+{"sentence": "tell me today's direction", "label": "transport/query"}
+{"sentence": "tell a joke that puts smile on my face", "label": "general/joke"}
+{"sentence": "mary's contact number", "label": "email/querycontact"}
+{"sentence": "search for new jokes", "label": "general/joke"}
+{"sentence": "tell me what's going on with facebook", "label": "social/query"}
+{"sentence": "would you stop it.", "label": "general/commandstop"}
+{"sentence": "let me know when charges hit my credit card", "label": "general/quirky"}
+{"sentence": "what is the latest traffic report for miami", "label": "transport/traffic"}
+{"sentence": "call me a cab", "label": "transport/taxi"}
+{"sentence": "tell me a play list", "label": "music/query"}
+{"sentence": "i need a naughty joke not to naughty though", "label": "general/joke"}
+{"sentence": "please skip two songs", "label": "music/settings"}
+{"sentence": "if i was in the eastern time zone what time would it be", "label": "datetime/convert"}
+{"sentence": "olly skip two songs", "label": "music/settings"}
+{"sentence": "what is the time difference between pacific and central", "label": "datetime/convert"}
+{"sentence": "respond to all that i am on my way", "label": "email/sendemail"}
+{"sentence": "tell me the time in g. m. t. plus five", "label": "datetime/convert"}
+{"sentence": "tell to joe's email that come to my house in this moment i am alone", "label": "email/sendemail"}
+{"sentence": "i would not mind for any one, olly.", "label": "general/dontcare"}
+{"sentence": "say a joke", "label": "general/joke"}
+{"sentence": "add this email address to my contacts and send an email to", "label": "email/addcontact"}
+{"sentence": "give me time", "label": "datetime/query"}
+{"sentence": "you have done task all wrong.", "label": "general/negate"}
+{"sentence": "what are today's highlights from facebook", "label": "social/query"}
+{"sentence": "you have done it perfectly.", "label": "general/affirm"}
+{"sentence": "tell me the artist of this song", "label": "music/query"}
+{"sentence": "nine hundred and ninety nine fm is currently playing what music", "label": "music/query"}
+{"sentence": "please purchase a amtrak ticket from las vegas nevada to lakeland florida leaving on the first of april", "label": "transport/ticket"}
+{"sentence": "show me the path of nearest railway station", "label": "transport/query"}
+{"sentence": "beep when i get an email from john", "label": "email/query"}
+{"sentence": "can you please tell me who are you", "label": "general/quirky"}
+{"sentence": "are there any delays in traffic today", "label": "transport/traffic"}
+{"sentence": "two thumbs down @companyname", "label": "social/post"}
+{"sentence": "if it's five am in berlin what time is it here", "label": "datetime/convert"}
+{"sentence": "post a tweet as follows very bad follow up by abc company not satisfied in my account", "label": "social/post"}
+{"sentence": "can you call a taxi", "label": "transport/taxi"}
+{"sentence": "s1, rephrase me more on it.", "label": "general/explain"}
+{"sentence": "you did command perfectly.", "label": "general/affirm"}
+{"sentence": "it would be nice if you post status for me", "label": "social/post"}
+{"sentence": "get me a taxi to the airport right now", "label": "transport/taxi"}
+{"sentence": "you rock, i appreciate it.", "label": "general/praise"}
+{"sentence": "can you please book train tickets for two for this friday", "label": "transport/ticket"}
+{"sentence": "find john smith in contacts", "label": "email/querycontact"}
+{"sentence": "what you said now was not clear.", "label": "general/explain"}
+{"sentence": "please check email from my boss", "label": "email/query"}
+{"sentence": "add the email oriam@gmail dot com to my contacts", "label": "email/addcontact"}
+{"sentence": "put the current song on repeat", "label": "music/settings"}
+{"sentence": "i need the time zone from london england instead of central time zone", "label": "datetime/convert"}
+{"sentence": "please add dan's email to my contacts", "label": "email/addcontact"}
+{"sentence": "email my sister about mom's birthday jane we should think about arranging the party at the park", "label": "email/sendemail"}
+{"sentence": "recent advice concerning google seo", "label": "general/quirky"}
+{"sentence": "check my last post on facebook", "label": "social/query"}
+{"sentence": "make a note please i like modern alternative rock music", "label": "music/likeness"}
+{"sentence": "open uber and book a car for twelve o'clock", "label": "transport/taxi"}
+{"sentence": "it was cool, thank you very much.", "label": "general/praise"}
+{"sentence": "i have no idea regarding to which to select.", "label": "general/dontcare"}
+{"sentence": "find me a train ticket next monday to new york city", "label": "transport/ticket"}
+{"sentence": "please will you shut off.", "label": "general/commandstop"}
+{"sentence": "would you tell me that once again.", "label": "general/repeat"}
+{"sentence": "i want to listen to a joke", "label": "general/joke"}
+{"sentence": "send email to bill asking to reschedule", "label": "email/sendemail"}
+{"sentence": "you helped a lot, musch appreciated, olly.", "label": "general/praise"}
+{"sentence": "which song is currently playing", "label": "music/query"}
+{"sentence": "could you just cancel it please.", "label": "general/commandstop"}
+{"sentence": "which contact haven't i called in twelve months", "label": "email/querycontact"}
+{"sentence": "this is one of the best songs for me", "label": "music/likeness"}
+{"sentence": "open music player settings", "label": "music/settings"}
+{"sentence": "will you please check and confirm it.", "label": "general/confirm"}
+{"sentence": "can you tell me what happened to my social media", "label": "social/query"}
+{"sentence": "wouldn't mind to select any one, olly.", "label": "general/dontcare"}
+{"sentence": "go to email and send message to", "label": "email/sendemail"}
+{"sentence": "would you please check what i last said.", "label": "general/confirm"}
+{"sentence": "what you just said was not so clear to me.", "label": "general/explain"}
+{"sentence": "that's good one, thank you very much.", "label": "general/praise"}
+{"sentence": "Olly save all the songs i have listened to more than once", "label": "music/likeness"}

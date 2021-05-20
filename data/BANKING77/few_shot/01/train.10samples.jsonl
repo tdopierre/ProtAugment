@@ -1,0 +1,250 @@
+{"sentence": "How do I activate auto top-up when traveling?", "label": "automatic_top_up"}
+{"sentence": "My card is stuck inside the ATM, what am I supposed to do?", "label": "card_swallowed"}
+{"sentence": "When do I set up my card PIN?", "label": "get_physical_card"}
+{"sentence": "I was getting cash and the card got stuck inside", "label": "card_swallowed"}
+{"sentence": "Am I able to have a card sent to China?", "label": "card_about_to_expire"}
+{"sentence": "How do I get extra physical cards?", "label": "getting_spare_card"}
+{"sentence": "I need an ATM right now!", "label": "atm_support"}
+{"sentence": "Can it add money automatically while travelling", "label": "automatic_top_up"}
+{"sentence": "Someone is making transactions on my account, I think they took my card information.", "label": "compromised_card"}
+{"sentence": "Has my top-up gone through?", "label": "top_up_reverted"}
+{"sentence": "What is the time frame for a transfer from the US?", "label": "transfer_timing"}
+{"sentence": "I paid with my card and got charged an extra fee, what's up with that?", "label": "card_payment_fee_charged"}
+{"sentence": "The machine gave me the wrong amount of cash.", "label": "wrong_amount_of_cash_received"}
+{"sentence": "Why do you require so many identity details?", "label": "why_verify_identity"}
+{"sentence": "I see a direct debit transaction in my history that I did not set up.", "label": "direct_debit_payment_not_recognised"}
+{"sentence": "Where are the ATMs that accept this card?", "label": "atm_support"}
+{"sentence": "How do I find my card PIN?", "label": "get_physical_card"}
+{"sentence": "What does my daughter need to open an account?", "label": "age_limit"}
+{"sentence": "I tried topping up my account but it failed, can you help me?", "label": "top_up_failed"}
+{"sentence": "Who gets support?", "label": "country_support"}
+{"sentence": "Will the system automatically top up itself?", "label": "automatic_top_up"}
+{"sentence": "My top-up didn't go through", "label": "top_up_failed"}
+{"sentence": "Which ATMs am I allowed to get money from?", "label": "atm_support"}
+{"sentence": "I sent money to a person and they haven't received the payment yet.", "label": "transfer_not_received_by_recipient"}
+{"sentence": "When will the money reach my  account?", "label": "transfer_timing"}
+{"sentence": "Why am I being charged a fee for transferring money?", "label": "transfer_fee_charged"}
+{"sentence": "Why isn't my deposit showing up?", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "Was I charged more than I should of been for a currency exchange?", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "Is there a limit on how many times I can use a disposable card?", "label": "disposable_card_limits"}
+{"sentence": "How can I get my card out of the ATM?", "label": "card_swallowed"}
+{"sentence": "I read about the auto-top up function, but can't find it in the app.", "label": "automatic_top_up"}
+{"sentence": "Do you offer cards for those in other countries?", "label": "country_support"}
+{"sentence": "When will money be available in my account?", "label": "transfer_timing"}
+{"sentence": "I have exceeded all my PIN tries", "label": "pin_blocked"}
+{"sentence": "I was unaware of the additional charge that was added onto my previous payment. A notification of extra charges would be appreciated in the future.", "label": "card_payment_fee_charged"}
+{"sentence": "I don't recognize some transactions.  Is someone else using it?", "label": "compromised_card"}
+{"sentence": "Why am I being charged more on exchange with things I bought abroad?", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "Why was I charged a fee for my card payment?", "label": "card_payment_fee_charged"}
+{"sentence": "I froze my account, but how do I order a replacement card?", "label": "compromised_card"}
+{"sentence": "Is there a reason I was charged a fee to transfer?", "label": "transfer_fee_charged"}
+{"sentence": "Where is the money I put in the bank?", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "Why do I see a fee when I do a transfer?", "label": "transfer_fee_charged"}
+{"sentence": "I hope you can help me. Someone has stolen my wallet and now I have noticed that they have been taking money from my account.", "label": "cash_withdrawal_not_recognised"}
+{"sentence": "Hello,  I have recharged topup but account is not credited. Please help me in this, i guess there is some defect in system.", "label": "top_up_reverted"}
+{"sentence": "Can I use my card in another institutions ATM?", "label": "atm_support"}
+{"sentence": "The transactions showing up are strange, I think my card was used without me knowing.", "label": "compromised_card"}
+{"sentence": "Why did my transfer fail?", "label": "failed_transfer"}
+{"sentence": "My transfer seems to be too expensive.", "label": "transfer_fee_charged"}
+{"sentence": "I initiated a Bank transfer form Europe, how long will this take?", "label": "transfer_timing"}
+{"sentence": "is there a way to fix my top up", "label": "top_up_failed"}
+{"sentence": "Where is my card accepted?", "label": "card_acceptance"}
+{"sentence": "What if there is an error on the exchange rate?", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "My card will expire next month, will I need to order a new one?", "label": "card_about_to_expire"}
+{"sentence": "I was unable to transfer money from my account.", "label": "failed_transfer"}
+{"sentence": "Hi, I am currently in the process of buying a flat and I am waiting for the mortgage to go through but it keeps showing up as an error.  Do you know what could be causing this and can you help me get the money over.", "label": "failed_transfer"}
+{"sentence": "Why has my transfer not arrived yet?", "label": "transfer_not_received_by_recipient"}
+{"sentence": "There is a cash withdrawal transaction that I am unsure of.", "label": "cash_withdrawal_not_recognised"}
+{"sentence": "When I bought something abroad, the exchange rate was wrong.", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "A cheque deposit hasn't posted to my account, when will my balance update?", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "From where can I withdraw?", "label": "atm_support"}
+{"sentence": "What countries are you located in?", "label": "country_support"}
+{"sentence": "The ATM didnt return my card!", "label": "card_swallowed"}
+{"sentence": "Can someone assist me with explaining how I can unblock my pin?", "label": "pin_blocked"}
+{"sentence": "Is it possible to purchase more physical cards with my account?", "label": "getting_spare_card"}
+{"sentence": "When I made a transfer I was charged extra.", "label": "transfer_fee_charged"}
+{"sentence": "Why was I charged an extra fee when paying with my card?", "label": "card_payment_fee_charged"}
+{"sentence": "How low does the balance have to be before the system updates?", "label": "automatic_top_up"}
+{"sentence": "When my card expires, will I get a new one mailed to me?", "label": "card_about_to_expire"}
+{"sentence": "What is this witdrawal", "label": "cash_withdrawal_not_recognised"}
+{"sentence": "After reviewing my charges, I see I was charged a fee for a transfer I did, why?", "label": "transfer_fee_charged"}
+{"sentence": "I do not have my pin yet", "label": "get_physical_card"}
+{"sentence": "Why would the app show a withdrawal that I did not make?", "label": "cash_withdrawal_not_recognised"}
+{"sentence": "How long until my transfer goes through?", "label": "transfer_timing"}
+{"sentence": "Can I use my card no matter where I go?", "label": "card_acceptance"}
+{"sentence": "Can I use a different bank ATM than my own?", "label": "atm_support"}
+{"sentence": "I had to pay money for paying with my card.", "label": "card_payment_fee_charged"}
+{"sentence": "This card is accepted by what businesses?", "label": "card_acceptance"}
+{"sentence": "I am in the EU. Can I get one of your cards?", "label": "country_support"}
+{"sentence": "The app shows a withdrawal that I did not make or authorize.", "label": "cash_withdrawal_not_recognised"}
+{"sentence": "Do you know what the restriction of the disposable cards are?", "label": "disposable_card_limits"}
+{"sentence": "I believe my card has been compromised as there are funds showing that I did not receive.", "label": "cash_withdrawal_not_recognised"}
+{"sentence": "My transfer didn't arrive to the recipient", "label": "transfer_not_received_by_recipient"}
+{"sentence": "I got topped up but the application reverted it.", "label": "top_up_reverted"}
+{"sentence": "An ATM machine didn't return my card.", "label": "card_swallowed"}
+{"sentence": "Can you tell my why my funds transfer did not work properly?", "label": "failed_transfer"}
+{"sentence": "I deposited a check yesterday and im not seeing it posted yet in my account. why is that? can you look into it?", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "Can you provide a reason as to why my transfer did not work?", "label": "failed_transfer"}
+{"sentence": "There's an unauthorized cash withdraw", "label": "cash_withdrawal_not_recognised"}
+{"sentence": "My receipt shows an extra charge on my transfer, why is this?", "label": "transfer_fee_charged"}
+{"sentence": "There are a few transaction that I don't recognize, I think someone managed to get my card details and use it.", "label": "compromised_card"}
+{"sentence": "Why am I not seeing the check I deposited this morning in my account?", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "My PIN can't access my card, can you help?.", "label": "pin_blocked"}
+{"sentence": "Need a new card, mine is expiring.", "label": "card_about_to_expire"}
+{"sentence": "I need another card for a member of my family. Is this possible? How soon can I get one?", "label": "getting_spare_card"}
+{"sentence": "i tried using a virtual card for a hotel but it didn't work, why not", "label": "disposable_card_limits"}
+{"sentence": "I sent a check into the system but still haven't received the cash yet", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "I don't want to give you all my identify details.", "label": "why_verify_identity"}
+{"sentence": "I just got an email in confirming my purchase with my card. I login to the mobile app on the card and found out there are several purchase were made without me aware of it. Evidently someone had stole my card information and made these fraudulent purchase. I need the transaction to be reverse and have my card suspended.", "label": "compromised_card"}
+{"sentence": "Why do you need so much information about me", "label": "why_verify_identity"}
+{"sentence": "Someone withdrew money from my account, and it wasn't me.", "label": "cash_withdrawal_not_recognised"}
+{"sentence": "So what items  actually come  with  extra  fees", "label": "card_payment_fee_charged"}
+{"sentence": "let me know how many disposable cards I can have?", "label": "disposable_card_limits"}
+{"sentence": "Why was I charged a fee to transfer money?", "label": "transfer_fee_charged"}
+{"sentence": "Do I have to use a bank approved ATM to withdraw money?", "label": "atm_support"}
+{"sentence": "I just made an order and noticed an extra fee. Why have you charged me this without informing me?", "label": "card_payment_fee_charged"}
+{"sentence": "Why hasn't the transfer shown up in my account yet?", "label": "transfer_timing"}
+{"sentence": "What do i do if the exchange rate was wrong for the item i bought overseas?", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "You can use it anywhere that accepts Mastercard.", "label": "card_acceptance"}
+{"sentence": "Is there a fee that comes with transfers?", "label": "transfer_fee_charged"}
+{"sentence": "wheres my pin", "label": "get_physical_card"}
+{"sentence": "I am traveling to Germany, Will I be able to use my card there?", "label": "card_acceptance"}
+{"sentence": "The recipient can not locate funds.", "label": "transfer_not_received_by_recipient"}
+{"sentence": "am afraid someone may have gained access to the info on my card.", "label": "compromised_card"}
+{"sentence": "How do I get my PIN unlocked?", "label": "pin_blocked"}
+{"sentence": "You did not give me the correct exchange rate for an item that I bought.", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "why does the app show a direct debit payment that I did not authorize", "label": "direct_debit_payment_not_recognised"}
+{"sentence": "I tried to make a transfer and it failed.", "label": "failed_transfer"}
+{"sentence": "Where can I find your locations?", "label": "country_support"}
+{"sentence": "Why is there a random withdrawal in my app?", "label": "cash_withdrawal_not_recognised"}
+{"sentence": "I live in the EU - can I get a card?", "label": "country_support"}
+{"sentence": "Explain top-up cancellation", "label": "top_up_reverted"}
+{"sentence": "what is the amount of disposable cards I can have?", "label": "disposable_card_limits"}
+{"sentence": "What countries are you currently in?", "label": "country_support"}
+{"sentence": "What will happen after my card expires?", "label": "card_about_to_expire"}
+{"sentence": "Can I still use my account, even though the identity verification has not passed yet?", "label": "why_verify_identity"}
+{"sentence": "I live in the EU.  Can I order one of your cards?", "label": "country_support"}
+{"sentence": "Why am I being a charged for using my card?", "label": "card_payment_fee_charged"}
+{"sentence": "Hello, I have tried using crypto top up but it is not working. I had some money in my account but I'm not sure what happened", "label": "top_up_reverted"}
+{"sentence": "Do you offer account's for minors?", "label": "age_limit"}
+{"sentence": "I took out cash from the ATM, but something must have went wrong, My account shows the correct amount of cash I took out, but the ATM didn't give me that amount. How do I get my money back?", "label": "wrong_amount_of_cash_received"}
+{"sentence": "What do I do if the ATM took my card?", "label": "card_swallowed"}
+{"sentence": "What is the procedure for getting another card?", "label": "getting_spare_card"}
+{"sentence": "I submitted a cash deposit to my account but it hasn't posted yet.", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "How old do you need to be to open an account?", "label": "age_limit"}
+{"sentence": "I'd like to open an account for my kids can I do that?", "label": "age_limit"}
+{"sentence": "Which locations can I withdraw money from?", "label": "atm_support"}
+{"sentence": "Hi, I draw out some money from the ATM today. The ATM has given me wrong amount and the application is displaying more amount than i withdraw.", "label": "wrong_amount_of_cash_received"}
+{"sentence": "Is there anywhere my card will not be accepted?", "label": "card_acceptance"}
+{"sentence": "Do you know which businesses will accept my card?", "label": "card_acceptance"}
+{"sentence": "Why does it say my transfer failed?", "label": "failed_transfer"}
+{"sentence": "Will any ATM's decline my card?", "label": "atm_support"}
+{"sentence": "Why did you revert my top up?", "label": "top_up_reverted"}
+{"sentence": "What ATMs can I use this card at?", "label": "atm_support"}
+{"sentence": "How do I go about unlocking a pin?", "label": "pin_blocked"}
+{"sentence": "I was not able to receive the correct amount of cash.", "label": "wrong_amount_of_cash_received"}
+{"sentence": "I was given less cash then I wanted.", "label": "wrong_amount_of_cash_received"}
+{"sentence": "Will declined funds I tried to withdraw be returned to me?", "label": "wrong_amount_of_cash_received"}
+{"sentence": "Can topping up be automatic?", "label": "automatic_top_up"}
+{"sentence": "Are there any restrictions to where I can use my card?", "label": "card_acceptance"}
+{"sentence": "I sent a payment but it isn't showing up in the app", "label": "transfer_not_received_by_recipient"}
+{"sentence": "My card is about to expired what will happen?", "label": "card_about_to_expire"}
+{"sentence": "Why do you need to verify my identity?", "label": "why_verify_identity"}
+{"sentence": "My money has gone missing. I had recently added money in, and saw it was there and went through. Now it's missing. What is happening?", "label": "top_up_reverted"}
+{"sentence": "How long until transfers from Europe go through?", "label": "transfer_timing"}
+{"sentence": "Am I allowed to give my daughter one of my cards to use?", "label": "getting_spare_card"}
+{"sentence": "Is it possible to dispute a debit payment from a couple of months ago.", "label": "direct_debit_payment_not_recognised"}
+{"sentence": "Is there a reason that my transfer failed?", "label": "failed_transfer"}
+{"sentence": "My top up is not working", "label": "top_up_failed"}
+{"sentence": "I just topped up, and the app denied it.", "label": "top_up_failed"}
+{"sentence": "Hi, I tried to top up my card today and it did not work. I have tried it in the past and it worked just fine but it won't do it anymore. Can you help me out?", "label": "top_up_failed"}
+{"sentence": "Can I have more disposable cards?", "label": "disposable_card_limits"}
+{"sentence": "Why was my transfer charged fees?", "label": "transfer_fee_charged"}
+{"sentence": "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?", "label": "pin_blocked"}
+{"sentence": "Why isn't my balance updating after depositing cheques and cash.", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "It seems there is an incorrect listing of a direct debit payment on my app that I did not make", "label": "direct_debit_payment_not_recognised"}
+{"sentence": "I tried making an update to my balance using cheque just yesterday but it doesn't appear to have worked. Should this not be a faster process? I need you to please check over my account because something has went wrong.", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "How many cards am I allowed?", "label": "getting_spare_card"}
+{"sentence": "Are there businesses that don't accept this card?", "label": "card_acceptance"}
+{"sentence": "What happened to my cash deposit?", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "Do you not accept crypto transfers from certain places? Because when I tried to do a top up the money just disappeared. Im not sure what to do or what I'm doing wrong, please help.", "label": "top_up_reverted"}
+{"sentence": "My card info was stolen, what do I do?", "label": "compromised_card"}
+{"sentence": "I heard you have an auto-top up option, where do I find that?", "label": "automatic_top_up"}
+{"sentence": "I am seeing a direct debit I wasn't aware of.", "label": "direct_debit_payment_not_recognised"}
+{"sentence": "Where is the PIN for my card located?", "label": "get_physical_card"}
+{"sentence": "Too many times I entered the incorrect PIN.  How can I get my account unblocked?", "label": "pin_blocked"}
+{"sentence": "Where do I find my PIN for my new card?", "label": "get_physical_card"}
+{"sentence": "I have a trip coming up and want to add money automatically.", "label": "automatic_top_up"}
+{"sentence": "My statement shows a strange direct debit.", "label": "direct_debit_payment_not_recognised"}
+{"sentence": "I tried doing an in country transfer earlier this week. I thought it would be there by now but I still don't see the money. Can you check the status on my transfer?", "label": "transfer_not_received_by_recipient"}
+{"sentence": "Will I always be charged a fee for using my card?", "label": "card_payment_fee_charged"}
+{"sentence": "Is there a minimum age for having an account?", "label": "age_limit"}
+{"sentence": "My topping up didn't go through.", "label": "top_up_failed"}
+{"sentence": "Why do you need so much information to verify my identity?", "label": "why_verify_identity"}
+{"sentence": "Will it take more than 3 days for my transfer to reach my account?", "label": "transfer_timing"}
+{"sentence": "Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct.", "label": "failed_transfer"}
+{"sentence": "how long does it take to transfer money, my retailer is waiting", "label": "transfer_not_received_by_recipient"}
+{"sentence": "Someone besides me might be using my card.", "label": "compromised_card"}
+{"sentence": "I didn't initiate a direct debit that I see on my account", "label": "direct_debit_payment_not_recognised"}
+{"sentence": "how is it possible to add another card to account", "label": "getting_spare_card"}
+{"sentence": "I have a friend who needs money as soon as possibly. If I were to transfer it how long will it take to get to her?", "label": "transfer_not_received_by_recipient"}
+{"sentence": "How long after I receive my statement can I dispute payments on it?", "label": "direct_debit_payment_not_recognised"}
+{"sentence": "The transfer I did hasn't arrived", "label": "transfer_not_received_by_recipient"}
+{"sentence": "On my last transaction it seem that my top-up was not successful.", "label": "top_up_reverted"}
+{"sentence": "I could only take the amount of money that was available to me which was less then I expected.", "label": "wrong_amount_of_cash_received"}
+{"sentence": "The exchange rate applied is wrong for my international purchase.", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "I'm getting concerned here.  I sent a friend some money and she isn't seeing it.  What's going on?", "label": "transfer_not_received_by_recipient"}
+{"sentence": "I purchased something overseas and the incorrect exchange rate was applied.", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "Is there a daily auto top-up limit?", "label": "automatic_top_up"}
+{"sentence": "What is the limit to number of transactions I can do with a disposable card?", "label": "disposable_card_limits"}
+{"sentence": "DO I have to be 18 to open an account?", "label": "age_limit"}
+{"sentence": "I tried pulling out money at the ATM and it gave me an incorrect amount back.", "label": "wrong_amount_of_cash_received"}
+{"sentence": "are there any country restrictions?", "label": "country_support"}
+{"sentence": "I paid with card and I think there was a fee applied.", "label": "card_payment_fee_charged"}
+{"sentence": "I was the victim of someone stealing my wallet.  My card is being used and it isn't me.  What should I do?", "label": "cash_withdrawal_not_recognised"}
+{"sentence": "Do you need to know my first and last name?", "label": "why_verify_identity"}
+{"sentence": "How do I know where I can use my card?", "label": "card_acceptance"}
+{"sentence": "There is a direct debit transaction on my statement that I think is not mine. How do I remove?", "label": "direct_debit_payment_not_recognised"}
+{"sentence": "My card will expire soon, do I need to order a new one?", "label": "card_about_to_expire"}
+{"sentence": "Someone else is using my card, freeze it.", "label": "compromised_card"}
+{"sentence": "My topup got reverted. Please let me know if there is any issue in system.", "label": "top_up_reverted"}
+{"sentence": "What happens if I forget my PIN?", "label": "pin_blocked"}
+{"sentence": "How old do my kids need to be to open an account?", "label": "age_limit"}
+{"sentence": "What are the limits to using disposable virtual cards?", "label": "disposable_card_limits"}
+{"sentence": "The ATM didn't give me enough money! I asked for more than it gave. What do I do?", "label": "wrong_amount_of_cash_received"}
+{"sentence": "Are there any fees to get additional cards?", "label": "getting_spare_card"}
+{"sentence": "WTF??? I tried to withdraw some money at a Metro bank on High St. Kensington and without any notice it disappeared in the machine. The bank was already closed so I couldn't do anything. How do I get it back?", "label": "card_swallowed"}
+{"sentence": "I haven't received my PIN yet. Do I need to get it from you?", "label": "get_physical_card"}
+{"sentence": "I already have an account. Why can't I use it unless my identity is verified?", "label": "why_verify_identity"}
+{"sentence": "Why is there an identify check?", "label": "why_verify_identity"}
+{"sentence": "I can't add any more money.", "label": "top_up_failed"}
+{"sentence": "The atm didn't give me all my cash", "label": "wrong_amount_of_cash_received"}
+{"sentence": "Can you tell me how to locate my PIN?", "label": "get_physical_card"}
+{"sentence": "what is the disposable cards limit?", "label": "disposable_card_limits"}
+{"sentence": "There is a direct debit patentp that I haven't authorized.", "label": "direct_debit_payment_not_recognised"}
+{"sentence": "How do I find my new pin?", "label": "get_physical_card"}
+{"sentence": "is my pin the same as my passcode", "label": "get_physical_card"}
+{"sentence": "how to get a new card in china", "label": "card_about_to_expire"}
+{"sentence": "what is the age limit for opening a new account", "label": "age_limit"}
+{"sentence": "Why didn't my transfer go through?", "label": "failed_transfer"}
+{"sentence": "The app has rejected my top up.", "label": "top_up_failed"}
+{"sentence": "I think the rate that was applied to my purchase using foreign currency is wrong. Help!", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "How do I get a new card sent to China?", "label": "card_about_to_expire"}
+{"sentence": "Fix my top up", "label": "top_up_failed"}
+{"sentence": "Guide me on how to unblock my PIN", "label": "pin_blocked"}
+{"sentence": "What do I do when my card expires?", "label": "card_about_to_expire"}
+{"sentence": "The ATM didn't give me the card back!", "label": "card_swallowed"}
+{"sentence": "Whats the maximum number of disposable cards that I can get?", "label": "disposable_card_limits"}
+{"sentence": "I have kids and I'm curious at what age could they start to use your service.", "label": "age_limit"}
+{"sentence": "Can I auto top-up as much as I want?", "label": "automatic_top_up"}
+{"sentence": "I would like to receive a few more physical cards.", "label": "getting_spare_card"}
+{"sentence": "Where do I find PIN for my card?", "label": "pin_blocked"}
+{"sentence": "The exchange rate given to me after a purchase, was incorrect", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "The ATM won't give me my card back.", "label": "card_swallowed"}
+{"sentence": "How long will it take the money to appear in my account?", "label": "transfer_timing"}
+{"sentence": "The atm won't give my card back!", "label": "card_swallowed"}
+{"sentence": "What time will a transfer from the US take?", "label": "transfer_timing"}
+{"sentence": "Can I get a few more physical cards?", "label": "getting_spare_card"}
+{"sentence": "If I don't live in the UK, can I still get a card?", "label": "country_support"}
+{"sentence": "What is the function of the identity check", "label": "why_verify_identity"}
+{"sentence": "Can I get an account for my daughter?", "label": "age_limit"}

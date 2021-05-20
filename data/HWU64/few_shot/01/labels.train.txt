@@ -1,0 +1,16 @@
+alarm/query
+alarm/remove
+alarm/set
+email/addcontact
+email/query
+email/querycontact
+email/sendemail
+music/likeness
+music/query
+music/settings
+news/query
+transport/query
+transport/taxi
+transport/ticket
+transport/traffic
+weather/query

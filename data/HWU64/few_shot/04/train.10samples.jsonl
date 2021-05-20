@@ -1,0 +1,200 @@
+{"sentence": "what lists do you have on you right now", "label": "lists/query"}
+{"sentence": "get apahelp@yahoo dot com in my contacts", "label": "email/addcontact"}
+{"sentence": "when is my order arriving", "label": "takeaway/query"}
+{"sentence": "can you call an uber for me", "label": "transport/taxi"}
+{"sentence": "email hwu@gmail dot com add to email contacts", "label": "email/addcontact"}
+{"sentence": "buy me a ticket to boston", "label": "transport/ticket"}
+{"sentence": "what is ten divided by five", "label": "qa/maths"}
+{"sentence": "have you responded my phone calls", "label": "email/querycontact"}
+{"sentence": "tweet to consumer service that they should strive to be more accommodating", "label": "social/post"}
+{"sentence": "social media", "label": "social/query"}
+{"sentence": "Put milk on my shopping list", "label": "lists/createoradd"}
+{"sentence": "can i see my lists for today", "label": "lists/query"}
+{"sentence": "what happened to the dow jones today", "label": "qa/stock"}
+{"sentence": "forward email", "label": "email/sendemail"}
+{"sentence": "remove my list of notes from last week", "label": "lists/remove"}
+{"sentence": "show exchange rate of u. s. d. and inr", "label": "qa/currency"}
+{"sentence": "what's up with my order", "label": "takeaway/query"}
+{"sentence": "how is the traffic today", "label": "transport/traffic"}
+{"sentence": "is starbucks stock up or down from last quarter", "label": "qa/stock"}
+{"sentence": "beep when i get an email from john", "label": "email/query"}
+{"sentence": "buy me today train ticket to city leeds", "label": "transport/ticket"}
+{"sentence": "please show me the exchange rate between the dollar and the yen", "label": "qa/currency"}
+{"sentence": "exchange rate for converting ten dollar to euro", "label": "qa/currency"}
+{"sentence": "remove grocery list please", "label": "lists/remove"}
+{"sentence": "what is the sensex and nifty points for today", "label": "qa/stock"}
+{"sentence": "book my first class ac train ticket from new york to san francisco", "label": "transport/ticket"}
+{"sentence": "show me my emails from the past hour", "label": "email/query"}
+{"sentence": "check currencies", "label": "qa/currency"}
+{"sentence": "order food from applebees", "label": "takeaway/order"}
+{"sentence": "any new interests from linda", "label": "social/query"}
+{"sentence": "add this email to my address book", "label": "email/addcontact"}
+{"sentence": "add rebecca green to my list of favorite contacts", "label": "email/querycontact"}
+{"sentence": "could you give me the exact rate for dow nifty futures", "label": "qa/stock"}
+{"sentence": "how many species of bees are there in the united states", "label": "qa/factoid"}
+{"sentence": "show me the answer for this problem two hundred and forty six plus six hundred and fifty four", "label": "qa/maths"}
+{"sentence": "how long i can go to dundee", "label": "transport/query"}
+{"sentence": "find me a description of morel mushrooms", "label": "qa/definition"}
+{"sentence": "object identifier", "label": "qa/definition"}
+{"sentence": "was there any articles on shark attacks on snapchat yesterday", "label": "social/query"}
+{"sentence": "what is the email i got from my girlfriend", "label": "email/query"}
+{"sentence": "can i order olive garden to go", "label": "takeaway/query"}
+{"sentence": "is the traffic smooth right now", "label": "transport/traffic"}
+{"sentence": "do i have any missed call from patrick", "label": "email/querycontact"}
+{"sentence": "what's the capital of tanzania", "label": "qa/factoid"}
+{"sentence": "what's john's home phone number", "label": "email/querycontact"}
+{"sentence": "send an email to mom subject weather body what is the weather like there this week", "label": "email/sendemail"}
+{"sentence": "what awards did erica grebe win last night", "label": "qa/factoid"}
+{"sentence": "call domino's pizza", "label": "takeaway/order"}
+{"sentence": "how much traffic is there right now in bowery street", "label": "transport/traffic"}
+{"sentence": "when can i pick up my order", "label": "takeaway/query"}
+{"sentence": "what is on this list", "label": "lists/query"}
+{"sentence": "can you book me a taxi", "label": "transport/taxi"}
+{"sentence": "how tall is frank goggins", "label": "qa/factoid"}
+{"sentence": "list to do", "label": "lists/query"}
+{"sentence": "what are the latest photos on my instagram account", "label": "social/query"}
+{"sentence": "please add an email for john doe to my contacts johndoe@yahoo dot com", "label": "email/addcontact"}
+{"sentence": "remove apples from my shopping list", "label": "lists/remove"}
+{"sentence": "is there any new vegan news on facebook", "label": "social/query"}
+{"sentence": "am i gonna hit traffic", "label": "transport/traffic"}
+{"sentence": "add this person's email", "label": "email/addcontact"}
+{"sentence": "read about mary s.", "label": "email/querycontact"}
+{"sentence": "please reserve the next taxi a nine am", "label": "transport/taxi"}
+{"sentence": "hey i want to send an email to my friend", "label": "email/sendemail"}
+{"sentence": "i need to know about the height of mount everest", "label": "qa/factoid"}
+{"sentence": "are there any emails i haven't read yet", "label": "email/query"}
+{"sentence": "i need to get to location call a cab", "label": "transport/taxi"}
+{"sentence": "what is the traffic now", "label": "transport/traffic"}
+{"sentence": "tweet to ikea costumer service the following i'm not happy with this new klm product", "label": "social/post"}
+{"sentence": "tell me the answer for two plus two", "label": "qa/maths"}
+{"sentence": "is anything trending on social media today", "label": "social/query"}
+{"sentence": "book an uber to the nearest mall in the next half hour", "label": "transport/taxi"}
+{"sentence": "post the following status to facebook", "label": "social/post"}
+{"sentence": "i need to book a train for tomorrow to go to new york", "label": "transport/ticket"}
+{"sentence": "are there any delays in traffic today", "label": "transport/traffic"}
+{"sentence": "remove milk from my grocery list", "label": "lists/remove"}
+{"sentence": "have a taxi pick me up", "label": "transport/taxi"}
+{"sentence": "what street do i take to get to downtown", "label": "transport/query"}
+{"sentence": "tweet @wendys that i don't like their product", "label": "social/post"}
+{"sentence": "were the stocks rising or declining", "label": "qa/stock"}
+{"sentence": "i need a ticket for a train ride to atlanta", "label": "transport/ticket"}
+{"sentence": "please describe an elephant to me", "label": "qa/definition"}
+{"sentence": "clear all from my iphone", "label": "lists/remove"}
+{"sentence": "add this email to a new contact", "label": "email/addcontact"}
+{"sentence": "please check the traffic to the home", "label": "transport/traffic"}
+{"sentence": "can i carry out with this restaurant", "label": "takeaway/query"}
+{"sentence": "do i have any new tweets", "label": "social/query"}
+{"sentence": "how long untill i get home", "label": "transport/traffic"}
+{"sentence": "could you order sushi for tonight dinner", "label": "takeaway/order"}
+{"sentence": "delete the dog list for me", "label": "lists/remove"}
+{"sentence": "is there a connecting train from london to paris and what time", "label": "transport/query"}
+{"sentence": "what mexican restaurants are there nearby for takeout", "label": "takeaway/order"}
+{"sentence": "find a pizza restaurant open until noon", "label": "takeaway/query"}
+{"sentence": "define god", "label": "qa/definition"}
+{"sentence": "please add this email to my contacts", "label": "email/addcontact"}
+{"sentence": "hey what's a book", "label": "qa/definition"}
+{"sentence": "what list did i make today", "label": "lists/query"}
+{"sentence": "order one burger", "label": "takeaway/order"}
+{"sentence": "what was the name of my last email", "label": "email/query"}
+{"sentence": "i don't want eggs", "label": "lists/remove"}
+{"sentence": "find twitter handle of tom cruise", "label": "qa/factoid"}
+{"sentence": "you need to find an alternate route to my destination", "label": "transport/query"}
+{"sentence": "define flabbergasted", "label": "qa/definition"}
+{"sentence": "write an email recipient ray", "label": "email/sendemail"}
+{"sentence": "tweet british airways that my last flight from chicago to london was delayed", "label": "social/post"}
+{"sentence": "generate fresh list", "label": "lists/createoradd"}
+{"sentence": "what is the total number of oceans in the world", "label": "qa/factoid"}
+{"sentence": "book an outstation cab for tomorrow", "label": "transport/taxi"}
+{"sentence": "we're out of paint so take bathroom painting off the list", "label": "lists/remove"}
+{"sentence": "if i have five dollars how many rupies is that", "label": "qa/currency"}
+{"sentence": "what is the last email i received", "label": "email/query"}
+{"sentence": "write this message to the coworker group", "label": "email/sendemail"}
+{"sentence": "i would like to order takeaway", "label": "takeaway/order"}
+{"sentence": "can you add up thirteen plus five plus nine for me", "label": "qa/maths"}
+{"sentence": "when is the next septa train to philadelphia", "label": "transport/query"}
+{"sentence": "arrange a taxi", "label": "transport/taxi"}
+{"sentence": "when was the last time that i spoke to john", "label": "email/querycontact"}
+{"sentence": "make a catalogue", "label": "lists/createoradd"}
+{"sentence": "what are my new contact emails", "label": "email/query"}
+{"sentence": "create a new shopping list", "label": "lists/createoradd"}
+{"sentence": "help me buy a train ticket to denver for next tuesday morning", "label": "transport/ticket"}
+{"sentence": "email chris add following content sorry I will be late today", "label": "email/sendemail"}
+{"sentence": "how to get somewhere", "label": "transport/query"}
+{"sentence": "what happened to my pizza order it has been an hour since i ordered", "label": "takeaway/query"}
+{"sentence": "what are the stock prices of target", "label": "qa/stock"}
+{"sentence": "is there a contact named allen in my list", "label": "email/querycontact"}
+{"sentence": "add apahelp@yahoo dot com in my contact list", "label": "email/addcontact"}
+{"sentence": "are you solve my math", "label": "qa/maths"}
+{"sentence": "what is five divided by one", "label": "qa/maths"}
+{"sentence": "please find all name start with alphabetic of g and create a list", "label": "lists/createoradd"}
+{"sentence": "find me the distance and direction by train to rccg in ikoyi lagos", "label": "transport/query"}
+{"sentence": "tvs stock price", "label": "qa/stock"}
+{"sentence": "is there any construction on route sixty six", "label": "transport/traffic"}
+{"sentence": "what does happy mean", "label": "qa/definition"}
+{"sentence": "can i get the food to go", "label": "takeaway/query"}
+{"sentence": "email my meeting details to my manager", "label": "email/sendemail"}
+{"sentence": "create vacation list", "label": "lists/createoradd"}
+{"sentence": "pleas reply to the mail of allen", "label": "email/sendemail"}
+{"sentence": "find me square root of forty nine", "label": "qa/maths"}
+{"sentence": "add this one also", "label": "lists/createoradd"}
+{"sentence": "email happy new year to john", "label": "email/sendemail"}
+{"sentence": "send a snotty tweet to bbc", "label": "social/post"}
+{"sentence": "list entry", "label": "lists/query"}
+{"sentence": "place a takeaway order for a cheeseburger and fries from burger king", "label": "takeaway/order"}
+{"sentence": "show me the stock price for google", "label": "qa/stock"}
+{"sentence": "bring me ticket of train to city leeds", "label": "transport/ticket"}
+{"sentence": "let me hear my list", "label": "lists/query"}
+{"sentence": "tell me if i should use the train or bus to get across town today", "label": "transport/query"}
+{"sentence": "how many times does fifty go into one million", "label": "qa/maths"}
+{"sentence": "does my co worker have a home phone number", "label": "email/querycontact"}
+{"sentence": "please check recent emails from new contact", "label": "email/query"}
+{"sentence": "order chinese for delivery", "label": "takeaway/order"}
+{"sentence": "how much is an euro worth", "label": "qa/currency"}
+{"sentence": "book me a train for the next available train", "label": "transport/ticket"}
+{"sentence": "search this object's definition", "label": "qa/definition"}
+{"sentence": "add dan@dancom to my contacts", "label": "email/addcontact"}
+{"sentence": "what are amd stock prices", "label": "qa/stock"}
+{"sentence": "tell them that their lines were too long", "label": "social/post"}
+{"sentence": "open takeout menus", "label": "takeaway/order"}
+{"sentence": "how much is two thousand five hundred philippine pesos in dollars", "label": "qa/currency"}
+{"sentence": "what is the exchange rate between us dollars and bitcoin", "label": "qa/currency"}
+{"sentence": "tell me about the stock for shell", "label": "qa/stock"}
+{"sentence": "my new health check up new list", "label": "lists/createoradd"}
+{"sentence": "add new item to list", "label": "lists/createoradd"}
+{"sentence": "how would you define a car", "label": "qa/definition"}
+{"sentence": "update my contacts with the new contact sam@gmail dot com", "label": "email/addcontact"}
+{"sentence": "book a train ticket with a berth seat to lucknow for next week", "label": "transport/ticket"}
+{"sentence": "book a train ticket for friday april fourteenth for boston", "label": "transport/ticket"}
+{"sentence": "what's thirteen plus fourteen", "label": "qa/maths"}
+{"sentence": "add a movie name to the wish list", "label": "lists/createoradd"}
+{"sentence": "post to twitter got a hectic day ahead", "label": "social/post"}
+{"sentence": "reply email", "label": "email/sendemail"}
+{"sentence": "send a tweet to amazon customer service that the package was delivered late", "label": "social/post"}
+{"sentence": "check facebook and twitter and tell me if anything interesting is happening", "label": "social/query"}
+{"sentence": "are there any updates on facebook", "label": "social/query"}
+{"sentence": "make sure bread is on my grocery list", "label": "lists/query"}
+{"sentence": "hey check emails", "label": "email/query"}
+{"sentence": "how many pages long is harry potter", "label": "qa/factoid"}
+{"sentence": "and the pound is doing how badly against the euro", "label": "qa/currency"}
+{"sentence": "find an uber that can get me to the airport now", "label": "transport/taxi"}
+{"sentence": "which continent has highest growth of cotton and what is average production", "label": "qa/factoid"}
+{"sentence": "please solve this math", "label": "qa/maths"}
+{"sentence": "book taxi for now", "label": "transport/taxi"}
+{"sentence": "who takes less of duration of time for delivery", "label": "takeaway/query"}
+{"sentence": "let me know about current traffic in carmen drive", "label": "transport/traffic"}
+{"sentence": "what is the fastest way to get to starbucks", "label": "transport/query"}
+{"sentence": "can you order me some pizza", "label": "takeaway/order"}
+{"sentence": "tweet at quote unquote", "label": "social/post"}
+{"sentence": "where does tar work currently", "label": "email/querycontact"}
+{"sentence": "display my list", "label": "lists/query"}
+{"sentence": "most rated delivery options for chinese food", "label": "takeaway/query"}
+{"sentence": "what does the list contain", "label": "lists/query"}
+{"sentence": "delete my list", "label": "lists/remove"}
+{"sentence": "how many dollars are there in a g. b. p.", "label": "qa/currency"}
+{"sentence": "can you see if there any trains going to", "label": "transport/query"}
+{"sentence": "hi there tell me latest updates of times of india page in facebook", "label": "social/query"}
+{"sentence": "check to see if my mom sent me any emails", "label": "email/query"}
+{"sentence": "how many tablespoons are there in a cup", "label": "qa/factoid"}
+{"sentence": "please remove sporty event from list", "label": "lists/remove"}
+{"sentence": "what does h2o stand for", "label": "qa/definition"}
+{"sentence": "what is frieda's home address", "label": "email/querycontact"}

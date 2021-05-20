@@ -1,0 +1,15 @@
+cooking/recipe
+datetime/convert
+datetime/query
+lists/createoradd
+lists/query
+lists/remove
+music/likeness
+music/query
+music/settings
+news/query
+play/audiobook
+play/game
+play/music
+play/podcasts
+play/radio

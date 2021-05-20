@@ -1,0 +1,11 @@
+audio/volume_down
+audio/volume_mute
+audio/volume_up
+calendar/query
+calendar/remove
+calendar/set
+cooking/recipe
+news/query
+takeaway/order
+takeaway/query
+weather/query

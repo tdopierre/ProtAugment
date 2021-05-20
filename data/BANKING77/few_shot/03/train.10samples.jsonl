@@ -1,0 +1,250 @@
+{"sentence": "I was charged extra. Was the exchange rate for my payment last Saturday wrong?", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "How can I top up with Apple Pay?", "label": "apple_pay_or_google_pay"}
+{"sentence": "Is there a way to track the delivery of my card?", "label": "card_arrival"}
+{"sentence": "Is there a charge for SEPA transfers?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "It says \"pending payment?\" Why is it saying this?", "label": "pending_card_payment"}
+{"sentence": "I don't know why my card payment did not work", "label": "declined_card_payment"}
+{"sentence": "Someone attacked me yesterday and took my things, so I am unable to use the app.  I am in need of some help.", "label": "lost_or_stolen_phone"}
+{"sentence": "Can my card be used everywhere?", "label": "card_acceptance"}
+{"sentence": "that fee should not be there, you charged my cash for an unnecessary thing.", "label": "cash_withdrawal_charge"}
+{"sentence": "Where can I receive my card?", "label": "order_physical_card"}
+{"sentence": "do i have to setup apple pay to use it", "label": "apple_pay_or_google_pay"}
+{"sentence": "I want to get my hands on one of those virtual cards!", "label": "getting_virtual_card"}
+{"sentence": "Can I set it up to add money every few days automatically while I am traveling?", "label": "automatic_top_up"}
+{"sentence": "Can I use an auto top-up option?", "label": "automatic_top_up"}
+{"sentence": "You can use it anywhere that accepts Mastercard.", "label": "card_acceptance"}
+{"sentence": "What stores will take my credit card as payment?", "label": "card_acceptance"}
+{"sentence": "Do you accept any card and currency?", "label": "supported_cards_and_currencies"}
+{"sentence": "is it just visa or can i also use mastercard?", "label": "visa_or_mastercard"}
+{"sentence": "Is my PIN sent separably?", "label": "get_physical_card"}
+{"sentence": "Top up my card please, which y'all support?", "label": "supported_cards_and_currencies"}
+{"sentence": "Why was the exchange rate so wrong when I bought something!", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "How can I change my PIN without going to the bank?", "label": "change_pin"}
+{"sentence": "Can I still access the app even though my phone was stolen?", "label": "lost_or_stolen_phone"}
+{"sentence": "where do I go to top up with cash?", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "What will I need to configure if my salary is in GBP?", "label": "receiving_money"}
+{"sentence": "I'd like more info on getting a virtual card.", "label": "getting_virtual_card"}
+{"sentence": "how do i get a pin for my card", "label": "get_physical_card"}
+{"sentence": "When adding money, what are the currencies you take?", "label": "supported_cards_and_currencies"}
+{"sentence": "Where can I locate my PIN at?", "label": "get_physical_card"}
+{"sentence": "What is the extra  €1 fee in my statement", "label": "extra_charge_on_statement"}
+{"sentence": "Can I use a cheque to top up my account", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "After I make a payment, how long will it be before it transitions from \"pending\" to complete?", "label": "pending_card_payment"}
+{"sentence": "What is the charge to make a transfer", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "Hi there! I need to cancel an order I recently made and start processing a refund. Can you please help me with this and set up the refund as soon as possible? It's very urgent.", "label": "request_refund"}
+{"sentence": "I lost my phone, what should I do?", "label": "lost_or_stolen_phone"}
+{"sentence": "Is my card denied anywhere?", "label": "card_acceptance"}
+{"sentence": "I still don't have my pin.", "label": "get_physical_card"}
+{"sentence": "I can't find the card PIN.", "label": "get_physical_card"}
+{"sentence": "Where are cards delivered to?", "label": "order_physical_card"}
+{"sentence": "my card was refused, why?", "label": "declined_card_payment"}
+{"sentence": "Please explain to me the process of getting a virtual card.", "label": "getting_virtual_card"}
+{"sentence": "What are the charges for topping up US card?", "label": "top_up_by_card_charge"}
+{"sentence": "What fees are there for adding money using an international card", "label": "top_up_by_card_charge"}
+{"sentence": "Not living in same place, need to change details", "label": "edit_personal_details"}
+{"sentence": "The exchange rate for my transaction last Saturday seems to have been wrong I got charged extra.  Please fix.", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "Why is the check I deposited this morning not showing up?", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "Why can't the person I sent the money transfer to see it?", "label": "transfer_not_received_by_recipient"}
+{"sentence": "I need to change my personal details in my account.", "label": "edit_personal_details"}
+{"sentence": "Should I expect to be charged for topping up by transfer?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "If I lost my phone, what steps do I need to take to stop someone from using my account?", "label": "lost_or_stolen_phone"}
+{"sentence": "Where do I go to change my PIN?", "label": "change_pin"}
+{"sentence": "What is the fee on my statement for?", "label": "extra_charge_on_statement"}
+{"sentence": "What is the maximum times I can auto top-up?", "label": "automatic_top_up"}
+{"sentence": "What's the web address to unblock my pin?", "label": "pin_blocked"}
+{"sentence": "Are refunds allowed for certain items.", "label": "request_refund"}
+{"sentence": "Where is my missing cheque I deposited?", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "Can you tell me if I can track the card you sent me?", "label": "card_arrival"}
+{"sentence": "I really want a physical card. How do I get one?", "label": "order_physical_card"}
+{"sentence": "What does it mean if my payment is pending?", "label": "pending_card_payment"}
+{"sentence": "I am waiting for a payment to go through.", "label": "pending_card_payment"}
+{"sentence": "Does this program take SWIFT transfers?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "I deposited a check, but haven't received the funds for it.", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "Can I top-up automatically?", "label": "automatic_top_up"}
+{"sentence": "Where can my card be delivered?", "label": "order_physical_card"}
+{"sentence": "What is the fee for topping up a US card?", "label": "top_up_by_card_charge"}
+{"sentence": "Hello I changed my mind and want a refund on one of things I bought recently. Can you please cancel the transaction and get me my money back. Please it's urgent.", "label": "request_refund"}
+{"sentence": "Can I top up using cash?", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "Why am I being charged to make cash withdrawals? I thought they were supposed to be free!", "label": "cash_withdrawal_charge"}
+{"sentence": "My card payment wasn't accepted.", "label": "declined_card_payment"}
+{"sentence": "I want to create a new pin.", "label": "change_pin"}
+{"sentence": "I've just been married and need to update my name", "label": "edit_personal_details"}
+{"sentence": "I have been charged way to much so something is apparently wrong with my exchange. I changed Russian Ruble into UK pounds.", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "What are the reasons why a card payment would be declined?", "label": "declined_card_payment"}
+{"sentence": "How can I unlock my pin from too many tries?", "label": "pin_blocked"}
+{"sentence": "Why have I been charged a fee for cash withdrawal?", "label": "cash_withdrawal_charge"}
+{"sentence": "My top-up for Google Pay isn't working", "label": "apple_pay_or_google_pay"}
+{"sentence": "I have paid by my card but payment is still its coming as pending. I think there is some issue please check and let me know when the status will complete.", "label": "pending_card_payment"}
+{"sentence": "Hello, I have a question concerning an unfamiliar fee that I notice on my account. I see that you guys charge for ATM withdrawal. Never notice this fee until now. Can you please explain?", "label": "cash_withdrawal_charge"}
+{"sentence": "Why hasn't my balance increased after depositing a check?", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "With what currencies can I add money?", "label": "supported_cards_and_currencies"}
+{"sentence": "I want to add funds to my account. What payment methods are accepted?", "label": "supported_cards_and_currencies"}
+{"sentence": "Can I add money to my card automatically during a trip?", "label": "automatic_top_up"}
+{"sentence": "I placed a cheque but the funds aren't there", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "I noticed an extra charge on the purchase that I made last Saturday on my account. Can you see if I received the correct exchange rate?", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "Can I get a new pin number at any ATM using my card?", "label": "change_pin"}
+{"sentence": "I am still awaiting the money I put into my account this morning.", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "I'd like like to know where I can order a virtual card?", "label": "getting_virtual_card"}
+{"sentence": "I would like to change my personal details.", "label": "edit_personal_details"}
+{"sentence": "Do I get to have one of those virtual cards I've heard about?", "label": "getting_virtual_card"}
+{"sentence": "My statement has a charge that shouldn't have been made.", "label": "request_refund"}
+{"sentence": "I need to update my personal details", "label": "edit_personal_details"}
+{"sentence": "I can see an extra 1£ charge on my app. Why did you charge me extra?", "label": "extra_charge_on_statement"}
+{"sentence": "Can I get my salary through this?", "label": "receiving_money"}
+{"sentence": "Is there a reason why my account isn't updating because I used a check to  balance my account?", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "Why has another fee been placed on my statement?", "label": "extra_charge_on_statement"}
+{"sentence": "Does it cost to top up my card?", "label": "top_up_by_card_charge"}
+{"sentence": "The exchange rate for my payment last Saturday must be wrong because I was charged extra.", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "I transferred some money but it hasn't arrived.", "label": "transfer_not_received_by_recipient"}
+{"sentence": "Why has my card been declined?  whats the deal?", "label": "declined_card_payment"}
+{"sentence": "I can't see my Google Pay top up. Is it not working correctly?", "label": "apple_pay_or_google_pay"}
+{"sentence": "Why hasn't the money transfer arrived yet?", "label": "transfer_not_received_by_recipient"}
+{"sentence": "What places accept my card?", "label": "card_acceptance"}
+{"sentence": "I am wanting to refill my card, is there a charge?", "label": "top_up_by_card_charge"}
+{"sentence": "Is there anywhere I can't use my card?", "label": "card_acceptance"}
+{"sentence": "My latest payment was declined, I was told everything was back to working order. What happened?", "label": "declined_card_payment"}
+{"sentence": "Can I receive my card anywhere?", "label": "order_physical_card"}
+{"sentence": "Please give me a Mastercard instead.", "label": "visa_or_mastercard"}
+{"sentence": "Can I receive my salary in a currency other than what it is deposited in?", "label": "receiving_money"}
+{"sentence": "What is the extra fee on my statement?", "label": "extra_charge_on_statement"}
+{"sentence": "is there a fee for swift transfer", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "Please let me know what currency I can use to top up my account?", "label": "supported_cards_and_currencies"}
+{"sentence": "I dont see my reciept", "label": "transfer_not_received_by_recipient"}
+{"sentence": "What is the €1 fee for?", "label": "extra_charge_on_statement"}
+{"sentence": "I would prefer a Mastercard.", "label": "visa_or_mastercard"}
+{"sentence": "How do I apply for a refund?", "label": "request_refund"}
+{"sentence": "I just got married and I need to change my name", "label": "edit_personal_details"}
+{"sentence": "Why didn;t my payment work", "label": "declined_card_payment"}
+{"sentence": "I transferred some money to my mom 2 days ago and she has not received it. I double checked the information and it looks right. Can you help me?", "label": "transfer_not_received_by_recipient"}
+{"sentence": "Are there any places that won't take my card?", "label": "card_acceptance"}
+{"sentence": "I requested a virtual card but it is not showing up. Why?", "label": "getting_virtual_card"}
+{"sentence": "Where can I find my PIN? I haven't gotten it yet.", "label": "get_physical_card"}
+{"sentence": "Do you take SWIFT transfers?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "Are there any restrictions on where I use this card?", "label": "card_acceptance"}
+{"sentence": "Hey, I ordered a thing but changed my mind and want a refund on it. Since I haven't received the thing, would you just go ahead and cancel the payment for me?", "label": "request_refund"}
+{"sentence": "I'v exhausted all the of times I can try my PIN", "label": "pin_blocked"}
+{"sentence": "What are the top-up fees?", "label": "top_up_by_card_charge"}
+{"sentence": "I was double charged, and the second charge is showing as \"pending\". How long will it be before I get my money back once the second charge has been refunded?", "label": "pending_card_payment"}
+{"sentence": "I would like a virtual card- where can I purchase one?", "label": "getting_virtual_card"}
+{"sentence": "Why am I being charged the wrong currency exchange when I purchased something abroad?", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "where in the app can i find out about my new pin", "label": "get_physical_card"}
+{"sentence": "top up google pay, is it possible?", "label": "apple_pay_or_google_pay"}
+{"sentence": "What are my payment options for topping off my account?", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "In regards to my card payment, the exchange rate is incorrect.", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "I bought this item and was charged the wrong amount can I get a refund?", "label": "request_refund"}
+{"sentence": "My card has not arrived yet, where is it?", "label": "card_arrival"}
+{"sentence": "When do i activate auto top-up?", "label": "automatic_top_up"}
+{"sentence": "Why am I being charged for ATM cash withdrawals? The only reason I use it is because it's been free! Now you expect me to pay for them, and how much is that going to cost me?", "label": "cash_withdrawal_charge"}
+{"sentence": "Are there charges for using a bank card to top up", "label": "top_up_by_card_charge"}
+{"sentence": "Help me unblock my account.  I entered the PIN wrong too many times.", "label": "pin_blocked"}
+{"sentence": "How come my card payment has been declined?", "label": "declined_card_payment"}
+{"sentence": "I did not get my card yet, is it lost?", "label": "card_arrival"}
+{"sentence": "Can I use a Visa or Mastercard?", "label": "visa_or_mastercard"}
+{"sentence": "Can I cash deposit to top up my account", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "In what places can I use my card?", "label": "card_acceptance"}
+{"sentence": "I bought an item and now I want a refund.", "label": "request_refund"}
+{"sentence": "My purchase from this morning still is pending.", "label": "pending_card_payment"}
+{"sentence": "What is the length of a transaction completion?", "label": "transfer_not_received_by_recipient"}
+{"sentence": "Can I top up my account with a check?", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "Would you give me a mastercard and visa?", "label": "visa_or_mastercard"}
+{"sentence": "Is there an auto top up option?", "label": "automatic_top_up"}
+{"sentence": "What should I do if my smart phone is lost or stolen?", "label": "lost_or_stolen_phone"}
+{"sentence": "Do you let me choose between Visa and Mastercard?", "label": "visa_or_mastercard"}
+{"sentence": "My PIN isn't working.", "label": "pin_blocked"}
+{"sentence": "My phone is lost I don't want someone to use my account, what can I do?", "label": "lost_or_stolen_phone"}
+{"sentence": "Can you tell me the cost of a transfer?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "Can I transfer my payroll to the bank?", "label": "receiving_money"}
+{"sentence": "I got mugged yesterday and they took everything. I can't use the app, so I need some help.", "label": "lost_or_stolen_phone"}
+{"sentence": "How much for an actual card?", "label": "order_physical_card"}
+{"sentence": "Why am I charged to get money from the ATM?", "label": "cash_withdrawal_charge"}
+{"sentence": "I can't use the app because I got mugged yesterday and they took everything. Please help.", "label": "lost_or_stolen_phone"}
+{"sentence": "I got this stupid fee after taking cash out, why?", "label": "cash_withdrawal_charge"}
+{"sentence": "Are there any hidden limit on the auto top-up?", "label": "automatic_top_up"}
+{"sentence": "Show me where I can see the PIN?", "label": "get_physical_card"}
+{"sentence": "I transferred money and it didn't get there.", "label": "transfer_not_received_by_recipient"}
+{"sentence": "Where can I modify my information?", "label": "edit_personal_details"}
+{"sentence": "I prefer mastercard.", "label": "visa_or_mastercard"}
+{"sentence": "Can third party fees affect a transfer?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "I want to do a cash deposit to top up. How do I do this?", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "My salary is deposited in GBP. Do I need to choose the currency?", "label": "receiving_money"}
+{"sentence": "Is there a fee to order a physical card?", "label": "order_physical_card"}
+{"sentence": "Why is my payment still pending?", "label": "pending_card_payment"}
+{"sentence": "How do I receive money from someone?", "label": "receiving_money"}
+{"sentence": "I tried to pay with my card and it didn't work", "label": "declined_card_payment"}
+{"sentence": "How to order a virtual card", "label": "getting_virtual_card"}
+{"sentence": "I would like to have a Mastercard.", "label": "visa_or_mastercard"}
+{"sentence": "Can I use your services without access to the app?", "label": "lost_or_stolen_phone"}
+{"sentence": "Can my PIN be changed in any cash machine?", "label": "change_pin"}
+{"sentence": "If I am not in the country and I need to change my PIN, how can this be done?", "label": "change_pin"}
+{"sentence": "How to edit personal details?", "label": "edit_personal_details"}
+{"sentence": "Why is it showing that my account has been charged a dollar that is showing as pending?", "label": "extra_charge_on_statement"}
+{"sentence": "Why have I been charged an extra £1?", "label": "extra_charge_on_statement"}
+{"sentence": "Where is the tracking number for the card you sent me?", "label": "card_arrival"}
+{"sentence": "How can I see the progress of delivery of the card that was sent?", "label": "card_arrival"}
+{"sentence": "I need help because I drunken blocked my card?", "label": "pin_blocked"}
+{"sentence": "I logged in wrong and am blocked, how do I log in?", "label": "pin_blocked"}
+{"sentence": "I deposited a check yesterday and Im not seeing it in my account. i need the money, is there something wrong with my account? check it out please", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "My phone has been stolen.  How can I make sure no one uses my account from it?", "label": "lost_or_stolen_phone"}
+{"sentence": "They declined my card payment.", "label": "declined_card_payment"}
+{"sentence": "Help me change my PIN.", "label": "change_pin"}
+{"sentence": "I just pulled money out of the ATM and was charged a fee, WHy?", "label": "cash_withdrawal_charge"}
+{"sentence": "What are the places that you deliver cards to?", "label": "order_physical_card"}
+{"sentence": "Do you ship cards to where I live?", "label": "order_physical_card"}
+{"sentence": "My PIN is not working and I need assistance.", "label": "pin_blocked"}
+{"sentence": "I anticipate getting a Visa card", "label": "visa_or_mastercard"}
+{"sentence": "When I put the wrong pin too much, I got blocked, so can you help me unblock my pin", "label": "pin_blocked"}
+{"sentence": "I made a money transaction but the recipient can't see it", "label": "transfer_not_received_by_recipient"}
+{"sentence": "Is there a tracking number for the card you sent me?", "label": "card_arrival"}
+{"sentence": "After making a payment with my card it doesn't seem to have worked. It's just showing to be pending. When will this actually be going through?", "label": "pending_card_payment"}
+{"sentence": "Why did they charge me an extra $1?", "label": "extra_charge_on_statement"}
+{"sentence": "I want to top up by cheque", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "What will happen if I want to add money using an international card? Will I run into any fees?", "label": "top_up_by_card_charge"}
+{"sentence": "Why can't I get my top up to work in Apple Pay?", "label": "apple_pay_or_google_pay"}
+{"sentence": "Why was my account charged for using an ATM?", "label": "cash_withdrawal_charge"}
+{"sentence": "How long does it take for me to get my pin", "label": "get_physical_card"}
+{"sentence": "What is going on with my cash deposit. I'm looking at my account balance and it is not there. It has been almost a week. Someone better get back to me asap.", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "the exchange rate on my payment was wrong", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "Do you have a list of businesses that accept this card?", "label": "card_acceptance"}
+{"sentence": "How can I top up with Google Pay?", "label": "apple_pay_or_google_pay"}
+{"sentence": "I see a $1 charge in a transaction.", "label": "extra_charge_on_statement"}
+{"sentence": "Are you Visa or Mastercard?", "label": "visa_or_mastercard"}
+{"sentence": "Can I use any currency to add money?", "label": "supported_cards_and_currencies"}
+{"sentence": "Is PIN delivered separately?", "label": "get_physical_card"}
+{"sentence": "I want a physical card", "label": "order_physical_card"}
+{"sentence": "I'm still waiting on my new card to be delivered!", "label": "card_arrival"}
+{"sentence": "I don't know how to top up my Google pay.", "label": "apple_pay_or_google_pay"}
+{"sentence": "When I was traveling abroad, the exchange rate was applied wrong.", "label": "card_payment_wrong_exchange_rate"}
+{"sentence": "I need to use a European card for a top up, what will the charge be?", "label": "top_up_by_card_charge"}
+{"sentence": "I bought some things this morning but the payment shows that it is pending", "label": "pending_card_payment"}
+{"sentence": "What cards and currencies do you support?", "label": "supported_cards_and_currencies"}
+{"sentence": "Why isn't my google top-up pay working?", "label": "apple_pay_or_google_pay"}
+{"sentence": "Help, I need to top up my account. Where do I send a check?", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "I need to cancel a payment. Something i purchased a while ago still has not arrived and i'm not going to pay them if they won't send me what I purchased.", "label": "request_refund"}
+{"sentence": "Am I able to track the card that was just sent to me?", "label": "card_arrival"}
+{"sentence": "What currencies or cards do you support for topping up?", "label": "supported_cards_and_currencies"}
+{"sentence": "Is it possible for a friend to personally send me a payment?", "label": "receiving_money"}
+{"sentence": "Can someone assist me with explaining how I can unblock my pin?", "label": "pin_blocked"}
+{"sentence": "What types of cards and money do you accept?", "label": "supported_cards_and_currencies"}
+{"sentence": "how do i set up my apple pay watch to connect to my account", "label": "apple_pay_or_google_pay"}
+{"sentence": "Why is my cash deposit not in my account?", "label": "balance_not_updated_after_cheque_or_cash_deposit"}
+{"sentence": "Two days ago I did a transfer to another account within the country.  It doesn't appear the transfer went through.  I have verified the account number several times.  Could you please check on this for me?", "label": "transfer_not_received_by_recipient"}
+{"sentence": "Can I track my card while it is in the process of delivery?", "label": "card_arrival"}
+{"sentence": "How do I set a new pin?", "label": "change_pin"}
+{"sentence": "Recipient has not received the money", "label": "transfer_not_received_by_recipient"}
+{"sentence": "Can I use a different currency with my salary?", "label": "receiving_money"}
+{"sentence": "Do I get charged if i am getting money?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "What's up with the fee for getting cash?", "label": "cash_withdrawal_charge"}
+{"sentence": "If I top-up by using a trasfer are there charges that applied?", "label": "top_up_by_bank_transfer_charge"}
+{"sentence": "How does one send me money?", "label": "receiving_money"}
+{"sentence": "Can this app take my salary?", "label": "receiving_money"}
+{"sentence": "Hello. How do i go about getting a refund of an item i bought ? I want to cancel the payment since i have not received the item yet.", "label": "request_refund"}
+{"sentence": "I would like to alter my personal details.", "label": "edit_personal_details"}
+{"sentence": "My address has changed.", "label": "edit_personal_details"}
+{"sentence": "I would like to order a virtual card, where can I get one?", "label": "getting_virtual_card"}
+{"sentence": "Where is the virtual card?", "label": "getting_virtual_card"}
+{"sentence": "Where can I update my pin number?", "label": "change_pin"}
+{"sentence": "Does it cost anything to top up?", "label": "top_up_by_card_charge"}
+{"sentence": "is there a way to do automatic top up", "label": "automatic_top_up"}
+{"sentence": "I will be traveling.  Can I add money automatically?", "label": "automatic_top_up"}
+{"sentence": "Where is the option to top up with a cheque?", "label": "top_up_by_cash_or_cheque"}
+{"sentence": "What do I need to do to change my PIN?", "label": "change_pin"}
