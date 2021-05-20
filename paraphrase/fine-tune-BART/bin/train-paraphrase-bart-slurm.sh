@@ -34,7 +34,7 @@ for dataset_name in balanced; do
             \
             --do_train \
             --data_dir ${dataset_path} \
-            --num_train_epochs 20 \
+            --num_train_epochs 2 \
             --warmup_steps 10000 \
             --logging_dir ${logging_dir} \
             --logging_steps 150 \

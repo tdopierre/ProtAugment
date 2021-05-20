@@ -17,10 +17,20 @@ To train the model, execute the following script
 chmod +x bin/train-paraphrase-bart.sh
 ./bin/train-paraphrase-bart.sh
 ```
-This script is made to be run on a cluster equipped with the [SLURM](https://slurm.schedmd.com/overview.html) software.
-To run the script directly, use
+
+The paraphrase model will be put in the `runs/paraphrase/balanced/` folder.
+
+If you have access to a machine capable of receiving [SLURM](https://slurm.schedmd.com/overview.html) commands, you can use the following script:
+
 ```bash
-bin/train.sh \
+chmod +x bin/train-paraphrase-bart-slurm.sh
+./bin/train-paraphrase-bart.sh
+```
+
+
+If you want to tweak the training parameters, you can directly used the `bin/train.sh` script, here is an example :arrow_heading_down:
+```bash
+./bin/train.sh \
     --model_name_or_path "facebook/bart-base" \
     --output_dir <output_dir> \
     --run_name <run_name> \
