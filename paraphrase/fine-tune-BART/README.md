@@ -24,7 +24,7 @@ If you have access to a machine capable of receiving [SLURM](https://slurm.sched
 
 ```bash
 chmod +x bin/train-paraphrase-bart-slurm.sh
-./bin/train-paraphrase-bart.sh
+./bin/train-paraphrase-bart-slurm.sh
 ```
 
 
