@@ -167,7 +167,9 @@ for cv in 01 02 03 04 05; do
                                 $(echo ${few_shot_params}) \
                                 $(echo ${training_params}) \
                                 $(echo ${paraphrase_params}) \
-                                $(echo ${model_params}) \
+                                --metric euclidean \
+                                --supervised-loss-share-power ${supervised_loss_share_power} \
+                                --model-name-or-path transformer_models/${dataset}/fine-tuned \
                                 --paraphrase-drop-strategy unigram \
                                 --paraphrase-drop-chance-speed slow \
                                 --paraphrase-drop-chance-auc 0.5 \

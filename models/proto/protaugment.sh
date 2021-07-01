@@ -1,11 +1,15 @@
 #!/usr/bin/env bash
-#SBATCH --mail-user=thomas.dopierre@hotmail.fr
-#SBATCH --mail-type=FAIL
-#SBATCH -t 7-00:00:00
-#SBATCH --mem=20G
-cd $HOME/Projects/FewShotText
+
+
+# Activate environment
 source .venv/bin/activate
-source .envrc
+
+# Source the .envrc file, if it exists
+if [[ -f ".envrc" ]]; then
+    source .envrc
+fi
+
+# Simple check on the gpu we will be using
 echo "CUDA_VISIBLE_DEVICES=${CUDA_VISIBLE_DEVICES}"
 echo "hostname: $(hostname)"
 command -v nvidia-smi >/dev/null && {
@@ -15,4 +19,5 @@ command -v nvidia-smi >/dev/null && {
     :
 }
 
+# Run the script
 PYTHONPATH=. python models/proto/protaugment.py $@

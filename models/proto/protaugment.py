@@ -415,23 +415,20 @@ def run_proto(
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data-path", type=str, required=True, help="Path to data")
-    parser.add_argument("--train-labels-path", type=str, required=True, help="Path to train labels")
+    parser.add_argument("--data-path", type=str, required=True, help="Path to the full data")
+    parser.add_argument("--train-labels-path", type=str, required=True, help="Path to train labels. This file contains unique names of labels (i.e. one row per label)")
     parser.add_argument("--train-path", type=str, help="Path to training data (if provided, picks training data from this path instead of --data-path")
-    parser.add_argument("--model-name-or-path", type=str, required=True, help="Transformer model to use")
+    parser.add_argument("--model-name-or-path", type=str, required=True, help="Language Model PROTAUGMENT initializes from")
 
     # Few-Shot related stuff
     parser.add_argument("--n-support", type=int, default=5, help="Number of support points for each class")
     parser.add_argument("--n-query", type=int, default=5, help="Number of query points for each class")
     parser.add_argument("--n-classes", type=int, default=5, help="Number of classes per episode")
-    parser.add_argument("--metric", type=str, default="euclidean", help="Metric to use", choices=("euclidean", "cosine"))
-
-    # Path to augmented data
-    parser.add_argument("--unlabeled-path", type=str, help="Path to data containing augmentations used for consistency")
+    parser.add_argument("--metric", type=str, default="euclidean", help="Distance function to use", choices=("euclidean", "cosine"))
 
     # Validation & test
-    parser.add_argument("--valid-labels-path", type=str, required=True, help="Path to valid labels")
-    parser.add_argument("--test-labels-path", type=str, required=True, help="Path to test labels")
+    parser.add_argument("--valid-labels-path", type=str, required=True, help="Path to valid labels. This file contains unique names of labels (i.e. one row per label)")
+    parser.add_argument("--test-labels-path", type=str, required=True, help="Path to test labels. This file contains unique names of labels (i.e. one row per label)")
     parser.add_argument("--evaluate-every", type=int, default=100, help="Number of training episodes between each evaluation (on both valid, test)")
     parser.add_argument("--n-test-episodes", type=int, default=1000, help="Number of episodes during evaluation (valid, test)")
 
@@ -444,16 +441,17 @@ def main():
     parser.add_argument("--early-stop", type=int, default=0, help="Number of worse evaluation steps before stopping. 0=disabled")
 
     # Augmentation & Paraphrase
-    parser.add_argument("--n-augmentation", type=int, help="Number of unlabeled data points per class (proto++)", default=0)
+    parser.add_argument("--unlabeled-path", type=str, help="Path to raw data (one sentence per line), to generate paraphrases from.")
+    parser.add_argument("--n-augmentation", type=int, help="Number of rows to draw from `--unlabeled-path` at each episode", default=5)
     parser.add_argument("--paraphrase-model-name-or-path", type=str, help="Name or path to the paraphrase model")
     parser.add_argument("--paraphrase-tokenizer-name-or-path", type=str, help="Name or path to the paraphrase model's tokenizer")
-    parser.add_argument("--paraphrase-num-beams", type=int, help="Total number of beam in the Beam Search algorithm")
+    parser.add_argument("--paraphrase-num-beams", type=int, help="Total number of beams in the Beam Search algorithm")
     parser.add_argument("--paraphrase-beam-group-size", type=int, help="Size of each group of beams")
     parser.add_argument("--paraphrase-diversity-penalty", type=float, help="Diversity penalty (float) to use in Diverse Beam Search")
-    parser.add_argument("--paraphrase-filtering-strategy", type=str, choices=["bleu","clustering"], help="Filtering strategy to apply to a group of generated paraphrases to choose the one to pick. `bleu` takes the sentence which has the highest bleu_score w/r to the original sentence.")
-    parser.add_argument("--paraphrase-drop-strategy", type=str, choices=["bigram","unigram"], help="Drop strategy to use to contraint the paraphrase generation. If not set, no words are forbidden.")
+    parser.add_argument("--paraphrase-filtering-strategy", type=str, choices=["bleu", "clustering"], help="Filtering strategy to apply to a group of generated paraphrases to choose the one to pick. `bleu` takes the sentence which has the highest bleu_score w/r to the original sentence.")
+    parser.add_argument("--paraphrase-drop-strategy", type=str, choices=["bigram", "unigram"], help="Drop strategy to use to contraint the paraphrase generation. If not set, no words are forbidden.")
     parser.add_argument("--paraphrase-drop-chance-speed", type=str, choices=["flat", "down", "up"], help="Curve of drop probability depending on token position in the sentence")
-    parser.add_argument("--paraphrase-drop-chance-auc", type=float, help="Area of the drop chance probability w/r to the position in the sentence.")
+    parser.add_argument("--paraphrase-drop-chance-auc", type=float, help="Area of the drop chance probability w/r to the position in the sentence. When --paraphrase-drop-chance-speed=flat (same chance for all tokens to be forbidden no matter the position in the sentence), this parameter equals to p_{mask}")
 
     # Augmentation file path (optional, but if provided it will be used)
     parser.add_argument("--augmentation-data-path", type=str, help="Path to a .jsonl file containing augmentations. Refer to `back-translation.jsonl` for an example")
@@ -466,6 +464,7 @@ def main():
 
     args = parser.parse_args()
     logger.debug(f"Received args: {json.dumps(args.__dict__, sort_keys=True, ensure_ascii=False, indent=1)}")
+
     # Set random seed
     set_seeds(args.seed)
 
