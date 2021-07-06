@@ -66,10 +66,10 @@ for cv in 01 02 03 04 05; do
                             --paraphrase-beam-group-size 3
                             --paraphrase-diversity-penalty 0.5
                             --paraphrase-filtering-strategy bleu
-                            --n-augmentation 5"
+                            --n-unlabeled 5"
 
                         backtranslation_params="
-                            --n-augmentation 5
+                            --n-unlabeled 5
                             --augmentation-data-path data/${dataset}/back-translations.jsonl"
 
                         model_params="

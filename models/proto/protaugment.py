@@ -8,7 +8,13 @@ import argparse
 from transformers import AutoTokenizer
 
 from models.encoders.bert_encoder import BERTEncoder
-from paraphrase.modeling import UnigramRandomDropParaphraseBatchPreparer, DBSParaphraseModel, BigramDropParaphraseBatchPreparer, BaseParaphraseBatchPreparer
+from paraphrase.modeling import (
+    UnigramRandomDropParaphraseBatchPreparer,
+    DBSParaphraseModel,
+    BigramDropParaphraseBatchPreparer,
+    BaseParaphraseBatchPreparer,
+    EDAParaphraseModel
+)
 from paraphrase.utils.data import FewShotDataset, FewShotSSLParaphraseDataset, FewShotSSLFileDataset
 from utils.data import get_jsonl_data, FewShotDataLoader
 from utils.python import now, set_seeds
@@ -58,6 +64,12 @@ class ProtAugmentNet(nn.Module):
                 [query_B_1, query_B_2, ...],
                 [query_C_1, query_C_2, ...],
                 ...
+            ],
+            "x_augment":[
+                {
+                    "src_text": str,
+                    "tgt_texts: List[str]
+                }, .
             ]
         }
         :return:
@@ -73,7 +85,10 @@ class ProtAugmentNet(nn.Module):
         target_inds = torch.arange(0, n_class).view(n_class, 1, 1).expand(n_class, n_query, 1).long()
         target_inds = Variable(target_inds, requires_grad=False).to(device)
 
+        # x_augment is not always present in `sample`
+        # Indeed, at evaluation / test time, the network is judged on a regular meta-learning episode (i.e. only samples and query points)
         has_augment = "x_augment" in sample
+
         if has_augment:
             augmentations = sample["x_augment"]
 
@@ -190,7 +205,7 @@ class ProtAugmentNet(nn.Module):
         }
 
 
-def run_proto(
+def run_protaugment(
         # Compulsory!
         data_path: str,
         train_labels_path: str,
@@ -223,7 +238,7 @@ def run_proto(
         early_stop: int = None,
 
         # Augmentation & paraphrase
-        n_augmentation: int = 5,
+        n_unlabeled: int = 5,
         paraphrase_model_name_or_path: str = None,
         paraphrase_tokenizer_name_or_path: str = None,
         paraphrase_num_beams: int = None,
@@ -234,6 +249,8 @@ def run_proto(
         paraphrase_drop_chance_speed: str = None,
         paraphrase_drop_chance_auc: float = None,
         supervised_loss_share_fn: Callable[[int, int], float] = lambda x, y: 1 - (x / y),
+
+        paraphrase_generation_method: str = None,
 
         augmentation_data_path: str = None
 ):
@@ -269,38 +286,46 @@ def run_proto(
             n_classes=n_classes,
             n_support=n_support,
             n_query=n_query,
-            n_unlabeled=n_augmentation,
+            n_unlabeled=n_unlabeled,
             unlabeled_file_path=augmentation_data_path,
         )
+
     else:
-        # ---------------------
-        # Load paraphrase model
-        # ---------------------
-        paraphrase_model_device = torch.device("cpu") if "20newsgroup" in data_path else torch.device("cuda")
-        logger.info(f"Paraphrase model device: {paraphrase_model_device}")
-        paraphrase_tokenizer = AutoTokenizer.from_pretrained(paraphrase_tokenizer_name_or_path)
-        if paraphrase_drop_strategy == "unigram":
-            paraphrase_batch_preparer = UnigramRandomDropParaphraseBatchPreparer(
-                tokenizer=paraphrase_tokenizer,
-                auc=paraphrase_drop_chance_auc,
-                drop_chance_speed=paraphrase_drop_chance_speed,
+        if paraphrase_generation_method:
+            if paraphrase_generation_method == "eda":
+                paraphrase_model = EDAParaphraseModel(num_paraphrases=5)
+            else:
+                raise NotImplementedError(f"--paraphrase-generation-method `{paraphrase_generation_method}` not recognised.")
+
+        else:
+            # ---------------------
+            # Load paraphrase model
+            # ---------------------
+            paraphrase_model_device = torch.device("cpu") if "20newsgroup" in data_path else torch.device("cuda")
+            logger.info(f"Paraphrase model device: {paraphrase_model_device}")
+            paraphrase_tokenizer = AutoTokenizer.from_pretrained(paraphrase_tokenizer_name_or_path)
+            if paraphrase_drop_strategy == "unigram":
+                paraphrase_batch_preparer = UnigramRandomDropParaphraseBatchPreparer(
+                    tokenizer=paraphrase_tokenizer,
+                    auc=paraphrase_drop_chance_auc,
+                    drop_chance_speed=paraphrase_drop_chance_speed,
+                    device=paraphrase_model_device
+                )
+            elif paraphrase_drop_strategy == "bigram":
+                paraphrase_batch_preparer = BigramDropParaphraseBatchPreparer(tokenizer=paraphrase_tokenizer, device=paraphrase_model_device)
+            else:
+                paraphrase_batch_preparer = BaseParaphraseBatchPreparer(tokenizer=paraphrase_tokenizer, device=paraphrase_model_device)
+
+            paraphrase_model = DBSParaphraseModel(
+                model_name_or_path=paraphrase_model_name_or_path,
+                tok_name_or_path=paraphrase_tokenizer_name_or_path,
+                num_beams=paraphrase_num_beams,
+                beam_group_size=paraphrase_beam_group_size,
+                diversity_penalty=paraphrase_diversity_penalty,
+                filtering_strategy=paraphrase_filtering_strategy,
+                paraphrase_batch_preparer=paraphrase_batch_preparer,
                 device=paraphrase_model_device
             )
-        elif paraphrase_drop_strategy == "bigram":
-            paraphrase_batch_preparer = BigramDropParaphraseBatchPreparer(tokenizer=paraphrase_tokenizer, device=paraphrase_model_device)
-        else:
-            paraphrase_batch_preparer = BaseParaphraseBatchPreparer(tokenizer=paraphrase_tokenizer, device=paraphrase_model_device)
-
-        paraphrase_model = DBSParaphraseModel(
-            model_name_or_path=paraphrase_model_name_or_path,
-            tok_name_or_path=paraphrase_tokenizer_name_or_path,
-            num_beams=paraphrase_num_beams,
-            beam_group_size=paraphrase_beam_group_size,
-            diversity_penalty=paraphrase_diversity_penalty,
-            filtering_strategy=paraphrase_filtering_strategy,
-            paraphrase_batch_preparer=paraphrase_batch_preparer,
-            device=paraphrase_model_device
-        )
 
         train_dataset = FewShotSSLParaphraseDataset(
             data_path=train_path if train_path else data_path,
@@ -308,7 +333,7 @@ def run_proto(
             n_classes=n_classes,
             n_support=n_support,
             n_query=n_query,
-            n_unlabeled=n_augmentation,
+            n_unlabeled=n_unlabeled,
             unlabeled_file_path=unlabeled_path,
             paraphrase_model=paraphrase_model
         )
@@ -442,7 +467,9 @@ def main():
 
     # Augmentation & Paraphrase
     parser.add_argument("--unlabeled-path", type=str, help="Path to raw data (one sentence per line), to generate paraphrases from.")
-    parser.add_argument("--n-augmentation", type=int, help="Number of rows to draw from `--unlabeled-path` at each episode", default=5)
+    parser.add_argument("--n-unlabeled", type=int, help="Number of rows to draw from `--unlabeled-path` at each episode", default=5)
+
+    # If you are using a paraphrase generation model
     parser.add_argument("--paraphrase-model-name-or-path", type=str, help="Name or path to the paraphrase model")
     parser.add_argument("--paraphrase-tokenizer-name-or-path", type=str, help="Name or path to the paraphrase model's tokenizer")
     parser.add_argument("--paraphrase-num-beams", type=int, help="Total number of beams in the Beam Search algorithm")
@@ -452,6 +479,9 @@ def main():
     parser.add_argument("--paraphrase-drop-strategy", type=str, choices=["bigram", "unigram"], help="Drop strategy to use to contraint the paraphrase generation. If not set, no words are forbidden.")
     parser.add_argument("--paraphrase-drop-chance-speed", type=str, choices=["flat", "down", "up"], help="Curve of drop probability depending on token position in the sentence")
     parser.add_argument("--paraphrase-drop-chance-auc", type=float, help="Area of the drop chance probability w/r to the position in the sentence. When --paraphrase-drop-chance-speed=flat (same chance for all tokens to be forbidden no matter the position in the sentence), this parameter equals to p_{mask}")
+
+    # If you want to use another augmentation technique, e.g. EDA (https://github.com/jasonwei20/eda_nlp/)
+    parser.add_argument("--paraphrase-generation-method", type=str, choices=["eda"])
 
     # Augmentation file path (optional, but if provided it will be used)
     parser.add_argument("--augmentation-data-path", type=str, help="Path to a .jsonl file containing augmentations. Refer to `back-translation.jsonl` for an example")
@@ -484,7 +514,7 @@ def main():
     supervised_loss_share_fn = get_supervised_loss_share_fn(args.supervised_loss_share_power)
 
     # Run
-    run_proto(
+    run_protaugment(
         data_path=args.data_path,
         train_labels_path=args.train_labels_path,
         train_path=args.train_path,
@@ -493,7 +523,6 @@ def main():
         n_query=args.n_query,
         n_classes=args.n_classes,
         metric=args.metric,
-        unlabeled_path=args.unlabeled_path,
 
         valid_labels_path=args.valid_labels_path,
         test_labels_path=args.test_labels_path,
@@ -505,7 +534,10 @@ def main():
         max_iter=args.max_iter,
         early_stop=args.early_stop,
 
-        n_augmentation=args.n_augmentation,
+        unlabeled_path=args.unlabeled_path,
+        n_unlabeled=args.n_unlabeled,
+
+        # Paraphrase generation model
         paraphrase_model_name_or_path=args.paraphrase_model_name_or_path,
         paraphrase_tokenizer_name_or_path=args.paraphrase_tokenizer_name_or_path,
         paraphrase_num_beams=args.paraphrase_num_beams,
@@ -516,6 +548,10 @@ def main():
         paraphrase_drop_chance_auc=args.paraphrase_drop_chance_auc,
         supervised_loss_share_fn=supervised_loss_share_fn,
 
+        # Other paraphrase generation method
+        paraphrase_generation_method=args.paraphrase_generation_method,
+
+        # Or just path to augmented data
         augmentation_data_path=args.augmentation_data_path
     )
 

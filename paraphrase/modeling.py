@@ -1,17 +1,10 @@
 import numpy as np
-import collections
-from typing import List, Dict, Callable, Union
-
 import random
-from torch.utils.data import Dataset
-from transformers.models.auto.tokenization_auto import BartTokenizerFast
-
-from utils.data import get_jsonl_data, get_txt_data
 import torch
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import logging
-import time
-from models.use import USEEmbedder
+from typing import List, Dict, Callable, Union
+from transformers.models.auto.tokenization_auto import BartTokenizerFast
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
 default_device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
@@ -24,7 +17,7 @@ class ParaphraseModel:
     def __init__(self, device=None):
         self.device = device if device else default_device
 
-    def paraphrase(self, **kwargs):
+    def paraphrase(self, src_texts: List[str], **kwargs):
         raise NotImplementedError
 
 
@@ -45,7 +38,7 @@ class BaseParaphraseModel(ParaphraseModel):
         self.num_beams = num_beams if num_beams else self.num_return_sequences
         assert self.num_beams >= self.num_return_sequences
 
-    def paraphrase(self, src_texts):
+    def paraphrase(self, src_texts: List[str], **kwargs):
         batch = self.tok.prepare_seq2seq_batch(
             src_texts=src_texts,
             max_length=128,
@@ -249,7 +242,7 @@ class DBSParaphraseModel(ParaphraseModel):
             paraphrase_batch_preparer = BaseParaphraseBatchPreparer(tokenizer=self.tokenizer)
         self.paraphrase_batch_preparer = paraphrase_batch_preparer
 
-    def paraphrase(self, src_texts):
+    def paraphrase(self, src_texts: List[str], **kwargs):
         batch = self.paraphrase_batch_preparer.prepare_batch(src_texts=src_texts)
         max_length = batch["input_ids"].shape[1]
         with torch.no_grad():
@@ -282,4 +275,23 @@ class DBSParaphraseModel(ParaphraseModel):
                 raise ValueError
             output.append(filtered)
 
+        return output
+
+
+class EDAParaphraseModel(ParaphraseModel):
+    def __init__(
+            self,
+            num_paraphrases: int = 5
+    ):
+        logger.info(f"Instancing EDAParaphraseModel(num_paraphrases={num_paraphrases}) to generate paraphrases")
+        self.num_paraphrases = num_paraphrases
+        super().__init__(device=None)
+
+    def paraphrase(self, src_texts: List[str], **kwargs):
+        from .eda import eda
+
+        output = list()
+        for text in src_texts:
+            paraphrases = eda(text, num_aug=self.num_paraphrases)
+            output.append(paraphrases)
         return output
