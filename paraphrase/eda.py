@@ -1,5 +1,5 @@
 # Easy data augmentation techniques for text classification
-# Jason Wei and Kai Zou
+# Credit to Jason Wei and Kai Zou for this script (found at https://github.com/jasonwei20/eda_nlp/)
 
 import random
 from random import shuffle
