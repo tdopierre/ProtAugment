@@ -1,6 +1,6 @@
-# PROTAUGMENT
+# `PROTAUGMENT`
 
-This repository contains the official code for the paper **PROTAUGMENT: Unsupervised diverse short-texts paraphrasing for intent detection meta-learning**. 
+This repository contains the official code for the paper **PROTAUGMENT: Unsupervised diverse short-texts paraphrasing for intent detection meta-learning**. In this paper, we aim at training a few-shot text classification model. To improve the robustness of our model, we introduced unlabeled data and paraphrases. 
 
 # Setup 
 
@@ -41,11 +41,11 @@ If you want to train your own paraphrase generation model, follow the instructio
 For each dataset, we first fine-tune a language model on the dataset, on the masked language modeling task. Such models are available on the 🤗 HuggingFace hub:
 
 | Dataset   | Model Identifier                   | URL |
-| :-------- | :--------------------------------: | ----------: |
-| BANKING77 | tdopierre/ProtAugment-LM-BANKING77 | [link](https://huggingface.co/tdopierre/ProtAugment-LM-BANKING77) |
-| HWU64     | tdopierre/ProtAugment-LM-HWU64     | [link](https://huggingface.co/tdopierre/ProtAugment-LM-HWU64) |
-| Clinic150 | tdopierre/ProtAugment-LM-Clinic150 | [link](https://huggingface.co/tdopierre/ProtAugment-LM-Clinic150) |
-| Liu       | tdopierre/ProtAugment-LM-Liu       | [link](https://huggingface.co/tdopierre/ProtAugment-LM-Liu)
+| :-------- | :-------------------------------- | :---------- |
+| BANKING77 | `tdopierre/ProtAugment-LM-BANKING77` | [link](https://huggingface.co/tdopierre/ProtAugment-LM-BANKING77) |
+| HWU64     | `tdopierre/ProtAugment-LM-HWU64`     | [link](https://huggingface.co/tdopierre/ProtAugment-LM-HWU64) |
+| Clinic150 | `tdopierre/ProtAugment-LM-Clinic150` | [link](https://huggingface.co/tdopierre/ProtAugment-LM-Clinic150) |
+| Liu       | `tdopierre/ProtAugment-LM-Liu`       | [link](https://huggingface.co/tdopierre/ProtAugment-LM-Liu)
 
 If you want to fine-tune your own language model, use the scripts available in the `language_modeling` directory. 
 
