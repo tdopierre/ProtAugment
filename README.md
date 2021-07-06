@@ -1,6 +1,8 @@
 # `PROTAUGMENT`
 
-This repository contains the official code for the paper **PROTAUGMENT: Unsupervised diverse short-texts paraphrasing for intent detection meta-learning**. In this paper, we aim at training a few-shot text classification model. To improve the robustness of our model, we introduced unlabeled data and paraphrases. 
+[![acl](http://img.shields.io/badge/ACL-2021-f31f32)](https://arxiv.org/abs/2105.12995)
+
+This repository contains the official code for the paper **PROTAUGMENT: Unsupervised diverse short-texts paraphrasing for intent detection meta-learning**. In this paper, we aim at training a few-shot text classification model. To improve the robustness of our model, we introduced unlabeled data and paraphrases. The paper can be found [here](https://arxiv.org/abs/2105.12995). 
 
 # Setup 
 
