@@ -3,8 +3,7 @@ now=$(date "+%Y-%m-%dT%H-%M-%S")
 
 max_time="7-00:00:00"
 
-#for cv in 01 02 03 04 05; do
-for cv in 01; do
+for cv in 01 02 03 04 05; do
     for seed in 42; do
         for C in 5; do
             for K in 1 5; do

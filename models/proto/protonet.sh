@@ -1,8 +1,15 @@
 #!/usr/bin/env bash
-cd $HOME/Projects/FewShotText
+# Activate environment
 source .venv/bin/activate
-source .envrc
+
+# Source the .envrc file, if it exists
+if [[ -f ".envrc" ]]; then
+    source .envrc
+fi
+
+# Simple check on the gpu we will be using
 echo "CUDA_VISIBLE_DEVICES=${CUDA_VISIBLE_DEVICES}"
+echo "hostname: $(hostname)"
 command -v nvidia-smi >/dev/null && {
     echo "GPU Devices:"
     nvidia-smi
