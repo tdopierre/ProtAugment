@@ -67,17 +67,23 @@ class DropChances:
         return (self.auc / .5) * (.25 + .5 * (current_value / max_value))
 
     def get_drop_fn(self, drop_fn_string: str) -> Callable:
-        assert drop_fn_string in ("flat", "slow", "fast", "up")
+        assert drop_fn_string in ("flat", "slow", "fast", "up", "down")
+        if drop_fn_string in ("slow",):
+            logger.warning(f"drop_chance_speed `{drop_fn_string}` will be deprecated. Valid values are:\n"
+                           f"    `flat` : same drop chance for every token in the sentence;\n"
+                           f"    `down` : more weight on the first tokens (linear decrease);\n"
+                           f"    `up`   : more weight on the last tokens (linear increase);\n"
+                           f"    `fast` : linear decrease, higher slope")
         if drop_fn_string == "flat":
             return self.flat_drop_chance
-        elif drop_fn_string == "slow":
+        elif drop_fn_string in ("slow", "down"):
             return self.down_decrease_drop_chance
         elif drop_fn_string == "fast":
             return self.fast_decrease_drop_chance
         elif drop_fn_string == "up":
             return self.up_drop_chance
         else:
-            raise ValueError
+            raise NotImplementedError
 
 
 class ForbidStrategies:
@@ -131,7 +137,7 @@ class UnigramRandomDropParaphraseBatchPreparer(BaseParaphraseBatchPreparer):
         self.auc = auc
         assert 0 <= self.auc <= 1
         self.drop_chance_speed = drop_chance_speed
-        assert self.drop_chance_speed in ("flat", "down", "up")
+        assert self.drop_chance_speed in ("flat", "slow", "fast", "up", "down")
 
     def pimp_batch(self, batch: Dict[str, torch.Tensor], **kwargs):
         bad_words_ids = ForbidStrategies(
