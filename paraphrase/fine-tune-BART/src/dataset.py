@@ -103,7 +103,7 @@ class UnigramRandomDropParaphraseBatchPreparer(BaseParaphraseBatchPreparer):
         self.auc = auc
         assert 0 <= self.auc <= 1
         self.drop_chance_speed = drop_chance_speed
-        assert self.drop_chance_speed in ("flat", "slow", "fast", "up")
+        assert self.drop_chance_speed in ("flat", "slow", "fast", "up", "down")
 
     def pimp_batch(self, batch: Dict[str, torch.Tensor], **kwargs):
         bad_words_ids = ForbidStrategies(
