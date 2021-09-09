@@ -13,3 +13,4 @@ utils/scripts/protaugment/run_protaugment-Lara.sh
 transformer_models
 paraphrase/fine-tune-BART/runs/
 paraphrase/fine-tune-BART/all_results.json
+results.ods
