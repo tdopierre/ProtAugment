@@ -2,7 +2,9 @@
 tests
 /models/proto/protaugment-slurm.sh
 runs_consistency
-runs
+.venv
+runs/
+tmp/
 
 # Company stuff
 data/Lara-EN
