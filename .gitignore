@@ -5,6 +5,7 @@ runs_consistency
 .venv
 runs/
 tmp/
+**/__pycache__
 
 # Company stuff
 data/Lara-EN
