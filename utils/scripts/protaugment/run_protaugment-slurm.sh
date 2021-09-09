@@ -21,7 +21,7 @@ for cv in 01 02 03 04 05; do
                         fi
 
                         # OUTPUT
-                        OUTPUT_ROOT="runs_consistency/DBS-10samp/${dataset}/${cv}/${C}C_${K}K/seed${seed}/paraphrase-checkpoint${checkpoint_id}"
+                        OUTPUT_ROOT="runs/10samp/${dataset}/${cv}/${C}C_${K}K/seed${seed}/paraphrase-checkpoint${checkpoint_id}"
 
                         # --------------------
                         #   Set SLURM params
@@ -242,7 +242,7 @@ for cv in 01 02 03 04 05; do
                     # .--------------------------------.
                     # | ProtAugment + Back-Translation |
                     # '--------------------------------'
-                    OUT_PATH="runs_consistency/DBS-10samp/${dataset}/${cv}/${C}C_${K}K/seed${seed}/back-translation"
+                    OUT_PATH="runs/10samp/${dataset}/${cv}/${C}C_${K}K/seed${seed}/back-translation"
                     if [[ -d "${OUT_PATH}" ]]; then
                         echo "${OUT_PATH} already exists. Skipping."
                     else
@@ -264,7 +264,7 @@ for cv in 01 02 03 04 05; do
                     # .-----------------------------------------------.
                     # | ProtAugment + Back-Translation - full dataset |
                     # '-----------------------------------------------'
-                    OUT_PATH="runs_consistency/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/back-translation"
+                    OUT_PATH="runs/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/back-translation"
                     if [[ -d "${OUT_PATH}" ]]; then
                         echo "${OUT_PATH} already exists. Skipping."
                     else
@@ -290,7 +290,7 @@ for cv in 01 02 03 04 05; do
                     # .------------------------------.
                     # | Prototypical Network Vanilla |
                     # '------------------------------'
-                    OUT_PATH="runs_consistency/DBS-10samp/${dataset}/${cv}/${C}C_${K}K/seed${seed}/proto-euclidean"
+                    OUT_PATH="runs/10samp/${dataset}/${cv}/${C}C_${K}K/seed${seed}/proto-euclidean"
                     if [[ -d "${OUT_PATH}" ]]; then
                         echo "${OUT_PATH} already exists. Skipping."
                     else
@@ -319,7 +319,7 @@ for cv in 01 02 03 04 05; do
                     # .---------------------------------------------.
                     # | Prototypical Network Vanilla - full dataset |
                     # '---------------------------------------------'
-                    OUT_PATH="runs_consistency/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/proto-euclidean"
+                    OUT_PATH="runs/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/proto-euclidean"
                     if [[ -d "${OUT_PATH}" ]]; then
                         echo "${OUT_PATH} already exists. Skipping."
                     else
@@ -348,7 +348,7 @@ for cv in 01 02 03 04 05; do
                     # .-----------------------------------------------.
                     # | ProtAugment + DBS-unigram-slow - full dataset |
                     # '-----------------------------------------------'
-                    OUT_PATH="runs_consistency/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/DBS_unigram_slow"
+                    OUT_PATH="runs/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/DBS_unigram_slow"
                     if [[ -d "${OUT_PATH}" ]]; then
                         echo "${OUT_PATH} already exists. Skipping."
                     else
@@ -381,7 +381,7 @@ for cv in 01 02 03 04 05; do
                     # .-----------------------------------------------'
                     for auc in 0.7 1.0; do
 
-                        OUT_PATH="runs_consistency/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/DBS_unigram_flat_${auc}"
+                        OUT_PATH="runs/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/DBS_unigram_flat_${auc}"
                         if [[ -d "${OUT_PATH}" ]]; then
                             echo "${OUT_PATH} already exists. Skipping."
                         else
@@ -413,7 +413,7 @@ for cv in 01 02 03 04 05; do
                     # .---------------------------------.
                     # | Full dataset, ProtAugment + DBS |
                     # .---------------------------------'
-                    OUT_PATH="runs_consistency/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/DBS_base"
+                    OUT_PATH="runs/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/DBS_base"
                     if [[ -d "${OUT_PATH}" ]]; then
                         echo "${OUT_PATH} already exists. Skipping."
                     else
@@ -441,7 +441,7 @@ for cv in 01 02 03 04 05; do
                     # .------------------------------------------.
                     # | Full dataset, ProtAugment + DBS - bigram |
                     # .------------------------------------------'
-                    OUT_PATH="runs_consistency/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/DBS_bigram"
+                    OUT_PATH="runs/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/DBS_bigram"
                     if [[ -d "${OUT_PATH}" ]]; then
                         echo "${OUT_PATH} already exists. Skipping."
                     else

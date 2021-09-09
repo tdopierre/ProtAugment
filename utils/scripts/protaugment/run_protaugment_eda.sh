@@ -8,9 +8,6 @@ for cv in 01 02 03 04 05; do
         for C in 5; do
             for K in 1 5; do
                 for dataset in BANKING77 HWU64 OOS Liu; do
-                    # OUTPUT
-                    OUTPUT_ROOT="runs/${dataset}/${cv}/${C}C_${K}K/seed${seed}"
-
                     # --------------------
                     #   Set SLURM params
                     # --------------------
@@ -60,7 +57,7 @@ for cv in 01 02 03 04 05; do
                     # .-------------------.
                     # | ProtAugment - EDA |
                     # '-------------------'
-                    OUTPUT_PATH="${OUTPUT_ROOT}/ProtAugment+EDA-base"
+                    OUTPUT_PATH="runs/10samp/${dataset}/${cv}/${C}C_${K}K/seed${seed}/ProtAugment+EDA-base"
                     if [[ -d "${OUTPUT_PATH}" ]]; then
                         echo "${OUTPUT_PATH} already exists. Skipping."
                     else
@@ -72,6 +69,32 @@ for cv in 01 02 03 04 05; do
                             -o ${LOGS_PATH} \
                             models/proto/protaugment.sh \
                             $(echo ${data_params}) \
+                            $(echo ${few_shot_params}) \
+                            $(echo ${training_params}) \
+                            $(echo ${eda_params}) \
+                            $(echo ${model_params}) \
+                            --output-path "${OUTPUT_PATH}/output"
+                    fi
+
+                    # .----------------------------------.
+                    # | ProtAugment - EDA - full dataset |
+                    # '----------------------------------'
+                    OUTPUT_PATH="runs/full_datasets/${dataset}/${cv}/${C}C_${K}K/seed${seed}/ProtAugment+EDA-base"
+                    if [[ -d "${OUTPUT_PATH}" ]]; then
+                        echo "${OUTPUT_PATH} already exists. Skipping."
+                    else
+                        mkdir -p ${OUTPUT_PATH}
+                        run_name="${OUTPUT_PATH}"
+                        LOGS_PATH="${OUTPUT_PATH}/training.log"
+                        sbatch ${sbatch_params} \
+                            -J ${run_name} \
+                            -o ${LOGS_PATH} \
+                            models/proto/protaugment.sh \
+                            --data-path data/${dataset}/full.jsonl \
+                            --train-labels-path data/${dataset}/few_shot/${cv}/labels.train.txt \
+                            --valid-labels-path data/${dataset}/few_shot/${cv}/labels.valid.txt \
+                            --test-labels-path data/${dataset}/few_shot/${cv}/labels.test.txt \
+                            --unlabeled-path data/${dataset}/raw.txt \
                             $(echo ${few_shot_params}) \
                             $(echo ${training_params}) \
                             $(echo ${eda_params}) \

@@ -3,8 +3,6 @@ import os
 import json
 import numpy as np
 
-ROOT_PATH = "runs_consistency/10samples"
-
 
 def get_score_from_metrics_fp(metrics_fp):
     with open(os.path.join(metrics_fp), "r") as _f:
@@ -33,15 +31,14 @@ def get_score_from_metrics_fp(metrics_fp):
 
 def find_results():
     out = list()
-    for dataset in ("OOS", "Liu", "BANKING77", "HWU64"):
-        # for C in (2, 5):
+    for dataset in ("OOS", "Liu", "BANKING77", "HWU64", "Lara-EN"):
         for C in (5,):
             for K in (1, 5):
                 # DBS
                 for cv in ("01", "02", "03", "04", "05"):
                     for checkpoint_id in (6146,):
                         # for checkpoint_id in (6146, 12292):
-                        dbs_root = f"runs_consistency/DBS-10samp/{dataset}/{cv}/{C}C_{K}K/seed42/paraphrase-checkpoint{checkpoint_id}"
+                        dbs_root = f"runs/10samp/{dataset}/{cv}/{C}C_{K}K/seed42/paraphrase-checkpoint{checkpoint_id}"
 
                         if not os.path.exists(dbs_root):
                             continue
@@ -58,7 +55,7 @@ def find_results():
                                     "cv": cv,
                                     "split": "low"
                                 })
-                    back_translation_path = f"runs_consistency/DBS-10samp/{dataset}/{cv}/{C}C_{K}K/seed42/back-translation/output/metrics.json"
+                    back_translation_path = f"runs/10samp/{dataset}/{cv}/{C}C_{K}K/seed42/back-translation/output/metrics.json"
                     if os.path.exists(back_translation_path):
                         score = get_score_from_metrics_fp(back_translation_path)
                         out.append({
@@ -71,7 +68,20 @@ def find_results():
                             "split": "low"
                         })
 
-                    proto_path = f"runs_consistency/DBS-10samp/{dataset}/{cv}/{C}C_{K}K/seed42/proto-euclidean/output/metrics.json"
+                    eda_path = f"runs/10samp/{dataset}/{cv}/{C}C_{K}K/seed42/ProtAugment+EDA-base/output/metrics.json"
+                    if os.path.exists(eda_path):
+                        score = get_score_from_metrics_fp(eda_path)
+                        out.append({
+                            "score": score,
+                            "dataset": dataset,
+                            "C": C,
+                            "K": K,
+                            "method": f"EDA-base",
+                            "cv": cv,
+                            "split": "low"
+                        })
+
+                    proto_path = f"runs/10samp/{dataset}/{cv}/{C}C_{K}K/seed42/proto-euclidean/output/metrics.json"
                     if os.path.exists(proto_path):
                         score = get_score_from_metrics_fp(proto_path)
                         out.append({
@@ -85,7 +95,7 @@ def find_results():
                         })
 
                     # full dataset
-                    full_root = f"runs_consistency/full_datasets/{dataset}/{cv}/{C}C_{K}K/seed42"
+                    full_root = f"runs/full_datasets/{dataset}/{cv}/{C}C_{K}K/seed42"
                     for d in os.listdir(full_root):
                         run_path = os.path.join(full_root, f"{d}/output")
                         if os.path.exists(os.path.join(run_path, "metrics.json")):
@@ -103,8 +113,7 @@ def find_results():
     import pandas as pd
 
     df = pd.DataFrame(out)
-    print(df.shape)
-    df.to_clipboard(index=False)
+    print(df.to_csv(sep='\t', index=False))
 
 
 if __name__ == "__main__":
